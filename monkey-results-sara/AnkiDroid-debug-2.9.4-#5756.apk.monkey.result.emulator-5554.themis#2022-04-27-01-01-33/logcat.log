@@ -1,0 +1,14 @@
+--------- beginning of main
+--------- beginning of system
+--------- beginning of crash
+04-27 01:01:55.812  1705  1719 W System.err: java.lang.IllegalArgumentException: Given thread 5760 does not exist
+04-27 01:01:55.812  1705  1719 W System.err: 	at android.os.Process.setThreadPriority(Native Method)
+04-27 01:01:55.812  1705  1719 W System.err: 	at com.android.server.am.ActivityManagerService.applyOomAdjLocked(ActivityManagerService.java:20514)
+04-27 01:01:55.812  1705  1719 W System.err: 	at com.android.server.am.ActivityManagerService.updateOomAdjLocked(ActivityManagerService.java:21013)
+04-27 01:01:55.812  1705  1719 W System.err: 	at com.android.server.am.BroadcastQueue.processCurBroadcastLocked(BroadcastQueue.java:272)
+04-27 01:01:55.812  1705  1719 W System.err: 	at com.android.server.am.BroadcastQueue.processNextBroadcast(BroadcastQueue.java:1222)
+04-27 01:01:55.812  1705  1719 W System.err: 	at com.android.server.am.BroadcastQueue$BroadcastHandler.handleMessage(BroadcastQueue.java:172)
+04-27 01:01:55.812  1705  1719 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+04-27 01:01:55.812  1705  1719 W System.err: 	at android.os.Looper.loop(Looper.java:154)
+04-27 01:01:55.812  1705  1719 W System.err: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+04-27 01:01:55.812  1705  1719 W System.err: 	at com.android.server.ServiceThread.run(ServiceThread.java:46)

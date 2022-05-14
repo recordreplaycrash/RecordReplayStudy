@@ -1,0 +1,174 @@
+:Monkey: seed=1651262560469 count=1000000
+:AllowPackage: com.amaze.filemanager
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.306122%
+//   1: 10.204082%
+//   2: 2.0408163%
+//   3: 15.306122%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.510204%
+//   7: 15.306122%
+//   8: -0.0%
+//   9: 2.0408163%
+//   10: 1.0204082%
+//   11: 13.265306%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager/.activities.MainActivity } in package com.amaze.filemanager
+:Sending Touch (ACTION_DOWN): 0:(715.0,8.0)
+:Sending Touch (ACTION_UP): 0:(695.70764,20.168137)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(558.0,1500.0)
+:Sending Touch (ACTION_UP): 0:(499.1043,1510.9032)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    //[calendar_time:2022-04-28 23:39:38.677  system_uptime:1318628]
+    // Sending event #100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager/.activities.MainActivity } in package com.amaze.filemanager
+:Sending Touch (ACTION_DOWN): 0:(850.0,261.0)
+:Sending Touch (ACTION_UP): 0:(857.3678,274.10657)
+:Sending Touch (ACTION_DOWN): 0:(143.0,769.0)
+:Sending Touch (ACTION_UP): 0:(143.9271,770.3397)
+:Sending Touch (ACTION_DOWN): 0:(785.0,426.0)
+:Sending Touch (ACTION_UP): 0:(758.26697,472.5687)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager/.activities.MainActivity } in package com.amaze.filemanager
+:Sending Touch (ACTION_DOWN): 0:(801.0,1638.0)
+:Sending Touch (ACTION_UP): 0:(703.3698,1606.4406)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(297.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(277.79596,1731.3506)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1152.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(1174.4794,1216.514)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2022-04-28 23:39:45.259  system_uptime:1325210]
+    // Sending event #200
+    //[calendar_time:2022-04-28 23:39:45.462  system_uptime:1325413]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(676.0,495.0)
+:Sending Touch (ACTION_UP): 0:(673.088,436.24106)
+:Sending Touch (ACTION_DOWN): 0:(911.0,249.0)
+:Sending Touch (ACTION_UP): 0:(885.3184,238.41306)
+:Sending Touch (ACTION_DOWN): 0:(17.0,405.0)
+:Sending Touch (ACTION_UP): 0:(0.0,360.40063)
+:Sending Touch (ACTION_DOWN): 0:(313.0,7.0)
+:Sending Touch (ACTION_UP): 0:(415.02216,115.617485)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(259.0,1282.0)
+:Sending Touch (ACTION_UP): 0:(266.67398,1272.4242)
+:Sending Touch (ACTION_DOWN): 0:(718.0,1366.0)
+:Sending Touch (ACTION_UP): 0:(780.84625,1324.5397)
+:Sending Touch (ACTION_DOWN): 0:(1139.0,1721.0)
+:Sending Touch (ACTION_UP): 0:(1139.3766,1718.3346)
+:Sending Touch (ACTION_DOWN): 0:(741.0,929.0)
+:Sending Touch (ACTION_UP): 0:(739.1118,924.96124)
+:Sending Touch (ACTION_DOWN): 0:(436.0,456.0)
+:Sending Touch (ACTION_UP): 0:(532.42163,516.62054)
+    //[calendar_time:2022-04-28 23:39:49.548  system_uptime:1329499]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(923.0,1614.0)
+:Sending Touch (ACTION_UP): 0:(942.9568,1596.2598)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager/.activities.MainActivity } in package com.amaze.filemanager
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1161.0,1302.0)
+:Sending Touch (ACTION_UP): 0:(1183.0901,1301.9966)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(156.0,1201.0)
+:Sending Touch (ACTION_UP): 0:(156.82678,1201.2633)
+// CRASH: com.amaze.filemanager (pid 7163)
+// Short Msg: Native crash
+// Long Msg: Native crash: Illegal instruction
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+// Build fingerprint: 'google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys'
+// Revision: '0'
+// ABI: 'x86'
+// pid: 7163, tid: 7163, name: aze.filemanager  >>> com.amaze.filemanager <<<
+// signal 4 (SIGILL), code 2 (ILL_ILLOPN), fault addr 0x916c5890
+//     eax 00000000  ebx 0000000c  ecx 00000001  edx 916c5890
+//     esi 952a888a  edi bfc4ef88
+//     xcs 00000073  xds 0000007b  xes 0000007b  xfs 0000003b  xss 0000007b
+//     eip 916c5890  ebp bfc4edc0  esp bfc4ed60  flags 00010206
+// 
+// backtrace:
+//     #00 pc 00103890  /data/local/tmp/re.frida.server/frida-agent-32.so
+//     #01 pc 0010f2d7  /system/lib/libart.so (art_quick_generic_jni_trampoline+71)
+//     #02 pc 00109262  /system/lib/libart.so (art_quick_invoke_stub+338)
+//     #03 pc 00112d9d  /system/lib/libart.so (_ZN3art9ArtMethod6InvokeEPNS_6ThreadEPjjPNS_6JValueEPKc+237)
+//     #04 pc 0031d596  /system/lib/libart.so (_ZN3art11interpreter34ArtInterpreterToCompiledCodeBridgeEPNS_6ThreadEPNS_9ArtMethodEPKNS_7DexFile8CodeItemEPNS_11ShadowFrameEPNS_6JValueE+294)
+//     #05 pc 00315c1e  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb1EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+1054)
+//     #06 pc 00337e31  /system/lib/libart.so (_ZN3art11interpreterL8DoInvokeILNS_10InvokeTypeE4ELb0ELb1EEEbPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+1761)
+//     #07 pc 00326f29  /system/lib/libart.so (_ZN3art11interpreter17ExecuteSwitchImplILb1ELb0EEENS_6JValueEPNS_6ThreadEPKNS_7DexFile8CodeItemERNS_11ShadowFrameES2_b+37097)
+//     #08 pc 002e6059  /system/lib/libart.so (_ZN3art11interpreterL7ExecuteEPNS_6ThreadEPKNS_7DexFile8CodeItemERNS_11ShadowFrameENS_6JValueEb+937)
+//     #09 pc 002ed6e0  /system/lib/libart.so (_ZN3art11interpreter33ArtInterpreterToInterpreterBridgeEPNS_6ThreadEPKNS_7DexFile8CodeItemEPNS_11ShadowFrameEPNS_6JValueE+192)
+//     #10 pc 0031541b  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+587)
+//     #11 pc 0067b547  /system/lib/libart.so (MterpInvokeSuper+2055)
+//     #12 pc 000fb5a1  /system/lib/libart.so (artMterpAsmInstructionStart+14241)
+//     #13 pc 002e5e98  /system/lib/libart.so (_ZN3art11interpreterL7ExecuteEPNS_6ThreadEPKNS_7DexFile8CodeItemERNS_11ShadowFrameENS_6JValueEb+488)
+//     #14 pc 002ed6e0  /system/lib/libart.so (_ZN3art11interpreter33ArtInterpreterToInterpreterBridgeEPNS_6ThreadEPKNS_7DexFile8CodeItemEPNS_11ShadowFrameEPNS_6JValueE+192)
+//     #15 pc 00315c00  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb1EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+1024)
+//     #16 pc 00337e31  /system/lib/libart.so (_ZN3art11interpreterL8DoInvokeILNS_10InvokeTypeE4ELb0ELb1EEEbPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+1761)
+//     #17 pc 00326f29  /system/lib/libart.so (_ZN3art11interpreter17ExecuteSwitchImplILb1ELb0EEENS_6JValueEPNS_6ThreadEPKNS_7DexFile8CodeItemERNS_11ShadowFrameES2_b+37097)
+//     #18 pc 002e6059  /system/lib/libart.so (_ZN3art11interpreterL7ExecuteEPNS_6ThreadEPKNS_7DexFile8CodeItemERNS_11ShadowFrameENS_6JValueEb+937)
+//     #19 pc 002ed5f0  /system/lib/libart.so (_ZN3art11interpreter30EnterInterpreterFromEntryPointEPNS_6ThreadEPKNS_7DexFile8CodeItemEPNS_11ShadowFrameE+176)
+//     #20 pc 0066cfc9  /system/lib/libart.so (artQuickToInterpreterBridge+1049)
+//     #21 pc 0010f39d  /system/lib/libart.so (art_quick_to_interpreter_bridge+77)
+//     #22 pc 0238be92  /system/framework/x86/boot-framework.oat (offset 0x1585000) (com.android.internal.policy.DecorView.dispatchKeyEvent+398)
+//     #23 pc 020b6172  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent+110)
+//     #24 pc 020b6af5  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$ViewPostImeInputStage.onProcess+225)
+//     #25 pc 020aec04  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.deliver+112)
+//     #26 pc 020aee2e  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.onDeliverToNext+58)
+//     #27 pc 020aedc0  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.forward+44)
+//     #28 pc 020af784  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$AsyncInputStage.forward+80)
+//     #29 pc 020aea4f  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.apply+59)
+//     #30 pc 020af56f  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$AsyncInputStage.apply+91)
+//     #31 pc 020aec17  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.deliver+131)
+//     #32 pc 020aee2e  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.onDeliverToNext+58)
+//     #33 pc 020aedc0  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.forward+44)
+//     #34 pc 020aea4f  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.apply+59)
+//     #35 pc 020aec17  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.deliver+131)
+//     #36 pc 020aee2e  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.onDeliverToNext+58)
+//     #37 pc 020aedc0  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$InputStage.forward+44)
+//     #38 pc 020af8af  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$AsyncInputStage.forward+379)
+//     #39 pc 020b0232  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.ViewRootImpl$ImeInputStage.onFinishedInputEvent+78)
+//     #40 pc 02111ae4  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.inputmethod.InputMethodManager$PendingEvent.run+80)
+//     #41 pc 021150eb  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.inputmethod.InputMethodManager.invokeFinishedInputEventCallback+167)
+//     #42 pc 021140c8  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.inputmethod.InputMethodManager.finishedInputEvent+596)
+//     #43 pc 02111912  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.inputmethod.InputMethodManager$ImeInputEventSender.onInputEventFinished+62)
+//     #44 pc 02046b83  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.view.InputEventSender.dispatchInputEventFinished+47)
+//     #45 pc 00109262  /system/lib/libart.so (art_quick_invoke_stub+338)
+//     #46 pc 00112d9d  /system/lib/libart.so (_ZN3art9ArtMethod6InvokeEPNS_6ThreadEPjjPNS_6JValueEPKc+237)
+//     #47 pc 005105d5  /system/lib/libart.so (_ZN3artL18InvokeWithArgArrayERKNS_33ScopedObjectAccessAlreadyRunnableEPNS_9ArtMethodEPNS_8ArgArrayEPNS_6JValueEPKc+101)
+//     #48 pc 00511dac  /system/lib/libart.so (_ZN3art35InvokeVirtualOrInterfaceWithVarArgsERKNS_33ScopedObjectAccessAlreadyRunnableEP8_jobjectP10_jmethodIDPc+380)
+//     #49 pc 003e36c0  /system/lib/libart.so (_ZN3art3JNI15CallVoidMethodVEP7_JNIEnvP8_jobjectP10_jmethodIDPc+1056)
+//     #50 pc 00140ef1  /system/lib/libart.so (_ZN3art8CheckJNI11CallMethodVEPKcP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcNS_9Primitive4TypeENS_10InvokeTypeE+2241)
+//     #51 pc 0013021c  /system/lib/libart.so (_ZN3art8CheckJNI15CallVoidMethodVEP7_JNIEnvP8_jobjectP10_jmethodIDPc+108)
+//     #52 pc 00078dfb  /system/lib/libandroid_runtime.so (_ZN7_JNIEnv14CallVoidMethodEP8_jobjectP10_jmethodIDz+41)
+//     #53 pc 000bb451  /system/lib/libandroid_runtime.so (_ZN7android22NativeInputEventSender22receiveFinishedSignalsEP7_JNIEnv+257)
+//     #54 pc 000bb652  /system/lib/libandroid_runtime.so (_ZN7android22NativeInputEventSender11handleEventEiiPv+76)
+//     #55 pc 000193f7  /system/lib/libutils.so (_ZN7android6Looper9pollInnerEi+1207)
+//     #56 pc 00018e74  /system/lib/libutils.so (_ZN7android6Looper8pollOnceEiPiS1_PPv+68)
+//     #57 pc 000d43a3  /system/lib/libandroid_runtime.so (_ZN7android18NativeMessageQueue8pollOnceEP7_JNIEnvP8_jobjecti+77)
+//     #58 pc 000d4414  /system/lib/libandroid_runtime.so
+//     #59 pc 01d36f9c  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.os.MessageQueue.nativePollOnce+136)
+//     #60 pc 01d38b53  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.os.MessageQueue.next+223)
+//     #61 pc 01d32f1a  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.os.Looper.loop+342)
+//     #62 pc 0162c365  /system/framework/x86/boot-framework.oat (offset 0x1585000) (android.app.ActivityThread.main+401)
+//     #63 pc 00109432  /system/lib/libart.so (art_quick_invoke_static_stub+418)
+// 
+app_crashcom.amaze.filemanager_2022-04-28_23_39_53.386_.txt:

@@ -1,0 +1,1818 @@
+:Monkey: seed=1651132404410 count=1000000
+:AllowPackage: net.exclaimindustries.geohashdroid
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.306122%
+//   1: 10.204082%
+//   2: 2.0408163%
+//   3: 15.306122%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.510204%
+//   7: 15.306122%
+//   8: -0.0%
+//   9: 2.0408163%
+//   10: 1.0204082%
+//   11: 13.265306%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(99.0,300.0)
+:Sending Touch (ACTION_UP): 0:(90.3678,295.8045)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1184.0,141.0)
+:Sending Touch (ACTION_UP): 0:(1192.1188,143.94589)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(154.0,831.0)
+:Sending Touch (ACTION_UP): 0:(142.25792,853.28754)
+:Sending Touch (ACTION_DOWN): 0:(811.0,816.0)
+:Sending Touch (ACTION_UP): 0:(803.5585,820.0427)
+:Sending Touch (ACTION_DOWN): 0:(17.0,1125.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1073.1289)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+    //[calendar_time:2022-04-27 00:54:19.388  system_uptime:735207]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(935.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(934.2861,1222.6119)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(458.0,934.0)
+:Sending Touch (ACTION_UP): 0:(454.37442,931.4723)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(226.0,1521.0)
+:Sending Touch (ACTION_UP): 0:(218.84558,1524.7756)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,259.0)
+:Sending Touch (ACTION_UP): 0:(1021.6012,244.17026)
+:Sending Touch (ACTION_DOWN): 0:(7.0,228.0)
+:Sending Touch (ACTION_UP): 0:(108.43071,282.1305)
+:Sending Touch (ACTION_DOWN): 0:(878.0,954.0)
+:Sending Touch (ACTION_UP): 0:(821.6655,902.9094)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    //[calendar_time:2022-04-27 00:54:24.516  system_uptime:740335]
+    // Sending event #200
+    //[calendar_time:2022-04-27 00:54:24.716  system_uptime:740536]
+    // Sending event #200
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(322.0,229.0)
+:Sending Touch (ACTION_UP): 0:(341.9692,130.64473)
+:Sending Touch (ACTION_DOWN): 0:(1193.0,1068.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1065.645)
+:Sending Touch (ACTION_DOWN): 0:(958.0,1787.0)
+:Sending Touch (ACTION_UP): 0:(963.6176,1804.1516)
+:Sending Touch (ACTION_DOWN): 0:(381.0,789.0)
+:Sending Touch (ACTION_UP): 0:(444.2245,779.83984)
+:Sending Touch (ACTION_DOWN): 0:(678.0,482.0)
+:Sending Touch (ACTION_UP): 0:(656.39496,518.0142)
+:Sending Touch (ACTION_DOWN): 0:(269.0,486.0)
+:Sending Touch (ACTION_UP): 0:(181.42694,514.1328)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1178.0,1615.0)
+:Sending Touch (ACTION_UP): 0:(1089.351,1596.4298)
+:Sending Touch (ACTION_DOWN): 0:(58.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(52.581985,1360.3844)
+:Sending Touch (ACTION_DOWN): 0:(235.0,1231.0)
+:Sending Touch (ACTION_UP): 0:(252.2933,1172.4403)
+:Sending Touch (ACTION_DOWN): 0:(478.0,1370.0)
+    //[calendar_time:2022-04-27 00:54:29.453  system_uptime:745273]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(477.63678,1361.065)
+:Sending Touch (ACTION_DOWN): 0:(44.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(112.363686,1824.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1155.0,769.0)
+:Sending Touch (ACTION_UP): 0:(1154.781,777.6774)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(97.0,1048.0)
+:Sending Touch (ACTION_UP): 0:(124.77151,992.1573)
+:Sending Touch (ACTION_DOWN): 0:(555.0,1737.0)
+:Sending Touch (ACTION_UP): 0:(485.62598,1817.4102)
+:Sending Touch (ACTION_DOWN): 0:(119.0,1726.0)
+:Sending Touch (ACTION_UP): 0:(119.62563,1728.2712)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2022-04-27 00:54:33.957  system_uptime:749776]
+    // Sending event #400
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(588.0,778.0)
+:Sending Touch (ACTION_UP): 0:(540.7283,849.99457)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(996.0,1121.0)
+:Sending Touch (ACTION_UP): 0:(995.9526,1099.518)
+:Sending Touch (ACTION_DOWN): 0:(158.0,1508.0)
+:Sending Touch (ACTION_UP): 0:(167.38107,1515.4097)
+:Sending Touch (ACTION_DOWN): 0:(1093.0,1140.0)
+:Sending Touch (ACTION_UP): 0:(1094.7693,1140.1401)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(261.0,58.0)
+:Sending Touch (ACTION_UP): 0:(259.24643,60.06805)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(855.0,3.0)
+:Sending Touch (ACTION_UP): 0:(856.53284,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,1768.0)
+:Sending Touch (ACTION_UP): 0:(990.41907,1778.2007)
+:Sending Touch (ACTION_DOWN): 0:(162.0,657.0)
+:Sending Touch (ACTION_UP): 0:(151.51648,635.5476)
+:Sending Touch (ACTION_DOWN): 0:(384.0,827.0)
+:Sending Touch (ACTION_UP): 0:(391.66544,821.2244)
+:Sending Touch (ACTION_DOWN): 0:(159.0,1490.0)
+:Sending Touch (ACTION_UP): 0:(169.49352,1492.2516)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(832.0,1010.0)
+:Sending Touch (ACTION_UP): 0:(832.18243,1016.49817)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+    //[calendar_time:2022-04-27 00:54:41.207  system_uptime:757026]
+    // Sending event #500
+    //[calendar_time:2022-04-27 00:54:41.407  system_uptime:757227]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(54.0,452.0)
+:Sending Touch (ACTION_UP): 0:(42.271114,454.3451)
+:Sending Touch (ACTION_DOWN): 0:(340.0,485.0)
+:Sending Touch (ACTION_UP): 0:(343.44757,484.07892)
+:Sending Touch (ACTION_DOWN): 0:(755.0,221.0)
+:Sending Touch (ACTION_UP): 0:(755.1714,208.94757)
+:Sending Touch (ACTION_DOWN): 0:(1102.0,448.0)
+:Sending Touch (ACTION_UP): 0:(1082.0815,446.91986)
+:Sending Touch (ACTION_DOWN): 0:(483.0,878.0)
+:Sending Touch (ACTION_UP): 0:(472.58453,861.4535)
+:Sending Touch (ACTION_DOWN): 0:(277.0,1201.0)
+:Sending Touch (ACTION_UP): 0:(261.16565,1201.3972)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1079.0,1389.0)
+    //[calendar_time:2022-04-27 00:54:48.083  system_uptime:763903]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(1021.1549,1477.6029)
+:Sending Touch (ACTION_DOWN): 0:(98.0,1259.0)
+:Sending Touch (ACTION_UP): 0:(103.82084,1260.0153)
+:Sending Touch (ACTION_DOWN): 0:(537.0,626.0)
+:Sending Touch (ACTION_UP): 0:(588.10254,692.5249)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(77.0,746.0)
+:Sending Touch (ACTION_UP): 0:(85.08428,746.5683)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(531.0,954.0)
+:Sending Touch (ACTION_UP): 0:(526.5786,937.2758)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(24.0,594.0)
+:Sending Touch (ACTION_UP): 0:(25.696383,579.6494)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(567.0,895.0)
+:Sending Touch (ACTION_UP): 0:(569.77856,895.88055)
+    //[calendar_time:2022-04-27 00:54:52.729  system_uptime:768548]
+    // Sending event #700
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(828.0,1381.0)
+:Sending Touch (ACTION_UP): 0:(872.7299,1390.5397)
+:Sending Touch (ACTION_DOWN): 0:(244.0,904.0)
+:Sending Touch (ACTION_UP): 0:(244.1276,912.4506)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1055.0,274.0)
+:Sending Touch (ACTION_UP): 0:(1055.535,264.23618)
+:Sending Touch (ACTION_DOWN): 0:(714.0,524.0)
+:Sending Touch (ACTION_UP): 0:(711.9589,522.49084)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(226.0,1692.0)
+:Sending Touch (ACTION_UP): 0:(234.27606,1689.8544)
+:Sending Touch (ACTION_DOWN): 0:(1095.0,508.0)
+:Sending Touch (ACTION_UP): 0:(1085.8046,522.5229)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=geo:0,0?q=loc:37.073117300749146,-122.26960493004856(Geohash for April 26, 2022)&z=15 cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Touch (ACTION_DOWN): 0:(736.0,451.0)
+:Sending Touch (ACTION_UP): 0:(735.72064,452.0363)
+:Sending Touch (ACTION_DOWN): 0:(1033.0,641.0)
+:Sending Touch (ACTION_UP): 0:(1018.6668,642.1909)
+    // Allowing start of Intent { cmp=net.exclaimindustries.geohashdroid/.activities.PreferencesScreen } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(50.0,435.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(31.55437,474.88297)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1157.0,1198.0)
+:Sending Touch (ACTION_UP): 0:(1153.3872,1198.5024)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,71.0)
+    //[calendar_time:2022-04-27 00:54:58.864  system_uptime:774683]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(1013.0781,119.33478)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(684.0,327.0)
+:Sending Touch (ACTION_UP): 0:(693.387,311.18396)
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=net.exclaimindustries.geohashdroid/.activities.PreferencesScreen } in package net.exclaimindustries.geohashdroid
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1110.0,618.0)
+:Sending Touch (ACTION_UP): 0:(1132.3179,626.74)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(422.0,1308.0)
+:Sending Touch (ACTION_UP): 0:(500.0322,1355.2806)
+:Sending Touch (ACTION_DOWN): 0:(920.0,758.0)
+:Sending Touch (ACTION_UP): 0:(925.81976,767.3338)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1507.0)
+:Sending Touch (ACTION_UP): 0:(867.00684,1402.2107)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+// NOT RESPONDING: net.exclaimindustries.geohashdroid (pid 5483)
+ANR in net.exclaimindustries.geohashdroid (net.exclaimindustries.geohashdroid/.activities.PreferencesScreen)
+PID: 5483
+Reason: Input dispatching timed out (Waiting to send key event because the focused window has not finished processing all of the input events that were previously delivered to it.  Outbound queue length: 0.  Wait queue length: 1.)
+Load: 1.11 / 0.54 / 0.32
+CPU usage from 750512ms to 0ms ago (2022-04-26 22:26:34.119 to 2022-04-27 00:55:08.035):
+  4% 1705/system_server: 1.8% user + 2.2% kernel / faults: 87643 minor 99 major
+  2.8% 1348/surfaceflinger: 0.4% user + 2.3% kernel / faults: 66 minor
+  0.9% 1858/com.google.android.gms.persistent: 0.6% user + 0.3% kernel / faults: 31904 minor 322 major
+  0.6% 1403/audioserver: 0.1% user + 0.5% kernel / faults: 2228 minor
+  0.3% 2263/com.google.android.googlequicksearchbox:search: 0.2% user + 0.1% kernel / faults: 17747 minor 13 major
+  0.3% 2182/com.google.android.apps.nexuslauncher: 0.1% user + 0.1% kernel / faults: 12176 minor 2 major
+  0.3% 1792/com.android.systemui: 0.1% user + 0.1% kernel / faults: 6494 minor
+  0.2% 3/ksoftirqd/0: 0% user + 0.2% kernel
+  0.2% 1413/rild: 0% user + 0.2% kernel
+  0.2% 2311/com.google.process.gapps: 0.1% user + 0.1% kernel / faults: 9255 minor
+  0.1% 704/kworker/u8:2: 0% user + 0.1% kernel
+  0.1% 1891/com.android.phone: 0% user + 0% kernel / faults: 1924 minor 13 major
+  0.1% 1294/logd: 0% user + 0.1% kernel / faults: 210 minor
+  0.1% 1774/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 6114 minor 4 major
+  0.1% 25/kworker/u8:1: 0% user + 0.1% kernel
+  0% 8/rcu_preempt: 0% user + 0% kernel
+  0% 1371/kworker/u9:0: 0% user + 0% kernel
+  0% 1385/kworker/u9:1: 0% user + 0% kernel
+  0% 1388/kworker/u9:3: 0% user + 0% kernel
+  0% 1389/kworker/u9:4: 0% user + 0% kernel
+  0% 1346/lmkd: 0% user + 0% kernel / faults: 1 minor
+  0% 1402/zygote: 0% user + 0% kernel / faults: 9976 minor
+  0% 1359/logcat: 0% user + 0% kernel / faults: 5 minor
+  0% 1373/dmcrypt_write: 0% user + 0% kernel
+  0% 1347/servicemanager: 0% user + 0% kernel / faults: 21 minor
+  0% 1393/jbd2/dm-0-8: 0% user + 0% kernel
+  0% 1286/kworker/3:1H: 0% user + 0% kernel
+  0% 1925/wpa_supplicant: 0% user + 0% kernel / faults: 53 minor
+  0% 12/ksoftirqd/1: 0% user + 0% kernel
+  0% 1290/kworker/2:1H: 0% user + 0% kernel
+  0% 1412/netd: 0% user + 0% kernel / faults: 2970 minor
+  0% 1781/sdcard: 0% user + 0% kernel / faults: 24 minor
+  0% 16/ksoftirqd/2: 0% user + 0% kernel
+  0% 1677/dhcpclient: 0% user + 0% kernel
+  0% 1343/healthd: 0% user + 0% kernel
+  0% 1872/sdcard: 0% user + 0% kernel / faults: 23 minor
+  0% 17/kworker/2:0: 0% user + 0% kernel
+  0% 1404/cameraserver: 0% user + 0% kernel / faults: 67 minor
+  0% 583/kswapd0: 0% user + 0% kernel
+  0% 691/kworker/3:1: 0% user + 0% kernel
+  0% 20/ksoftirqd/3: 0% user + 0% kernel
+  0% 1296/vold: 0% user + 0% kernel / faults: 45 minor
+  0% 1406/installd: 0% user + 0% kernel / faults: 132 minor
+  0% 1415/fingerprintd: 0% user + 0% kernel / faults: 38 minor 1 major
+  0% 1693/hostapd: 0% user + 0% kernel / faults: 46 minor
+  0% 1//init: 0% user + 0% kernel / faults: 22 minor
+  0% 888/kworker/3:2: 0% user + 0% kernel
+  0% 1407/keystore: 0% user + 0% kernel / faults: 137 minor
+  0% 1411/mediaserver: 0% user + 0% kernel / faults: 6 minor
+  0% 1686/ipv6proxy: 0% user + 0% kernel
+  0% 2101/com.google.android.ext.services: 0% user + 0% kernel / faults: 25 minor
+ +0% 2459/com.google.android.gms: 0% user + 0% kernel
+ +0% 3652/adbd: 0% user + 0% kernel
+ +0% 3687/frida-server: 0% user + 0% kernel
+ +0% 3729/android.process.acore: 0% user + 0% kernel
+ +0% 4192/kworker/2:2: 0% user + 0% kernel
+ +0% 4193/kworker/0:2: 0% user + 0% kernel
+ +0% 4464/com.google.android.calendar: 0% user + 0% kernel
+ +0% 4528/com.google.android.talk: 0% user + 0% kernel
+ +0% 4858/kworker/u8:3: 0% user + 0% kernel
+ +0% 4871/kworker/1:1: 0% user + 0% kernel
+ +0% 4872/com.google.android.packageinstaller: 0% user + 0% kernel
+ +0% 5013/com.android.printspooler: 0% user + 0% kernel
+ +0% 5082/kworker/3:0: 0% user + 0% kernel
+ +0% 5083/com.android.defcontainer: 0% user + 0% kernel
+ +0% 5104/com.android.gallery3d: 0% user + 0% kernel
+ +0% 5137/com.google.android.partnersetup: 0% user + 0% kernel
+ +0% 5225/com.google.android.deskclock: 0% user + 0% kernel
+ +0% 5239/com.android.providers.calendar: 0% user + 0% kernel
+ +0% 5261/kworker/u9:2: 0% user + 0% kernel
+ +0% 5317/com.android.keychain: 0% user + 0% kernel
+ +0% 5342/com.android.documentsui: 0% user + 0% kernel
+ +0% 5371/android.process.media: 0% user + 0% kernel
+ +0% 5400/com.google.android.gms.unstable: 0% user + 0% kernel
+ +0% 5444/kworker/2:1: 0% user + 0% kernel
+ +0% 5445/kworker/0:1: 0% user + 0% kernel
+ +0% 5483/net.exclaimindustries.geohashdroid: 0% user + 0% kernel
+ +0% 5582/frida-helper-32: 0% user + 0% kernel
+ +0% 5601/logcat: 0% user + 0% kernel
+ +0% 5606/com.android.commands.monkey: 0% user + 0% kernel
+ +0% 5630/com.android.chrome: 0% user + 0% kernel
+ +0% 5644/com.google.android.music:main: 0% user + 0% kernel
+5.4% TOTAL: 1.6% user + 1.6% kernel + 1.9% iowait + 0% irq + 0.1% softirq
+CPU usage from 2474ms to 3009ms later (2022-04-27 00:55:10.508 to 2022-04-27 00:55:11.043):
+  17% 1348/surfaceflinger: 3.8% user + 13% kernel
+    11% 1348/surfaceflinger: 3.8% user + 7.6% kernel
+    3.8% 1378/DispSync: 0% user + 3.8% kernel
+    1.9% 1380/EventThread: 0% user + 1.9% kernel
+    1.9% 1382/EventThread: 0% user + 1.9% kernel
+    1.9% 1697/Binder:1348_3: 0% user + 1.9% kernel
+  17% 1705/system_server: 11% user + 5.8% kernel / faults: 177 minor
+    5.8% 1719/ActivityManager: 1.9% user + 3.8% kernel
+    3.8% 1715/HeapTaskDaemon: 3.8% user + 0% kernel
+    1.9% 1734/SensorService: 1.9% user + 0% kernel
+    1.9% 1742/InputDispatcher: 0% user + 1.9% kernel
+  16% 5483/net.exclaimindustries.geohashdroid: 13% user + 3.7% kernel / faults: 48 minor
+    9.4% 5483/es.geohashdroid: 9.4% user + 0% kernel
+    3.7% 5528/RenderThread: 0% user + 3.7% kernel
+    3.7% 5587/es.geohashdroid: 3.7% user + 0% kernel
+  3.7% 3652/adbd: 0% user + 3.7% kernel / faults: 179 minor
+  1.9% 1403/audioserver: 0% user + 1.9% kernel
+    1.9% 1429/FastMixer: 0% user + 1.9% kernel
+  1.8% 3687/frida-server: 1.8% user + 0% kernel / faults: 1 minor
+    1.8% 3687/frida-server: 1.8% user + 0% kernel
+    1.8% 5581/gdbus: 0% user + 1.8% kernel
+  1.6% 4871/kworker/1:1: 0% user + 1.6% kernel
+10% TOTAL: 5% user + 4% kernel + 1% softirq
+
+procrank:
+// procrank status was 0
+anr_net.exclaimindustries.geohashdroid_2022-04-27_00_55_11.779_.txt:
+// anr_net.exclaimindustries.geohashdroid_2022-04-27_00_55_11.779_.txt status was 0
+anr traces:
+// anr traces status was 0
+meminfo:
+// meminfo status was 0
+:Sending Touch (ACTION_DOWN): 0:(1048.0,111.0)
+:Sending Touch (ACTION_UP): 0:(986.1915,104.02869)
+:Sending Touch (ACTION_DOWN): 0:(7.0,884.0)
+:Sending Touch (ACTION_UP): 0:(0.0,884.8788)
+    //[calendar_time:2022-04-27 00:55:33.926  system_uptime:809745]
+    // Sending event #900
+    //[calendar_time:2022-04-27 00:55:34.126  system_uptime:809946]
+    // Sending event #900
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(70.0,459.0)
+:Sending Touch (ACTION_UP): 0:(103.62641,337.95197)
+:Sending Touch (ACTION_DOWN): 0:(5.0,1602.0)
+:Sending Touch (ACTION_UP): 0:(22.878633,1551.1747)
+:Sending Touch (ACTION_DOWN): 0:(589.0,456.0)
+:Sending Touch (ACTION_UP): 0:(576.5821,468.81158)
+:Sending Touch (ACTION_DOWN): 0:(254.0,1113.0)
+:Sending Touch (ACTION_UP): 0:(289.38354,1234.8606)
+:Sending Touch (ACTION_DOWN): 0:(642.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(641.94305,1676.467)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1115.0,1211.0)
+:Sending Touch (ACTION_UP): 0:(1119.8873,1208.5039)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(454.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(450.97333,1084.8832)
+:Sending Touch (ACTION_DOWN): 0:(664.0,933.0)
+:Sending Touch (ACTION_UP): 0:(645.335,935.6497)
+    //[calendar_time:2022-04-27 00:55:40.765  system_uptime:816584]
+    // Sending event #1000
+    //[calendar_time:2022-04-27 00:55:40.965  system_uptime:816785]
+    // Sending event #1000
+:Sending Touch (ACTION_DOWN): 0:(492.0,1077.0)
+:Sending Touch (ACTION_UP): 0:(489.6502,1069.4532)
+:Sending Touch (ACTION_DOWN): 0:(189.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(181.60223,1147.3372)
+:Sending Touch (ACTION_DOWN): 0:(34.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(65.57492,1254.0708)
+:Sending Touch (ACTION_DOWN): 0:(1154.0,310.0)
+:Sending Touch (ACTION_UP): 0:(1178.5559,193.60213)
+:Sending Touch (ACTION_DOWN): 0:(196.0,289.0)
+:Sending Touch (ACTION_UP): 0:(176.86363,248.41806)
+:Sending Touch (ACTION_DOWN): 0:(71.0,448.0)
+:Sending Touch (ACTION_UP): 0:(135.43552,531.25745)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(644.0,309.0)
+:Sending Touch (ACTION_UP): 0:(626.603,366.14807)
+:Sending Touch (ACTION_DOWN): 0:(458.0,1669.0)
+:Sending Touch (ACTION_UP): 0:(448.7796,1675.7981)
+:Sending Touch (ACTION_DOWN): 0:(717.0,1573.0)
+:Sending Touch (ACTION_UP): 0:(711.2163,1576.7023)
+:Sending Touch (ACTION_DOWN): 0:(895.0,1318.0)
+:Sending Touch (ACTION_UP): 0:(834.0295,1358.0527)
+    //[calendar_time:2022-04-27 00:55:46.811  system_uptime:822630]
+    // Sending event #1100
+    //[calendar_time:2022-04-27 00:55:47.011  system_uptime:822831]
+    // Sending event #1100
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(782.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(788.3589,1325.0895)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(399.0,420.0)
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(420.34827,443.91605)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1027.0,1756.0)
+:Sending Touch (ACTION_UP): 0:(1027.967,1766.0885)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,950.0)
+:Sending Touch (ACTION_UP): 0:(1073.3394,953.30505)
+:Sending Touch (ACTION_DOWN): 0:(215.0,1374.0)
+:Sending Touch (ACTION_UP): 0:(216.3099,1374.0468)
+:Sending Touch (ACTION_DOWN): 0:(100.0,993.0)
+:Sending Touch (ACTION_UP): 0:(97.9792,986.513)
+:Sending Touch (ACTION_DOWN): 0:(817.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(698.718,1607.7096)
+:Sending Touch (ACTION_DOWN): 0:(287.0,897.0)
+:Sending Touch (ACTION_UP): 0:(278.92474,895.3052)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(195.0,16.0)
+:Sending Touch (ACTION_UP): 0:(195.38399,22.716488)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2022-04-27 00:55:52.745  system_uptime:828564]
+    // Sending event #1200
+:Sending Touch (ACTION_DOWN): 0:(565.0,294.0)
+:Sending Touch (ACTION_UP): 0:(561.8064,277.4491)
+:Sending Touch (ACTION_DOWN): 0:(840.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(839.4443,1765.2278)
+:Sending Touch (ACTION_DOWN): 0:(1136.0,695.0)
+:Sending Touch (ACTION_UP): 0:(1116.2262,699.2386)
+:Sending Touch (ACTION_DOWN): 0:(713.0,1513.0)
+:Sending Touch (ACTION_UP): 0:(708.5477,1504.5975)
+:Sending Touch (ACTION_DOWN): 0:(32.0,439.0)
+:Sending Touch (ACTION_UP): 0:(4.460577,458.2657)
+:Sending Touch (ACTION_DOWN): 0:(157.0,52.0)
+:Sending Touch (ACTION_UP): 0:(159.79681,51.07665)
+:Sending Touch (ACTION_DOWN): 0:(15.0,349.0)
+:Sending Touch (ACTION_UP): 0:(20.564018,351.47318)
+:Sending Touch (ACTION_DOWN): 0:(13.0,496.0)
+:Sending Touch (ACTION_UP): 0:(9.523486,477.06958)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(630.0,571.0)
+:Sending Touch (ACTION_UP): 0:(630.6182,573.9062)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(687.0,913.0)
+:Sending Touch (ACTION_UP): 0:(688.0612,912.79236)
+:Sending Touch (ACTION_DOWN): 0:(1196.0,705.0)
+:Sending Touch (ACTION_UP): 0:(1196.626,699.56024)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1143.0,1311.0)
+:Sending Touch (ACTION_UP): 0:(1161.8513,1314.2811)
+:Sending Touch (ACTION_DOWN): 0:(582.0,909.0)
+:Sending Touch (ACTION_UP): 0:(601.52655,910.3136)
+:Sending Touch (ACTION_DOWN): 0:(179.0,1228.0)
+:Sending Touch (ACTION_UP): 0:(174.64928,1260.1462)
+    //[calendar_time:2022-04-27 00:55:58.414  system_uptime:834233]
+    // Sending event #1300
+    //[calendar_time:2022-04-27 00:55:58.616  system_uptime:834435]
+    // Sending event #1300
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(157.0,1638.0)
+:Sending Touch (ACTION_UP): 0:(164.18633,1647.4371)
+:Sending Touch (ACTION_DOWN): 0:(28.0,581.0)
+:Sending Touch (ACTION_UP): 0:(10.231557,573.884)
+:Sending Touch (ACTION_DOWN): 0:(311.0,336.0)
+:Sending Touch (ACTION_UP): 0:(269.68246,298.98306)
+:Sending Touch (ACTION_DOWN): 0:(140.0,1359.0)
+:Sending Touch (ACTION_UP): 0:(221.92282,1264.6642)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(716.0,1668.0)
+:Sending Touch (ACTION_UP): 0:(733.7733,1666.8661)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(428.0,1034.0)
+:Sending Touch (ACTION_UP): 0:(428.28802,1041.4908)
+:Sending Touch (ACTION_DOWN): 0:(116.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(115.81369,1099.3685)
+:Sending Touch (ACTION_DOWN): 0:(903.0,41.0)
+:Sending Touch (ACTION_UP): 0:(908.0566,35.553406)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2022-04-27 00:56:03.976  system_uptime:839796]
+    // Sending event #1400
+:Sending Touch (ACTION_DOWN): 0:(466.0,548.0)
+:Sending Touch (ACTION_UP): 0:(463.16943,543.3519)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,633.0)
+:Sending Touch (ACTION_UP): 0:(1056.7701,637.145)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(801.0,1611.0)
+:Sending Touch (ACTION_UP): 0:(785.50354,1624.096)
+:Sending Touch (ACTION_DOWN): 0:(275.0,298.0)
+:Sending Touch (ACTION_UP): 0:(254.51854,286.22458)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2022-04-27 00:56:09.167  system_uptime:844987]
+    // Sending event #1500
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(819.0,853.0)
+:Sending Touch (ACTION_UP): 0:(827.29553,856.3041)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1027.0,1072.0)
+:Sending Touch (ACTION_UP): 0:(1040.4847,1068.4608)
+:Sending Touch (ACTION_DOWN): 0:(972.0,461.0)
+:Sending Touch (ACTION_UP): 0:(1018.62146,507.27386)
+:Sending Touch (ACTION_DOWN): 0:(841.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(859.35846,1086.0082)
+:Sending Touch (ACTION_DOWN): 0:(1083.0,574.0)
+:Sending Touch (ACTION_UP): 0:(1077.4359,574.2162)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    //[calendar_time:2022-04-27 00:56:12.511  system_uptime:848330]
+    // Sending event #1600
+:Sending Touch (ACTION_DOWN): 0:(286.0,1556.0)
+:Sending Touch (ACTION_UP): 0:(304.09604,1557.6133)
+:Sending Touch (ACTION_DOWN): 0:(623.0,1757.0)
+:Sending Touch (ACTION_UP): 0:(597.7677,1743.3273)
+:Sending Touch (ACTION_DOWN): 0:(513.0,795.0)
+:Sending Touch (ACTION_UP): 0:(512.77325,797.0941)
+:Sending Touch (ACTION_DOWN): 0:(615.0,1814.0)
+:Sending Touch (ACTION_UP): 0:(667.3026,1787.5048)
+:Sending Touch (ACTION_DOWN): 0:(633.0,628.0)
+:Sending Touch (ACTION_UP): 0:(638.0172,623.3458)
+:Sending Flip keyboardOpen=true
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(239.0,1770.0)
+:Sending Touch (ACTION_UP): 0:(245.28262,1770.428)
+:Sending Touch (ACTION_DOWN): 0:(772.0,254.0)
+:Sending Touch (ACTION_UP): 0:(755.33734,306.01276)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(73.0,1788.0)
+:Sending Touch (ACTION_UP): 0:(132.61728,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(967.0,454.0)
+:Sending Touch (ACTION_UP): 0:(954.3285,453.22345)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(605.0,1405.0)
+:Sending Touch (ACTION_UP): 0:(608.76514,1416.8922)
+:Sending Touch (ACTION_DOWN): 0:(951.0,1101.0)
+    //[calendar_time:2022-04-27 00:56:17.929  system_uptime:853748]
+    // Sending event #1700
+:Sending Touch (ACTION_UP): 0:(880.7495,1086.9484)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1126.0,366.0)
+:Sending Touch (ACTION_UP): 0:(1124.3336,364.35065)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1199.0,116.0)
+:Sending Touch (ACTION_UP): 0:(1197.8367,128.72018)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(920.0,325.0)
+:Sending Touch (ACTION_UP): 0:(891.4899,377.69498)
+:Sending Touch (ACTION_DOWN): 0:(1016.0,174.0)
+:Sending Touch (ACTION_UP): 0:(976.5041,82.73436)
+:Sending Touch (ACTION_DOWN): 0:(620.0,832.0)
+:Sending Touch (ACTION_UP): 0:(598.1091,869.61066)
+:Sending Touch (ACTION_DOWN): 0:(729.0,1534.0)
+    //[calendar_time:2022-04-27 00:56:20.326  system_uptime:856145]
+    // Sending event #1800
+:Sending Touch (ACTION_UP): 0:(768.03467,1429.291)
+:Sending Touch (ACTION_DOWN): 0:(683.0,1725.0)
+:Sending Touch (ACTION_UP): 0:(672.72266,1716.2222)
+:Sending Touch (ACTION_DOWN): 0:(1092.0,184.0)
+:Sending Touch (ACTION_UP): 0:(1057.7087,159.90646)
+:Sending Touch (ACTION_DOWN): 0:(86.0,924.0)
+:Sending Touch (ACTION_UP): 0:(102.14651,911.63165)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(669.0,817.0)
+:Sending Touch (ACTION_UP): 0:(662.7733,811.7435)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(820.0,1430.0)
+:Sending Touch (ACTION_UP): 0:(853.94916,1312.9468)
+:Sending Touch (ACTION_DOWN): 0:(670.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(659.9092,1653.9791)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(866.0,1775.0)
+:Sending Touch (ACTION_UP): 0:(928.12463,1715.2389)
+    //[calendar_time:2022-04-27 00:56:24.488  system_uptime:860307]
+    // Sending event #1900
+    //[calendar_time:2022-04-27 00:56:24.688  system_uptime:860507]
+    // Sending event #1900
+:Sending Touch (ACTION_DOWN): 0:(819.0,16.0)
+:Sending Touch (ACTION_UP): 0:(812.1495,75.1489)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(775.0,709.0)
+:Sending Touch (ACTION_UP): 0:(780.3631,694.1472)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(998.0,145.0)
+:Sending Touch (ACTION_UP): 0:(988.60376,136.17314)
+:Sending Touch (ACTION_DOWN): 0:(1142.0,1231.0)
+:Sending Touch (ACTION_UP): 0:(1146.5469,1246.0785)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(920.0,1702.0)
+:Sending Touch (ACTION_UP): 0:(957.3483,1746.7764)
+:Sending Touch (ACTION_DOWN): 0:(361.0,1670.0)
+    //[calendar_time:2022-04-27 00:56:28.538  system_uptime:864357]
+    // Sending event #2000
+:Sending Touch (ACTION_UP): 0:(354.67868,1724.3723)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(653.0,102.0)
+:Sending Touch (ACTION_UP): 0:(653.94275,115.98979)
+:Sending Touch (ACTION_DOWN): 0:(33.0,199.0)
+:Sending Touch (ACTION_UP): 0:(32.843742,195.20796)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,1083.0)
+:Sending Touch (ACTION_UP): 0:(995.1426,1126.8813)
+:Sending Touch (ACTION_DOWN): 0:(466.0,1257.0)
+:Sending Touch (ACTION_UP): 0:(541.107,1266.1566)
+:Sending Touch (ACTION_DOWN): 0:(562.0,1693.0)
+:Sending Touch (ACTION_UP): 0:(590.6555,1711.5756)
+:Sending Touch (ACTION_DOWN): 0:(782.0,1253.0)
+:Sending Touch (ACTION_UP): 0:(837.3598,1262.7273)
+:Sending Touch (ACTION_DOWN): 0:(735.0,806.0)
+:Sending Touch (ACTION_UP): 0:(714.38446,820.5224)
+:Sending Touch (ACTION_DOWN): 0:(584.0,1762.0)
+:Sending Touch (ACTION_UP): 0:(603.72565,1772.6489)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(12.0,196.0)
+:Sending Touch (ACTION_UP): 0:(12.863057,184.45969)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(703.0,1800.0)
+:Sending Touch (ACTION_UP): 0:(700.0176,1783.9807)
+:Sending Flip keyboardOpen=false
+    //[calendar_time:2022-04-27 00:56:34.430  system_uptime:870249]
+    // Sending event #2100
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1124.0,249.0)
+:Sending Touch (ACTION_UP): 0:(1052.6085,170.09328)
+:Sending Touch (ACTION_DOWN): 0:(60.0,582.0)
+:Sending Touch (ACTION_UP): 0:(63.40292,583.1319)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(198.0,209.0)
+:Sending Touch (ACTION_UP): 0:(166.50333,286.18024)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    //[calendar_time:2022-04-27 00:56:38.102  system_uptime:873922]
+    // Sending event #2200
+:Sending Touch (ACTION_DOWN): 0:(1166.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(1168.4257,1028.916)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(923.0,435.0)
+:Sending Touch (ACTION_UP): 0:(919.01385,443.99576)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(678.0,70.0)
+:Sending Touch (ACTION_UP): 0:(668.01013,74.11399)
+:Sending Touch (ACTION_DOWN): 0:(140.0,604.0)
+:Sending Touch (ACTION_UP): 0:(120.737854,597.19037)
+:Sending Touch (ACTION_DOWN): 0:(1054.0,427.0)
+:Sending Touch (ACTION_UP): 0:(1049.5604,428.87137)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(697.0,1246.0)
+:Sending Touch (ACTION_UP): 0:(697.06964,1249.3257)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(831.0,903.0)
+:Sending Touch (ACTION_UP): 0:(798.9023,949.93164)
+    //[calendar_time:2022-04-27 00:56:43.730  system_uptime:879550]
+    // Sending event #2300
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1090.0,16.0)
+:Sending Touch (ACTION_UP): 0:(1075.9927,6.697206)
+:Sending Touch (ACTION_DOWN): 0:(610.0,436.0)
+:Sending Touch (ACTION_UP): 0:(608.49756,434.78006)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(68.0,1543.0)
+:Sending Touch (ACTION_UP): 0:(68.09141,1541.7792)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(998.0,262.0)
+:Sending Touch (ACTION_UP): 0:(997.93427,271.24805)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    //[calendar_time:2022-04-27 00:56:48.298  system_uptime:884117]
+    // Sending event #2400
+:Sending Touch (ACTION_DOWN): 0:(1175.0,208.0)
+:Sending Touch (ACTION_UP): 0:(1175.7721,213.21936)
+:Sending Touch (ACTION_DOWN): 0:(605.0,756.0)
+:Sending Touch (ACTION_UP): 0:(613.69946,745.95074)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(164.0,1257.0)
+:Sending Touch (ACTION_UP): 0:(152.03694,1257.2086)
+:Sending Touch (ACTION_DOWN): 0:(58.0,1071.0)
+:Sending Touch (ACTION_UP): 0:(136.69043,1102.3546)
+:Sending Touch (ACTION_DOWN): 0:(704.0,798.0)
+:Sending Touch (ACTION_UP): 0:(673.47406,725.347)
+:Sending Touch (ACTION_DOWN): 0:(1138.0,809.0)
+:Sending Touch (ACTION_UP): 0:(1142.9954,809.30035)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+    //[calendar_time:2022-04-27 00:56:55.040  system_uptime:890859]
+    // Sending event #2500
+:Sending Touch (ACTION_DOWN): 0:(1015.0,959.0)
+:Sending Touch (ACTION_UP): 0:(987.34717,915.1586)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(58.0,1712.0)
+:Sending Touch (ACTION_UP): 0:(27.186134,1689.8915)
+:Sending Touch (ACTION_DOWN): 0:(1187.0,992.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,992.76697)
+:Sending Touch (ACTION_DOWN): 0:(874.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(896.27795,988.32385)
+:Sending Touch (ACTION_DOWN): 0:(53.0,912.0)
+:Sending Touch (ACTION_UP): 0:(80.22099,947.78534)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(968.0,1435.0)
+:Sending Touch (ACTION_UP): 0:(954.16797,1454.4921)
+:Sending Touch (ACTION_DOWN): 0:(629.0,1053.0)
+    //[calendar_time:2022-04-27 00:56:58.790  system_uptime:894609]
+    // Sending event #2600
+:Sending Touch (ACTION_UP): 0:(651.47974,1011.08777)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(842.0,1417.0)
+:Sending Touch (ACTION_UP): 0:(809.38873,1352.2269)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1053.0,1736.0)
+:Sending Touch (ACTION_UP): 0:(1050.9243,1732.0037)
+:Sending Touch (ACTION_DOWN): 0:(514.0,570.0)
+:Sending Touch (ACTION_UP): 0:(517.26605,569.90326)
+:Sending Touch (ACTION_DOWN): 0:(722.0,801.0)
+:Sending Touch (ACTION_UP): 0:(716.03436,800.62427)
+    //[calendar_time:2022-04-27 00:57:03.012  system_uptime:898831]
+    // Sending event #2700
+    //[calendar_time:2022-04-27 00:57:03.212  system_uptime:899032]
+    // Sending event #2700
+:Sending Touch (ACTION_DOWN): 0:(1197.0,1235.0)
+:Sending Touch (ACTION_UP): 0:(1178.5405,1232.817)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(506.0,1455.0)
+:Sending Touch (ACTION_UP): 0:(505.14014,1455.0271)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(844.0,101.0)
+:Sending Touch (ACTION_UP): 0:(835.8104,101.56232)
+:Sending Touch (ACTION_DOWN): 0:(575.0,302.0)
+:Sending Touch (ACTION_UP): 0:(575.71356,297.39905)
+:Sending Touch (ACTION_DOWN): 0:(1188.0,684.0)
+:Sending Touch (ACTION_UP): 0:(1188.2834,677.27716)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(634.0,466.0)
+:Sending Touch (ACTION_UP): 0:(626.4381,458.49744)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+    //[calendar_time:2022-04-27 00:57:07.984  system_uptime:903804]
+    // Sending event #2800
+:Sending Touch (ACTION_DOWN): 0:(1003.0,1492.0)
+:Sending Touch (ACTION_UP): 0:(1013.3011,1496.1115)
+:Sending Touch (ACTION_DOWN): 0:(610.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(602.9008,1650.5936)
+:Sending Touch (ACTION_DOWN): 0:(95.0,886.0)
+:Sending Touch (ACTION_UP): 0:(94.017624,886.4015)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(490.0,1211.0)
+:Sending Touch (ACTION_UP): 0:(496.978,1210.0663)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1048.0,1511.0)
+:Sending Touch (ACTION_UP): 0:(1086.4191,1486.5623)
+:Sending Touch (ACTION_DOWN): 0:(304.0,1480.0)
+:Sending Touch (ACTION_UP): 0:(291.89017,1466.0804)
+:Sending Touch (ACTION_DOWN): 0:(1159.0,44.0)
+:Sending Touch (ACTION_UP): 0:(1156.6847,36.39591)
+:Sending Touch (ACTION_DOWN): 0:(720.0,741.0)
+:Sending Touch (ACTION_UP): 0:(702.4385,734.0802)
+:Sending Touch (ACTION_DOWN): 0:(842.0,1471.0)
+:Sending Touch (ACTION_UP): 0:(842.80206,1473.4209)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(550.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(547.0357,1063.3511)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2022-04-27 00:57:14.962  system_uptime:910782]
+    // Sending event #2900
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    // activityResuming(net.exclaimindustries.geohashdroid)
+:Sending Touch (ACTION_DOWN): 0:(252.0,382.0)
+:Sending Touch (ACTION_UP): 0:(200.37337,433.38504)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(37.0,1809.0)
+:Sending Touch (ACTION_UP): 0:(57.630085,1773.7778)
+    // activityResuming(net.exclaimindustries.geohashdroid)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    //[calendar_time:2022-04-27 00:57:18.407  system_uptime:914227]
+    // Sending event #3000
+:Sending Touch (ACTION_DOWN): 0:(1116.0,626.0)
+:Sending Touch (ACTION_UP): 0:(1134.6565,612.0188)
+:Sending Touch (ACTION_DOWN): 0:(21.0,770.0)
+:Sending Touch (ACTION_UP): 0:(34.24749,757.19946)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(774.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(792.2981,1523.6229)
+:Sending Touch (ACTION_DOWN): 0:(58.0,1549.0)
+:Sending Touch (ACTION_UP): 0:(59.21709,1547.2955)
+:Sending Touch (ACTION_DOWN): 0:(1139.0,908.0)
+:Sending Touch (ACTION_UP): 0:(1135.1287,904.85095)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(320.0,263.0)
+:Sending Touch (ACTION_UP): 0:(327.14108,268.35654)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2022-04-27 00:57:23.118  system_uptime:918937]
+    // Sending event #3100
+:Sending Touch (ACTION_DOWN): 0:(879.0,200.0)
+:Sending Touch (ACTION_UP): 0:(873.00397,193.50626)
+:Sending Touch (ACTION_DOWN): 0:(343.0,237.0)
+:Sending Touch (ACTION_UP): 0:(345.5105,237.00723)
+:Sending Touch (ACTION_DOWN): 0:(342.0,1444.0)
+:Sending Touch (ACTION_UP): 0:(385.37564,1488.9158)
+:Sending Touch (ACTION_DOWN): 0:(1118.0,894.0)
+:Sending Touch (ACTION_UP): 0:(1116.5819,899.41113)
+:Sending Touch (ACTION_DOWN): 0:(552.0,1507.0)
+:Sending Touch (ACTION_UP): 0:(536.6613,1562.2739)
+:Sending Touch (ACTION_DOWN): 0:(300.0,926.0)
+:Sending Touch (ACTION_UP): 0:(363.86945,1025.9281)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(178.0,1614.0)
+:Sending Touch (ACTION_UP): 0:(177.4313,1621.322)
+:Sending Touch (ACTION_DOWN): 0:(318.0,852.0)
+:Sending Touch (ACTION_UP): 0:(314.6814,844.21185)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,413.0)
+:Sending Touch (ACTION_UP): 0:(1067.9049,409.6348)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(797.0,1069.0)
+:Sending Touch (ACTION_UP): 0:(806.0511,1050.5605)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(734.0,1700.0)
+:Sending Touch (ACTION_UP): 0:(706.42926,1753.1523)
+:Sending Touch (ACTION_DOWN): 0:(747.0,275.0)
+:Sending Touch (ACTION_UP): 0:(752.77014,297.03232)
+:Sending Touch (ACTION_DOWN): 0:(458.0,711.0)
+:Sending Touch (ACTION_UP): 0:(442.44278,709.2345)
+:Sending Touch (ACTION_DOWN): 0:(1101.0,1101.0)
+    //[calendar_time:2022-04-27 00:57:28.493  system_uptime:924313]
+    // Sending event #3200
+:Sending Touch (ACTION_UP): 0:(1142.929,1066.5033)
+:Sending Touch (ACTION_DOWN): 0:(643.0,1718.0)
+:Sending Touch (ACTION_UP): 0:(598.31354,1640.2495)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,207.0)
+:Sending Touch (ACTION_UP): 0:(1046.8289,212.02682)
+:Sending Touch (ACTION_DOWN): 0:(430.0,543.0)
+:Sending Touch (ACTION_UP): 0:(470.31915,596.1194)
+:Sending Touch (ACTION_DOWN): 0:(865.0,832.0)
+:Sending Touch (ACTION_UP): 0:(852.4616,830.0541)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(1150.0,1179.0)
+:Sending Touch (ACTION_UP): 0:(1178.7184,1103.4595)
+:Sending Touch (ACTION_DOWN): 0:(498.0,406.0)
+:Sending Touch (ACTION_UP): 0:(502.52542,410.62698)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2022-04-27 00:57:31.652  system_uptime:927471]
+    // Sending event #3300
+    //[calendar_time:2022-04-27 00:57:31.852  system_uptime:927672]
+    // Sending event #3300
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(892.0,429.0)
+:Sending Touch (ACTION_UP): 0:(817.00024,409.7929)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(751.0,573.0)
+:Sending Touch (ACTION_UP): 0:(738.3751,593.42236)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(184.0,1776.0)
+:Sending Touch (ACTION_UP): 0:(196.03857,1776.566)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(563.0,734.0)
+:Sending Touch (ACTION_UP): 0:(565.6251,725.14557)
+:Sending Touch (ACTION_DOWN): 0:(327.0,1464.0)
+:Sending Touch (ACTION_UP): 0:(318.31287,1461.8236)
+:Sending Touch (ACTION_DOWN): 0:(73.0,556.0)
+    //[calendar_time:2022-04-27 00:57:35.075  system_uptime:930895]
+    // Sending event #3400
+:Sending Touch (ACTION_UP): 0:(81.79787,410.20178)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(707.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(706.98706,1413.7046)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(327.0,616.0)
+:Sending Touch (ACTION_UP): 0:(256.29755,691.2933)
+:Sending Touch (ACTION_DOWN): 0:(259.0,1771.0)
+:Sending Touch (ACTION_UP): 0:(320.21817,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(447.0,468.0)
+:Sending Touch (ACTION_UP): 0:(501.61572,502.93048)
+:Sending Touch (ACTION_DOWN): 0:(40.0,352.0)
+:Sending Touch (ACTION_UP): 0:(28.266407,329.84912)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2022-04-27 00:57:38.046  system_uptime:933865]
+    // Sending event #3500
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,508.0)
+:Sending Touch (ACTION_UP): 0:(1028.8906,510.7953)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=geo:0,0?q=loc:37.073117300749146,-122.26960493004856(Geohash for April 26, 2022)&z=15 cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1026.0,984.0)
+:Sending Touch (ACTION_UP): 0:(1013.09686,980.4805)
+:Sending Touch (ACTION_DOWN): 0:(615.0,1306.0)
+:Sending Touch (ACTION_UP): 0:(663.8044,1257.9362)
+:Sending Touch (ACTION_DOWN): 0:(1090.0,48.0)
+:Sending Touch (ACTION_UP): 0:(1104.5372,40.312386)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(980.0,999.0)
+:Sending Touch (ACTION_UP): 0:(1013.67377,921.1923)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(118.0,561.0)
+:Sending Touch (ACTION_UP): 0:(118.68146,558.7662)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2022-04-27 00:57:40.219  system_uptime:936039]
+    // Sending event #3600
+:Sending Touch (ACTION_DOWN): 0:(283.0,323.0)
+:Sending Touch (ACTION_UP): 0:(284.40814,323.5596)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(402.0,292.0)
+:Sending Touch (ACTION_UP): 0:(390.54398,289.08368)
+:Sending Touch (ACTION_DOWN): 0:(429.0,1335.0)
+:Sending Touch (ACTION_UP): 0:(385.61777,1357.7661)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1187.0,535.0)
+:Sending Touch (ACTION_UP): 0:(1186.402,528.39166)
+:Sending Touch (ACTION_DOWN): 0:(713.0,945.0)
+:Sending Touch (ACTION_UP): 0:(718.176,963.8337)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    //[calendar_time:2022-04-27 00:57:44.642  system_uptime:940461]
+    // Sending event #3700
+:Sending Touch (ACTION_DOWN): 0:(887.0,144.0)
+:Sending Touch (ACTION_UP): 0:(882.7271,145.70995)
+:Sending Touch (ACTION_DOWN): 0:(803.0,146.0)
+:Sending Touch (ACTION_UP): 0:(800.5756,138.93065)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(158.0,815.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(183.76912,851.5438)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(853.0,825.0)
+:Sending Touch (ACTION_UP): 0:(845.47485,827.9277)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(1123.0,392.0)
+:Sending Touch (ACTION_UP): 0:(1136.3862,393.58356)
+:Sending Touch (ACTION_DOWN): 0:(900.0,1233.0)
+:Sending Touch (ACTION_UP): 0:(900.3618,1239.7952)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1151.0,63.0)
+:Sending Touch (ACTION_UP): 0:(1111.217,66.89284)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2022-04-27 00:57:49.836  system_uptime:945655]
+    // Sending event #3800
+    //[calendar_time:2022-04-27 00:57:50.036  system_uptime:945856]
+    // Sending event #3800
+:Sending Touch (ACTION_DOWN): 0:(278.0,85.0)
+:Sending Touch (ACTION_UP): 0:(287.21915,103.2937)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(380.0,640.0)
+:Sending Touch (ACTION_UP): 0:(377.32413,643.0687)
+:Sending Touch (ACTION_DOWN): 0:(968.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(952.9371,1702.2109)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(508.0,221.0)
+:Sending Touch (ACTION_UP): 0:(498.51645,215.94914)
+:Sending Touch (ACTION_DOWN): 0:(554.0,284.0)
+:Sending Touch (ACTION_UP): 0:(572.05054,293.6078)
+:Sending Touch (ACTION_DOWN): 0:(748.0,1354.0)
+:Sending Touch (ACTION_UP): 0:(786.50256,1339.3905)
+:Sending Touch (ACTION_DOWN): 0:(980.0,1305.0)
+:Sending Touch (ACTION_UP): 0:(941.53485,1264.4883)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(674.0,1649.0)
+:Sending Touch (ACTION_UP): 0:(656.654,1648.49)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    //[calendar_time:2022-04-27 00:57:53.557  system_uptime:949377]
+    // Sending event #3900
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(943.0,243.0)
+:Sending Touch (ACTION_UP): 0:(964.6489,247.2858)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(491.0,314.0)
+:Sending Touch (ACTION_UP): 0:(406.5731,431.23672)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(490.0,715.0)
+:Sending Touch (ACTION_UP): 0:(406.11877,672.6688)
+:Sending Touch (ACTION_DOWN): 0:(425.0,726.0)
+:Sending Touch (ACTION_UP): 0:(419.00674,708.4868)
+:Sending Touch (ACTION_DOWN): 0:(1092.0,293.0)
+:Sending Touch (ACTION_UP): 0:(1109.8491,293.43268)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    //[calendar_time:2022-04-27 00:57:58.744  system_uptime:954563]
+    // Sending event #4000
+:Sending Touch (ACTION_DOWN): 0:(1171.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(1174.4906,1310.3428)
+:Sending Touch (ACTION_DOWN): 0:(121.0,1547.0)
+:Sending Touch (ACTION_UP): 0:(129.91922,1547.4758)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(610.0,217.0)
+:Sending Touch (ACTION_UP): 0:(528.42255,282.45462)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Touch (ACTION_DOWN): 0:(612.0,1265.0)
+:Sending Touch (ACTION_UP): 0:(624.1174,1266.7756)
+:Sending Touch (ACTION_DOWN): 0:(888.0,1809.0)
+:Sending Touch (ACTION_UP): 0:(838.5896,1767.2164)
+:Sending Touch (ACTION_DOWN): 0:(520.0,1478.0)
+:Sending Touch (ACTION_UP): 0:(520.58844,1515.414)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,1269.0)
+:Sending Touch (ACTION_UP): 0:(1004.30994,1270.0815)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(427.0,233.0)
+:Sending Touch (ACTION_UP): 0:(422.95023,186.04161)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    //[calendar_time:2022-04-27 00:58:02.808  system_uptime:958627]
+    // Sending event #4100
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(660.0,298.0)
+:Sending Touch (ACTION_UP): 0:(626.684,356.90912)
+:Sending Touch (ACTION_DOWN): 0:(504.0,1719.0)
+:Sending Touch (ACTION_UP): 0:(504.67044,1723.5083)
+:Sending Touch (ACTION_DOWN): 0:(637.0,663.0)
+:Sending Touch (ACTION_UP): 0:(645.749,667.21686)
+:Sending Touch (ACTION_DOWN): 0:(625.0,1421.0)
+    //[calendar_time:2022-04-27 00:58:06.711  system_uptime:962530]
+    // Sending event #4200
+:Sending Touch (ACTION_UP): 0:(687.34955,1398.141)
+:Sending Touch (ACTION_DOWN): 0:(874.0,1799.0)
+:Sending Touch (ACTION_UP): 0:(852.03723,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(884.0,1462.0)
+:Sending Touch (ACTION_UP): 0:(899.91797,1520.3094)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(133.0,929.0)
+:Sending Touch (ACTION_UP): 0:(131.95064,850.9045)
+:Sending Touch (ACTION_DOWN): 0:(208.0,1520.0)
+:Sending Touch (ACTION_UP): 0:(210.60617,1516.087)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(693.0,433.0)
+:Sending Touch (ACTION_UP): 0:(692.30756,437.34857)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,1156.0)
+:Sending Touch (ACTION_UP): 0:(1051.4894,1159.0005)
+:Sending Touch (ACTION_DOWN): 0:(760.0,1538.0)
+:Sending Touch (ACTION_UP): 0:(803.49133,1525.811)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(750.0,1633.0)
+    //[calendar_time:2022-04-27 00:58:10.992  system_uptime:966811]
+    // Sending event #4300
+:Sending Touch (ACTION_UP): 0:(680.7131,1572.694)
+:Sending Touch (ACTION_DOWN): 0:(217.0,1117.0)
+:Sending Touch (ACTION_UP): 0:(217.21931,1110.8367)
+:Sending Touch (ACTION_DOWN): 0:(458.0,1149.0)
+:Sending Touch (ACTION_UP): 0:(423.94064,1103.6189)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(751.0,214.0)
+:Sending Touch (ACTION_UP): 0:(736.9338,230.49153)
+:Sending Touch (ACTION_DOWN): 0:(774.0,1028.0)
+:Sending Touch (ACTION_UP): 0:(780.81775,1021.62103)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(840.0,199.0)
+:Sending Touch (ACTION_UP): 0:(835.7853,198.1433)
+:Sending Touch (ACTION_DOWN): 0:(398.0,491.0)
+:Sending Touch (ACTION_UP): 0:(318.15707,553.6033)
+    //[calendar_time:2022-04-27 00:58:15.395  system_uptime:971214]
+    // Sending event #4400
+    //[calendar_time:2022-04-27 00:58:15.597  system_uptime:971416]
+    // Sending event #4400
+:Sending Touch (ACTION_DOWN): 0:(829.0,943.0)
+:Sending Touch (ACTION_UP): 0:(817.7657,936.7211)
+:Sending Touch (ACTION_DOWN): 0:(1100.0,369.0)
+:Sending Touch (ACTION_UP): 0:(1107.6923,356.06018)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(385.0,6.0)
+:Sending Touch (ACTION_UP): 0:(414.71753,0.0)
+:Sending Touch (ACTION_DOWN): 0:(478.0,1218.0)
+:Sending Touch (ACTION_UP): 0:(483.62244,1199.3883)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(827.0,1229.0)
+:Sending Touch (ACTION_UP): 0:(825.518,1234.4044)
+:Sending Touch (ACTION_DOWN): 0:(314.0,1340.0)
+:Sending Touch (ACTION_UP): 0:(315.5038,1348.0236)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(1076.0,573.0)
+:Sending Touch (ACTION_UP): 0:(1088.9858,568.9536)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(506.0,1624.0)
+:Sending Touch (ACTION_UP): 0:(506.35876,1617.3628)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2022-04-27 00:58:22.717  system_uptime:978536]
+    // Sending event #4500
+:Sending Touch (ACTION_DOWN): 0:(776.0,122.0)
+:Sending Touch (ACTION_UP): 0:(868.4118,91.94745)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1045.0,1522.0)
+:Sending Touch (ACTION_UP): 0:(1048.8075,1410.9424)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(745.0,465.0)
+:Sending Touch (ACTION_UP): 0:(817.9223,520.9647)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(128.0,120.0)
+:Sending Touch (ACTION_UP): 0:(122.59691,138.92923)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    //[calendar_time:2022-04-27 00:58:25.931  system_uptime:981750]
+    // Sending event #4600
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(148.0,551.0)
+:Sending Touch (ACTION_UP): 0:(161.06314,555.72437)
+:Sending Touch (ACTION_DOWN): 0:(515.0,1583.0)
+:Sending Touch (ACTION_UP): 0:(534.5889,1582.5356)
+:Sending Touch (ACTION_DOWN): 0:(760.0,1785.0)
+:Sending Touch (ACTION_UP): 0:(769.4361,1777.1125)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(228.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(218.41905,1536.0741)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(75.0,761.0)
+:Sending Touch (ACTION_UP): 0:(53.6192,780.1738)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(402.0,584.0)
+:Sending Touch (ACTION_UP): 0:(368.90176,657.996)
+:Sending Touch (ACTION_DOWN): 0:(850.0,277.0)
+    //[calendar_time:2022-04-27 00:58:30.714  system_uptime:986533]
+    // Sending event #4700
+:Sending Touch (ACTION_UP): 0:(819.7899,251.87437)
+:Sending Touch (ACTION_DOWN): 0:(649.0,1630.0)
+:Sending Touch (ACTION_UP): 0:(659.3002,1622.185)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,1499.0)
+:Sending Touch (ACTION_UP): 0:(1067.1295,1500.4744)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(167.0,620.0)
+:Sending Touch (ACTION_UP): 0:(155.83524,631.3825)
+:Sending Touch (ACTION_DOWN): 0:(1166.0,1755.0)
+:Sending Touch (ACTION_UP): 0:(1169.9934,1752.1271)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(575.0,257.0)
+:Sending Touch (ACTION_UP): 0:(572.06824,256.1947)
+    //[calendar_time:2022-04-27 00:58:36.639  system_uptime:992458]
+    // Sending event #4800
+    //[calendar_time:2022-04-27 00:58:36.841  system_uptime:992661]
+    // Sending event #4800
+:Sending Touch (ACTION_DOWN): 0:(302.0,1785.0)
+:Sending Touch (ACTION_UP): 0:(426.8451,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(613.0,609.0)
+:Sending Touch (ACTION_UP): 0:(619.9946,612.82245)
+:Sending Touch (ACTION_DOWN): 0:(18.0,183.0)
+:Sending Touch (ACTION_UP): 0:(18.738873,164.21198)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(68.0,771.0)
+:Sending Touch (ACTION_UP): 0:(87.8293,771.8405)
+:Sending Touch (ACTION_DOWN): 0:(942.0,75.0)
+:Sending Touch (ACTION_UP): 0:(926.592,76.97737)
+:Sending Touch (ACTION_DOWN): 0:(1115.0,17.0)
+:Sending Touch (ACTION_UP): 0:(1054.8727,0.0)
+:Sending Touch (ACTION_DOWN): 0:(803.0,705.0)
+    //[calendar_time:2022-04-27 00:58:41.254  system_uptime:997074]
+    // Sending event #4900
+:Sending Touch (ACTION_UP): 0:(802.7387,714.05145)
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1177.0,1648.0)
+:Sending Touch (ACTION_UP): 0:(1177.1091,1656.5446)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(286.0,966.0)
+:Sending Touch (ACTION_UP): 0:(283.4085,982.1957)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,575.0)
+:Sending Touch (ACTION_UP): 0:(1023.764,563.1863)
+:Sending Touch (ACTION_DOWN): 0:(773.0,1257.0)
+:Sending Touch (ACTION_UP): 0:(770.915,1264.9337)
+:Sending Touch (ACTION_DOWN): 0:(625.0,112.0)
+:Sending Touch (ACTION_UP): 0:(623.42883,105.693665)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(522.0,952.0)
+:Sending Touch (ACTION_UP): 0:(515.6947,960.5966)
+:Sending Touch (ACTION_DOWN): 0:(1142.0,1292.0)
+:Sending Touch (ACTION_UP): 0:(1142.4452,1282.4143)
+:Sending Touch (ACTION_DOWN): 0:(512.0,527.0)
+:Sending Touch (ACTION_UP): 0:(511.06885,569.29895)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(881.0,540.0)
+:Sending Touch (ACTION_UP): 0:(914.13245,522.8461)
+:Sending Touch (ACTION_DOWN): 0:(325.0,1489.0)
+:Sending Touch (ACTION_UP): 0:(316.13055,1486.6082)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(362.0,97.0)
+:Sending Touch (ACTION_UP): 0:(359.08765,101.2251)
+:Sending Touch (ACTION_DOWN): 0:(200.0,1515.0)
+:Sending Touch (ACTION_UP): 0:(267.08102,1505.3265)
+:Sending Touch (ACTION_DOWN): 0:(25.0,871.0)
+    //[calendar_time:2022-04-27 00:58:46.911  system_uptime:1002730]
+    // Sending event #5000
+:Sending Touch (ACTION_UP): 0:(0.0,837.5721)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(490.0,968.0)
+:Sending Touch (ACTION_UP): 0:(478.19318,1105.8892)
+:Sending Touch (ACTION_DOWN): 0:(568.0,560.0)
+:Sending Touch (ACTION_UP): 0:(625.5035,518.58435)
+:Sending Touch (ACTION_DOWN): 0:(707.0,208.0)
+:Sending Touch (ACTION_UP): 0:(678.98956,249.88258)
+:Sending Touch (ACTION_DOWN): 0:(859.0,1766.0)
+:Sending Touch (ACTION_UP): 0:(858.976,1773.181)
+:Sending Touch (ACTION_DOWN): 0:(128.0,1253.0)
+:Sending Touch (ACTION_UP): 0:(130.35947,1254.4095)
+:Sending Touch (ACTION_DOWN): 0:(573.0,68.0)
+:Sending Touch (ACTION_UP): 0:(577.0113,61.39496)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(92.0,548.0)
+:Sending Touch (ACTION_UP): 0:(129.69044,594.2612)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(921.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(928.11237,1059.7526)
+:Sending Touch (ACTION_DOWN): 0:(210.0,1462.0)
+:Sending Touch (ACTION_UP): 0:(202.60594,1461.772)
+:Sending Touch (ACTION_DOWN): 0:(1068.0,992.0)
+:Sending Touch (ACTION_UP): 0:(1067.8926,988.4972)
+    //[calendar_time:2022-04-27 00:58:52.487  system_uptime:1008306]
+    // Sending event #5100
+:Sending Touch (ACTION_DOWN): 0:(276.0,600.0)
+:Sending Touch (ACTION_UP): 0:(284.03793,593.0755)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(183.0,346.0)
+:Sending Touch (ACTION_UP): 0:(181.74039,345.9118)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1082.0,443.0)
+:Sending Touch (ACTION_UP): 0:(1078.0365,437.5756)
+:Sending Touch (ACTION_DOWN): 0:(165.0,813.0)
+:Sending Touch (ACTION_UP): 0:(163.74739,812.8931)
+:Sending Touch (ACTION_DOWN): 0:(561.0,1552.0)
+:Sending Touch (ACTION_UP): 0:(557.4373,1554.003)
+:Sending Touch (ACTION_DOWN): 0:(112.0,1166.0)
+:Sending Touch (ACTION_UP): 0:(119.432396,1173.5144)
+:Sending Touch (ACTION_DOWN): 0:(653.0,1643.0)
+:Sending Touch (ACTION_UP): 0:(632.875,1537.3191)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(1186.0,419.0)
+:Sending Touch (ACTION_UP): 0:(1117.1425,422.50476)
+:Sending Touch (ACTION_DOWN): 0:(992.0,415.0)
+:Sending Touch (ACTION_UP): 0:(990.11743,430.63098)
+:Sending Touch (ACTION_DOWN): 0:(522.0,1267.0)
+:Sending Touch (ACTION_UP): 0:(564.74384,1270.8569)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2022-04-27 00:58:58.666  system_uptime:1014485]
+    // Sending event #5200
+:Sending Touch (ACTION_DOWN): 0:(844.0,1388.0)
+:Sending Touch (ACTION_UP): 0:(844.72614,1390.8871)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(54.0,662.0)
+:Sending Touch (ACTION_UP): 0:(75.25932,657.88434)
+:Sending Touch (ACTION_DOWN): 0:(149.0,169.0)
+:Sending Touch (ACTION_UP): 0:(149.54668,174.04214)
+:Sending Touch (ACTION_DOWN): 0:(517.0,1588.0)
+:Sending Touch (ACTION_UP): 0:(545.1427,1614.1957)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(229.0,449.0)
+:Sending Touch (ACTION_UP): 0:(241.81364,462.58252)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(601.0,542.0)
+:Sending Touch (ACTION_UP): 0:(598.44366,540.20996)
+:Sending Touch (ACTION_DOWN): 0:(881.0,1187.0)
+    //[calendar_time:2022-04-27 00:59:06.152  system_uptime:1021972]
+    // Sending event #5300
+:Sending Touch (ACTION_UP): 0:(889.3726,1166.2423)
+:Sending Touch (ACTION_DOWN): 0:(676.0,575.0)
+:Sending Touch (ACTION_UP): 0:(626.22314,654.7729)
+:Sending Touch (ACTION_DOWN): 0:(201.0,862.0)
+:Sending Touch (ACTION_UP): 0:(199.82799,864.9038)
+:Sending Touch (ACTION_DOWN): 0:(27.0,958.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1018.7444)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(355.0,1270.0)
+:Sending Touch (ACTION_UP): 0:(335.43076,1260.4373)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(725.0,350.0)
+:Sending Touch (ACTION_UP): 0:(737.6768,349.95074)
+:Sending Touch (ACTION_DOWN): 0:(536.0,883.0)
+:Sending Touch (ACTION_UP): 0:(535.6385,876.81757)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(553.0,258.0)
+:Sending Touch (ACTION_UP): 0:(550.4884,253.9776)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+    //[calendar_time:2022-04-27 00:59:10.888  system_uptime:1026707]
+    // Sending event #5400
+    //[calendar_time:2022-04-27 00:59:11.088  system_uptime:1026907]
+    // Sending event #5400
+:Sending Touch (ACTION_DOWN): 0:(556.0,1628.0)
+:Sending Touch (ACTION_UP): 0:(591.8189,1597.7181)
+:Sending Touch (ACTION_DOWN): 0:(613.0,524.0)
+:Sending Touch (ACTION_UP): 0:(609.81226,529.63245)
+:Sending Touch (ACTION_DOWN): 0:(658.0,729.0)
+:Sending Touch (ACTION_UP): 0:(663.85364,724.94)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(636.0,733.0)
+:Sending Touch (ACTION_UP): 0:(679.4105,621.55505)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(620.0,943.0)
+:Sending Touch (ACTION_UP): 0:(666.3838,945.62866)
+:Sending Touch (ACTION_DOWN): 0:(1033.0,1689.0)
+:Sending Touch (ACTION_UP): 0:(1032.2571,1693.9473)
+:Sending Touch (ACTION_DOWN): 0:(1028.0,1302.0)
+:Sending Touch (ACTION_UP): 0:(1008.092,1353.089)
+:Sending Touch (ACTION_DOWN): 0:(815.0,790.0)
+:Sending Touch (ACTION_UP): 0:(859.2276,826.31464)
+:Sending Touch (ACTION_DOWN): 0:(348.0,326.0)
+:Sending Touch (ACTION_UP): 0:(380.1485,363.165)
+    //[calendar_time:2022-04-27 00:59:16.356  system_uptime:1032175]
+    // Sending event #5500
+    //[calendar_time:2022-04-27 00:59:16.558  system_uptime:1032378]
+    // Sending event #5500
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(567.0,200.0)
+:Sending Touch (ACTION_UP): 0:(574.80035,199.45636)
+:Sending Touch (ACTION_DOWN): 0:(982.0,1620.0)
+:Sending Touch (ACTION_UP): 0:(980.14465,1636.4785)
+:Sending Touch (ACTION_DOWN): 0:(145.0,144.0)
+:Sending Touch (ACTION_UP): 0:(151.10048,132.62903)
+:Sending Touch (ACTION_DOWN): 0:(242.0,838.0)
+:Sending Touch (ACTION_UP): 0:(204.2948,922.66125)
+:Sending Touch (ACTION_DOWN): 0:(600.0,320.0)
+:Sending Touch (ACTION_UP): 0:(572.6156,267.3211)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(195.0,416.0)
+:Sending Touch (ACTION_UP): 0:(232.06107,389.27347)
+:Sending Touch (ACTION_DOWN): 0:(1150.0,1779.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1819.0612)
+:Sending Touch (ACTION_DOWN): 0:(434.0,1204.0)
+:Sending Touch (ACTION_UP): 0:(450.01367,1205.3243)
+:Sending Touch (ACTION_DOWN): 0:(663.0,292.0)
+:Sending Touch (ACTION_UP): 0:(667.8503,291.04205)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    //[calendar_time:2022-04-27 00:59:21.169  system_uptime:1036989]
+    // Sending event #5600
+:Sending Touch (ACTION_DOWN): 0:(283.0,1765.0)
+:Sending Touch (ACTION_UP): 0:(288.8759,1803.5773)
+:Sending Touch (ACTION_DOWN): 0:(357.0,1576.0)
+:Sending Touch (ACTION_UP): 0:(359.57755,1580.0797)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(89.0,1291.0)
+:Sending Touch (ACTION_UP): 0:(74.359795,1296.9222)
+:Sending Touch (ACTION_DOWN): 0:(802.0,955.0)
+:Sending Touch (ACTION_UP): 0:(794.59534,974.009)
+:Sending Touch (ACTION_DOWN): 0:(426.0,525.0)
+:Sending Touch (ACTION_UP): 0:(394.10318,584.7625)
+:Sending Touch (ACTION_DOWN): 0:(670.0,904.0)
+:Sending Touch (ACTION_UP): 0:(664.6481,953.4146)
+:Sending Touch (ACTION_DOWN): 0:(659.0,569.0)
+:Sending Touch (ACTION_UP): 0:(646.1639,580.6183)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1137.0,1181.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1178.3849)
+:Sending Touch (ACTION_DOWN): 0:(383.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(394.52887,1561.138)
+:Sending Touch (ACTION_DOWN): 0:(18.0,651.0)
+    //[calendar_time:2022-04-27 00:59:25.209  system_uptime:1041029]
+    // Sending event #5700
+:Sending Touch (ACTION_UP): 0:(37.087513,674.2168)
+:Sending Touch (ACTION_DOWN): 0:(1154.0,1532.0)
+:Sending Touch (ACTION_UP): 0:(1143.1886,1537.0059)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(1022.0,1725.0)
+:Sending Touch (ACTION_UP): 0:(1022.8173,1725.7299)
+:Sending Touch (ACTION_DOWN): 0:(312.0,1256.0)
+:Sending Touch (ACTION_UP): 0:(307.2891,1273.4977)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    //[calendar_time:2022-04-27 00:59:28.449  system_uptime:1044268]
+    // Sending event #5800
+:Sending Touch (ACTION_DOWN): 0:(1064.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(1077.4497,1062.9348)
+:Sending Touch (ACTION_DOWN): 0:(771.0,1636.0)
+:Sending Touch (ACTION_UP): 0:(746.3315,1660.2963)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1080.0,282.0)
+:Sending Touch (ACTION_UP): 0:(1078.2552,279.80228)
+:Sending Touch (ACTION_DOWN): 0:(624.0,1743.0)
+:Sending Touch (ACTION_UP): 0:(609.4381,1737.6587)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(856.0,34.0)
+:Sending Touch (ACTION_UP): 0:(858.61194,25.446678)
+:Sending Touch (ACTION_DOWN): 0:(529.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(534.4067,1226.8083)
+:Sending Touch (ACTION_DOWN): 0:(490.0,624.0)
+:Sending Touch (ACTION_UP): 0:(498.49167,655.3564)
+:Sending Touch (ACTION_DOWN): 0:(1030.0,130.0)
+:Sending Touch (ACTION_UP): 0:(1077.3833,88.03976)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(545.0,418.0)
+    //[calendar_time:2022-04-27 00:59:32.442  system_uptime:1048261]
+    // Sending event #5900
+:Sending Touch (ACTION_UP): 0:(547.43634,418.74048)
+:Sending Touch (ACTION_DOWN): 0:(1155.0,680.0)
+:Sending Touch (ACTION_UP): 0:(1163.6366,690.2337)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(869.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(870.72394,947.40826)
+:Sending Touch (ACTION_DOWN): 0:(187.0,1548.0)
+:Sending Touch (ACTION_UP): 0:(88.602264,1494.0363)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(830.0,213.0)
+:Sending Touch (ACTION_UP): 0:(824.41547,218.15585)
+:Sending Touch (ACTION_DOWN): 0:(237.0,1486.0)
+    //[calendar_time:2022-04-27 00:59:36.581  system_uptime:1052401]
+    // Sending event #6000
+:Sending Touch (ACTION_UP): 0:(327.35632,1530.9886)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(117.0,1445.0)
+:Sending Touch (ACTION_UP): 0:(167.56342,1425.4353)
+:Sending Touch (ACTION_DOWN): 0:(982.0,939.0)
+:Sending Touch (ACTION_UP): 0:(962.4143,989.36816)
+:Sending Touch (ACTION_DOWN): 0:(911.0,812.0)
+:Sending Touch (ACTION_UP): 0:(918.9913,815.56866)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(930.0,85.0)
+:Sending Touch (ACTION_UP): 0:(916.1185,83.85489)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(245.0,6.0)
+:Sending Touch (ACTION_UP): 0:(340.1466,10.029983)
+:Sending Touch (ACTION_DOWN): 0:(87.0,710.0)
+:Sending Touch (ACTION_UP): 0:(90.687386,716.1706)
+:Sending Touch (ACTION_DOWN): 0:(307.0,442.0)
+:Sending Touch (ACTION_UP): 0:(352.81174,407.4256)
+    //[calendar_time:2022-04-27 00:59:41.764  system_uptime:1057583]
+    // Sending event #6100
+:Sending Touch (ACTION_DOWN): 0:(998.0,239.0)
+:Sending Touch (ACTION_UP): 0:(998.34357,246.92972)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1104.0,551.0)
+:Sending Touch (ACTION_UP): 0:(1110.1792,565.37146)
+:Sending Touch (ACTION_DOWN): 0:(572.0,881.0)
+:Sending Touch (ACTION_UP): 0:(626.4033,892.3164)
+:Sending Touch (ACTION_DOWN): 0:(499.0,1775.0)
+:Sending Touch (ACTION_UP): 0:(489.2442,1763.2258)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(377.0,1090.0)
+:Sending Touch (ACTION_UP): 0:(377.05685,1102.304)
+:Sending Touch (ACTION_DOWN): 0:(352.0,298.0)
+:Sending Touch (ACTION_UP): 0:(304.04495,234.88211)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1082.0,726.0)
+:Sending Touch (ACTION_UP): 0:(1079.4945,723.6979)
+:Sending Touch (ACTION_DOWN): 0:(478.0,224.0)
+:Sending Touch (ACTION_UP): 0:(475.28833,219.68262)
+:Sending Touch (ACTION_DOWN): 0:(104.0,1793.0)
+:Sending Touch (ACTION_UP): 0:(117.48921,1696.1855)
+:Sending Touch (ACTION_DOWN): 0:(862.0,1303.0)
+:Sending Touch (ACTION_UP): 0:(852.9275,1310.6113)
+:Sending Touch (ACTION_DOWN): 0:(597.0,1188.0)
+:Sending Touch (ACTION_UP): 0:(594.6646,1181.5656)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    //[calendar_time:2022-04-27 00:59:47.075  system_uptime:1062895]
+    // Sending event #6200
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(332.0,174.0)
+:Sending Touch (ACTION_UP): 0:(363.1348,117.18185)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(899.0,1492.0)
+:Sending Touch (ACTION_UP): 0:(915.8191,1506.3452)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(880.0,1047.0)
+    //[calendar_time:2022-04-27 00:59:51.063  system_uptime:1066882]
+    // Sending event #6300
+:Sending Touch (ACTION_UP): 0:(867.22424,958.00085)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,1357.0)
+:Sending Touch (ACTION_UP): 0:(1068.1555,1357.0559)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1170.0,1601.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1653.2634)
+:Sending Touch (ACTION_DOWN): 0:(937.0,410.0)
+:Sending Touch (ACTION_UP): 0:(923.3901,405.9433)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(115.0,802.0)
+:Sending Touch (ACTION_UP): 0:(114.56802,792.92163)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    //[calendar_time:2022-04-27 00:59:55.033  system_uptime:1070852]
+    // Sending event #6400
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(517.0,1715.0)
+:Sending Touch (ACTION_UP): 0:(529.88403,1705.8159)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(378.0,222.0)
+:Sending Touch (ACTION_UP): 0:(336.92487,223.35951)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(770.0,320.0)
+    //[calendar_time:2022-04-27 00:59:59.407  system_uptime:1075226]
+    // Sending event #6500
+:Sending Touch (ACTION_UP): 0:(706.9834,328.41122)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(442.0,180.0)
+:Sending Touch (ACTION_UP): 0:(427.29214,184.07068)
+:Sending Touch (ACTION_DOWN): 0:(126.0,85.0)
+:Sending Touch (ACTION_UP): 0:(129.98941,84.54556)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(747.0,43.0)
+:Sending Touch (ACTION_UP): 0:(731.60394,75.56346)
+:Sending Touch (ACTION_DOWN): 0:(1099.0,617.0)
+:Sending Touch (ACTION_UP): 0:(1046.2173,562.281)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(212.0,853.0)
+:Sending Touch (ACTION_UP): 0:(218.76811,849.82886)
+:Sending Touch (ACTION_DOWN): 0:(27.0,598.0)
+    //[calendar_time:2022-04-27 01:00:04.368  system_uptime:1080187]
+    // Sending event #6600
+:Sending Touch (ACTION_UP): 0:(0.0,728.5697)
+:Sending Touch (ACTION_DOWN): 0:(1172.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(1172.2648,1572.1248)
+:Sending Touch (ACTION_DOWN): 0:(954.0,197.0)
+:Sending Touch (ACTION_UP): 0:(984.3476,199.13914)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(876.0,507.0)
+:Sending Touch (ACTION_UP): 0:(887.64594,504.49078)
+:Sending Touch (ACTION_DOWN): 0:(439.0,1514.0)
+:Sending Touch (ACTION_UP): 0:(437.737,1483.1079)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(140.0,186.0)
+:Sending Touch (ACTION_UP): 0:(118.3347,201.5729)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Touch (ACTION_DOWN): 0:(18.0,229.0)
+:Sending Touch (ACTION_UP): 0:(18.220625,236.23997)
+:Sending Touch (ACTION_DOWN): 0:(55.0,843.0)
+:Sending Touch (ACTION_UP): 0:(24.95647,825.45496)
+:Sending Touch (ACTION_DOWN): 0:(347.0,547.0)
+:Sending Touch (ACTION_UP): 0:(352.75958,559.287)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2022-04-27 01:00:08.651  system_uptime:1084470]
+    // Sending event #6700
+:Sending Touch (ACTION_DOWN): 0:(128.0,493.0)
+:Sending Touch (ACTION_UP): 0:(128.89291,498.222)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(379.0,406.0)
+:Sending Touch (ACTION_UP): 0:(285.70105,331.2744)
+:Sending Touch (ACTION_DOWN): 0:(388.0,617.0)
+:Sending Touch (ACTION_UP): 0:(399.58994,621.6548)
+:Sending Touch (ACTION_DOWN): 0:(259.0,1530.0)
+:Sending Touch (ACTION_UP): 0:(265.62863,1531.3529)
+:Sending Touch (ACTION_DOWN): 0:(1166.0,8.0)
+:Sending Touch (ACTION_UP): 0:(1156.4066,110.44514)
+:Sending Touch (ACTION_DOWN): 0:(1145.0,563.0)
+:Sending Touch (ACTION_UP): 0:(1155.4553,556.7356)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(583.0,701.0)
+:Sending Touch (ACTION_UP): 0:(583.01044,697.30884)
+:Sending Touch (ACTION_DOWN): 0:(1100.0,1817.0)
+:Sending Touch (ACTION_UP): 0:(1094.2244,1816.9822)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.exclaimindustries.geohashdroid/.activities.CentralMap;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.exclaimindustries.geohashdroid/.activities.CentralMap } in package net.exclaimindustries.geohashdroid
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    //[calendar_time:2022-04-27 01:00:15.319  system_uptime:1091138]
+    // Sending event #6800
+:Sending Touch (ACTION_DOWN): 0:(474.0,1703.0)
+:Sending Touch (ACTION_UP): 0:(473.8181,1711.7372)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(450.0,1793.0)
+:Sending Touch (ACTION_UP): 0:(422.6641,1773.5289)
+:Sending Touch (ACTION_DOWN): 0:(165.0,550.0)
+:Sending Touch (ACTION_UP): 0:(163.29715,549.2057)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(687.0,610.0)
+:Sending Touch (ACTION_UP): 0:(836.0238,573.6648)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1070.0,276.0)
+:Sending Touch (ACTION_UP): 0:(1075.2012,277.05582)
+    //[calendar_time:2022-04-27 01:00:19.061  system_uptime:1094880]
+    // Sending event #6900
+    //[calendar_time:2022-04-27 01:00:19.261  system_uptime:1095080]
+    // Sending event #6900
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1081.0,1217.0)
+:Sending Touch (ACTION_UP): 0:(1030.2743,1170.8276)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(919.0,1075.0)
+:Sending Touch (ACTION_UP): 0:(969.973,1052.2719)
+:Sending Touch (ACTION_DOWN): 0:(48.0,213.0)
+:Sending Touch (ACTION_UP): 0:(45.178265,221.02345)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(976.90106,1073.657)
+:Sending Touch (ACTION_DOWN): 0:(877.0,145.0)
+:Sending Touch (ACTION_UP): 0:(848.82623,189.28381)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2022-04-27 01:00:22.630  system_uptime:1098449]
+    // Sending event #7000
+:Sending Touch (ACTION_DOWN): 0:(238.0,678.0)
+:Sending Touch (ACTION_UP): 0:(222.18741,676.315)
+:Sending Touch (ACTION_DOWN): 0:(312.0,630.0)
+:Sending Touch (ACTION_UP): 0:(297.90594,609.474)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(1126.0,1200.0)
+:Sending Touch (ACTION_UP): 0:(1094.5583,1194.454)
+:Sending Touch (ACTION_DOWN): 0:(430.0,543.0)
+:Sending Touch (ACTION_UP): 0:(425.40884,548.8806)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,1484.0)
+:Sending Touch (ACTION_UP): 0:(991.6501,1501.9114)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,1299.0)
+:Sending Touch (ACTION_UP): 0:(1118.8264,1257.6134)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(938.0,1513.0)
+:Sending Touch (ACTION_UP): 0:(965.5195,1503.0643)
+:Sending Touch (ACTION_DOWN): 0:(908.0,1090.0)
+    //[calendar_time:2022-04-27 01:00:29.133  system_uptime:1104952]
+    // Sending event #7100
+:Sending Touch (ACTION_UP): 0:(893.4098,1103.5846)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,412.0)
+:Sending Touch (ACTION_UP): 0:(1034.6283,385.9076)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://geohashing.site/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(560.0,1413.0)
+:Sending Touch (ACTION_UP): 0:(559.95074,1412.0527)
+:Sending Touch (ACTION_DOWN): 0:(1179.0,317.0)
+:Sending Touch (ACTION_UP): 0:(1178.2399,313.26828)
+:Sending Touch (ACTION_DOWN): 0:(750.0,1546.0)
+:Sending Touch (ACTION_UP): 0:(745.9246,1547.7223)
+:Sending Touch (ACTION_DOWN): 0:(1152.0,107.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,0.0)
+// CRASH: net.exclaimindustries.geohashdroid (pid 5483)
+// Short Msg: Native crash
+// Long Msg: Native crash: Trap
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+// Build fingerprint: 'google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys'
+// Revision: '0'
+// ABI: 'x86'
+// pid: 5483, tid: 5591, name: Thread-111  >>> net.exclaimindustries.geohashdroid <<<
+// signal 5 (SIGTRAP), code 128 (SI_KERNEL), fault addr 0x0
+// Abort message: '../../../../glib/glib/gmem.c:106: failed to allocate 23936 bytes'
+//     eax 00000000  ebx 80a33b8c  ecx 00000001  edx 00000004
+//     esi 00000001  edi 00000001
+//     xcs 00000073  xds 0000007b  xes 0000007b  xfs 0000003b  xss 0000007b
+//     eip 7fbf756f  ebp 00000000  esp 80dfe240  flags 00000202
+// 
+// backtrace:
+//     #00 pc 0011c56f  /data/local/tmp/re.frida.server/frida-agent-32.so
+// 
+app_crashnet.exclaimindustries.geohashdroid_2022-04-27_01_00_34.033_.txt:

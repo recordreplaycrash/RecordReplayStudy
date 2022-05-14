@@ -1,0 +1,27 @@
+--------- beginning of main
+--------- beginning of system
+04-27 02:46:20.244  7647  7647 E CustomActivityOnCrash: You have already installed CustomActivityOnCrash, doing nothing!
+--------- beginning of crash
+04-27 03:01:25.823  9823  9823 W System.err: java.io.FileNotFoundException: /jacoco.exec (Read-only file system)
+04-27 03:01:25.824  9823  9823 W System.err: 	at java.io.FileOutputStream.open(Native Method)
+04-27 03:01:25.824  9823  9823 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+04-27 03:01:25.824  9823  9823 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.output.FileOutput.openFile(FileOutput.java:67)
+04-27 03:01:25.824  9823  9823 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.output.FileOutput.startup(FileOutput.java:49)
+04-27 03:01:25.824  9823  9823 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.Agent.startup(Agent.java:122)
+04-27 03:01:25.824  9823  9823 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.Agent.getInstance(Agent.java:50)
+04-27 03:01:25.824  9823  9823 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.Offline.<clinit>(Offline.java:31)
+04-27 03:01:25.824  9823  9823 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.Offline.getProbes(Offline.java:51)
+04-27 03:01:25.824  9823  9823 W System.err: 	at com.benny.openlauncher.util.FiveSecsDelayContentProvider.$jacocoInit(FiveSecsDelayContentProvider.java)
+04-27 03:01:25.824  9823  9823 W System.err: 	at com.benny.openlauncher.util.FiveSecsDelayContentProvider.<init>(FiveSecsDelayContentProvider.java)
+04-27 03:01:25.824  9823  9823 W System.err: 	at java.lang.Class.newInstance(Native Method)
+04-27 03:01:25.824  9823  9823 W System.err: 	at android.app.ActivityThread.installProvider(ActivityThread.java:5841)
+04-27 03:01:25.824  9823  9823 W System.err: 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:5445)
+04-27 03:01:25.824  9823  9823 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:5384)
+04-27 03:01:25.824  9823  9823 W System.err: 	at android.app.ActivityThread.-wrap2(ActivityThread.java)
+04-27 03:01:25.824  9823  9823 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1545)
+04-27 03:01:25.824  9823  9823 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+04-27 03:01:25.824  9823  9823 W System.err: 	at android.os.Looper.loop(Looper.java:154)
+04-27 03:01:25.824  9823  9823 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+04-27 03:01:25.826  9823  9823 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+04-27 03:01:25.826  9823  9823 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+04-27 03:01:25.826  9823  9823 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)

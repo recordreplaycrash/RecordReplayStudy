@@ -1,0 +1,108 @@
+:Monkey: seed=1651255745345 count=1000000
+:AllowPackage: com.ichi2.anki
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.306122%
+//   1: 10.204082%
+//   2: 2.0408163%
+//   3: 15.306122%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.510204%
+//   7: 15.306122%
+//   8: -0.0%
+//   9: 2.0408163%
+//   10: 1.0204082%
+//   11: 13.265306%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+// CRASH: com.ichi2.anki (pid 6178)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setVisible(boolean)' on a null object reference
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setVisible(boolean)' on a null object reference
+// 	at com.ichi2.anki.DeckPicker.onPrepareOptionsMenu(DeckPicker.java:528)
+// 	at android.app.Activity.onPreparePanel(Activity.java:3160)
+// 	at android.support.v4.app.FragmentActivity.onPrepareOptionsPanel(FragmentActivity.java:547)
+// 	at android.support.v4.app.FragmentActivity.onPreparePanel(FragmentActivity.java:536)
+// 	at android.support.v7.view.WindowCallbackWrapper.onPreparePanel(WindowCallbackWrapper.java:93)
+// 	at android.support.v7.app.AppCompatDelegateImplBase$AppCompatWindowCallbackBase.onPreparePanel(AppCompatDelegateImplBase.java:297)
+// 	at android.support.v7.view.WindowCallbackWrapper.onPreparePanel(WindowCallbackWrapper.java:93)
+// 	at android.support.v7.app.ToolbarActionBar$ToolbarCallbackWrapper.onPreparePanel(ToolbarActionBar.java:567)
+// 	at android.support.v7.app.ToolbarActionBar$ToolbarCallbackWrapper.onCreatePanelView(ToolbarActionBar.java:580)
+// 	at android.support.v7.app.AppCompatDelegateImplV7.preparePanel(AppCompatDelegateImplV7.java:1315)
+// 	at android.support.v7.app.AppCompatDelegateImplV7.onKeyDownPanel(AppCompatDelegateImplV7.java:1455)
+// 	at android.support.v7.app.AppCompatDelegateImplV7.onKeyDown(AppCompatDelegateImplV7.java:974)
+// 	at android.support.v7.app.AppCompatDelegateImplV7.dispatchKeyEvent(AppCompatDelegateImplV7.java:941)
+// 	at android.support.v7.app.AppCompatDelegateImplBase$AppCompatWindowCallbackBase.dispatchKeyEvent(AppCompatDelegateImplBase.java:253)
+// 	at android.support.v7.view.WindowCallbackWrapper.dispatchKeyEvent(WindowCallbackWrapper.java:53)
+// 	at com.android.internal.policy.DecorView.dispatchKeyEvent(DecorView.java:319)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:4331)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:4302)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3999)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:4056)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:4032)
+// 	at android.view.ViewRootImpl$ImeInputStage.onFinishedInputEvent(ViewRootImpl.java:4193)
+// 	at android.view.inputmethod.InputMethodManager$PendingEvent.run(InputMethodManager.java:2400)
+// 	at android.view.inputmethod.InputMethodManager.invokeFinishedInputEventCallback(InputMethodManager.java:1964)
+// 	at android.view.inputmethod.InputMethodManager.finishedInputEvent(InputMethodManager.java:1955)
+// 	at android.view.inputmethod.InputMethodManager$ImeInputEventSender.onInputEventFinished(InputMethodManager.java:2377)
+// 	at android.view.InputEventSender.dispatchInputEventFinished(InputEventSender.java:141)
+// 	at android.os.MessageQueue.nativePollOnce(Native Method)
+// 	at android.os.MessageQueue.next(MessageQueue.java:323)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// 
+app_crashcom.ichi2.anki_2022-04-27_01_23_34.228_.txt:
+// app_crashcom.ichi2.anki_2022-04-27_01_23_34.228_.txt status was 0
+:Sending Touch (ACTION_DOWN): 0:(197.0,667.0)
+:Sending Touch (ACTION_UP): 0:(201.52734,674.6899)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(471.0,518.0)
+:Sending Touch (ACTION_UP): 0:(456.9793,553.8846)
+:Sending Touch (ACTION_DOWN): 0:(406.0,597.0)
+:Sending Touch (ACTION_UP): 0:(392.7987,603.0278)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.android.apis/.ApiDemos } in package com.example.android.apis
+:Sending Touch (ACTION_DOWN): 0:(1120.0,1035.0)
+:Sending Touch (ACTION_UP): 0:(1135.7582,1037.2653)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.development/.Development } in package com.android.development
+:Sending Touch (ACTION_DOWN): 0:(946.0,868.0)
+:Sending Touch (ACTION_UP): 0:(939.1281,863.7626)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.customlocale2/.CustomLocaleActivity } in package com.android.customlocale2
+:Sending Touch (ACTION_DOWN): 0:(135.0,1601.0)
+:Sending Touch (ACTION_UP): 0:(128.5054,1601.6368)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.DeckPicker } in package com.ichi2.anki
+    // activityResuming(com.ichi2.anki)
+    //[calendar_time:2022-04-27 01:24:04.427  system_uptime:475801]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(980.0,96.0)
+:Sending Touch (ACTION_UP): 0:(991.066,78.69112)
+:Sending Touch (ACTION_DOWN): 0:(683.0,1006.0)
+:Sending Touch (ACTION_UP): 0:(682.05524,996.1957)

@@ -1,0 +1,618 @@
+:Monkey: seed=1651045503816 count=1000000
+:AllowPackage: com.nextcloud.client
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.306122%
+//   1: 10.204082%
+//   2: 2.0408163%
+//   3: 15.306122%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.510204%
+//   7: 15.306122%
+//   8: -0.0%
+//   9: 2.0408163%
+//   10: 1.0204082%
+//   11: 13.265306%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Touch (ACTION_DOWN): 0:(32.0,1336.0)
+:Sending Touch (ACTION_UP): 0:(35.723827,1313.308)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,414.0)
+:Sending Touch (ACTION_UP): 0:(965.81665,486.69775)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(515.0,1344.0)
+:Sending Touch (ACTION_UP): 0:(515.28534,1338.8737)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(614.0,401.0)
+:Sending Touch (ACTION_UP): 0:(612.15076,399.98868)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    //[calendar_time:2022-04-26 22:16:47.859  system_uptime:1060564]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(961.0,92.0)
+:Sending Touch (ACTION_UP): 0:(910.77295,39.021614)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(266.0,223.0)
+:Sending Touch (ACTION_UP): 0:(291.40048,223.43185)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1182.0,652.0)
+:Sending Touch (ACTION_UP): 0:(1188.7579,647.7922)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(603.0,1677.0)
+:Sending Touch (ACTION_UP): 0:(599.3865,1695.9601)
+    //[calendar_time:2022-04-26 22:16:52.374  system_uptime:1065079]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(228.0,1496.0)
+:Sending Touch (ACTION_UP): 0:(214.24763,1496.0219)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(479.0,859.0)
+:Sending Touch (ACTION_UP): 0:(465.0471,951.75433)
+:Sending Touch (ACTION_DOWN): 0:(384.0,126.0)
+:Sending Touch (ACTION_UP): 0:(361.313,142.01437)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(42.0,1700.0)
+:Sending Touch (ACTION_UP): 0:(41.2195,1704.7916)
+:Sending Touch (ACTION_DOWN): 0:(1050.0,1076.0)
+:Sending Touch (ACTION_UP): 0:(1040.2448,1071.115)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(996.0,309.0)
+:Sending Touch (ACTION_UP): 0:(992.6787,313.43896)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    //[calendar_time:2022-04-26 22:16:56.644  system_uptime:1069349]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(613.0,377.0)
+:Sending Touch (ACTION_UP): 0:(588.80975,368.069)
+:Sending Touch (ACTION_DOWN): 0:(687.0,406.0)
+:Sending Touch (ACTION_UP): 0:(684.8796,405.9202)
+:Sending Touch (ACTION_DOWN): 0:(729.0,1697.0)
+:Sending Touch (ACTION_UP): 0:(722.6124,1686.6614)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(99.0,1298.0)
+:Sending Touch (ACTION_UP): 0:(124.02326,1324.1594)
+:Sending Touch (ACTION_DOWN): 0:(1180.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(1179.9839,1034.91)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(252.0,874.0)
+:Sending Touch (ACTION_UP): 0:(241.88974,866.47754)
+:Sending Touch (ACTION_DOWN): 0:(389.0,210.0)
+:Sending Touch (ACTION_UP): 0:(382.95486,222.88075)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    //[calendar_time:2022-04-26 22:17:02.398  system_uptime:1075102]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(657.0,1397.0)
+:Sending Touch (ACTION_UP): 0:(762.06555,1487.2993)
+:Sending Touch (ACTION_DOWN): 0:(542.0,943.0)
+:Sending Touch (ACTION_UP): 0:(530.878,953.4002)
+:Sending Touch (ACTION_DOWN): 0:(1170.0,859.0)
+:Sending Touch (ACTION_UP): 0:(1164.4747,859.2049)
+:Sending Touch (ACTION_DOWN): 0:(355.0,835.0)
+:Sending Touch (ACTION_UP): 0:(338.70624,831.40796)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(732.0,1224.0)
+:Sending Touch (ACTION_UP): 0:(809.0764,1228.5093)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(722.0,90.0)
+:Sending Touch (ACTION_UP): 0:(719.5712,84.69831)
+    //[calendar_time:2022-04-26 22:17:06.724  system_uptime:1079428]
+    // Sending event #500
+    //[calendar_time:2022-04-26 22:17:06.924  system_uptime:1079628]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(230.0,1322.0)
+:Sending Touch (ACTION_UP): 0:(232.39288,1322.0271)
+:Sending Touch (ACTION_DOWN): 0:(97.0,1511.0)
+:Sending Touch (ACTION_UP): 0:(94.01574,1504.5024)
+:Sending Touch (ACTION_DOWN): 0:(398.0,1722.0)
+:Sending Touch (ACTION_UP): 0:(382.37076,1722.5547)
+:Sending Touch (ACTION_DOWN): 0:(336.0,802.0)
+:Sending Touch (ACTION_UP): 0:(333.0876,797.6668)
+:Sending Touch (ACTION_DOWN): 0:(516.0,1622.0)
+:Sending Touch (ACTION_UP): 0:(517.9664,1621.9409)
+:Sending Touch (ACTION_DOWN): 0:(1189.0,753.0)
+:Sending Touch (ACTION_UP): 0:(1167.4454,697.00574)
+:Sending Touch (ACTION_DOWN): 0:(946.0,329.0)
+:Sending Touch (ACTION_UP): 0:(945.1156,330.25012)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(1164.0,472.0)
+:Sending Touch (ACTION_UP): 0:(1161.6632,485.8567)
+:Sending Touch (ACTION_DOWN): 0:(298.0,280.0)
+:Sending Touch (ACTION_UP): 0:(296.94992,281.79126)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,1564.0)
+:Sending Touch (ACTION_UP): 0:(1004.45984,1495.7732)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(684.0,664.0)
+    //[calendar_time:2022-04-26 22:17:13.016  system_uptime:1085721]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(690.8138,666.6865)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(603.0,282.0)
+:Sending Touch (ACTION_UP): 0:(509.42685,313.065)
+:Sending Touch (ACTION_DOWN): 0:(965.0,599.0)
+:Sending Touch (ACTION_UP): 0:(965.54895,587.34595)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Touch (ACTION_DOWN): 0:(312.0,1512.0)
+:Sending Touch (ACTION_UP): 0:(308.21396,1491.6737)
+:Sending Touch (ACTION_DOWN): 0:(65.0,863.0)
+:Sending Touch (ACTION_UP): 0:(49.233265,825.8597)
+:Sending Touch (ACTION_DOWN): 0:(157.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(174.79704,1101.8912)
+:Sending Touch (ACTION_DOWN): 0:(372.0,1079.0)
+:Sending Touch (ACTION_UP): 0:(363.61142,1073.0194)
+:Sending Touch (ACTION_DOWN): 0:(332.0,1166.0)
+:Sending Touch (ACTION_UP): 0:(335.56165,1161.0935)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(343.0,1020.0)
+:Sending Touch (ACTION_UP): 0:(366.18918,999.28827)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(897.0,1701.0)
+:Sending Touch (ACTION_UP): 0:(894.45996,1699.2625)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1197.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1346.6722)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2022-04-26 22:17:18.279  system_uptime:1090983]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(487.0,699.0)
+:Sending Touch (ACTION_UP): 0:(489.81805,713.50183)
+:Sending Touch (ACTION_DOWN): 0:(982.0,1163.0)
+:Sending Touch (ACTION_UP): 0:(981.48706,1164.8297)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(1030.2054,1248.5497)
+:Sending Touch (ACTION_DOWN): 0:(244.0,39.0)
+:Sending Touch (ACTION_UP): 0:(217.65523,38.770718)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    //[calendar_time:2022-04-26 22:17:20.471  system_uptime:1093175]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(824.0,1523.0)
+:Sending Touch (ACTION_UP): 0:(823.15094,1522.743)
+:Sending Touch (ACTION_DOWN): 0:(209.0,1431.0)
+:Sending Touch (ACTION_UP): 0:(212.51743,1431.1168)
+:Sending Touch (ACTION_DOWN): 0:(261.0,226.0)
+:Sending Touch (ACTION_UP): 0:(196.79237,215.51282)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(139.0,428.0)
+:Sending Touch (ACTION_UP): 0:(140.20439,425.76086)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,130.0)
+:Sending Touch (ACTION_UP): 0:(1074.9023,116.42433)
+:Sending Touch (ACTION_DOWN): 0:(843.0,549.0)
+:Sending Touch (ACTION_UP): 0:(840.71814,554.77167)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Touch (ACTION_DOWN): 0:(137.0,251.0)
+:Sending Touch (ACTION_UP): 0:(124.97589,238.94266)
+:Sending Touch (ACTION_DOWN): 0:(150.0,896.0)
+:Sending Touch (ACTION_UP): 0:(153.90598,885.24567)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(781.0,310.0)
+:Sending Touch (ACTION_UP): 0:(794.30774,308.83557)
+:Sending Touch (ACTION_DOWN): 0:(509.0,760.0)
+:Sending Touch (ACTION_UP): 0:(511.4354,759.9291)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    //[calendar_time:2022-04-26 22:17:26.516  system_uptime:1099221]
+    // Sending event #900
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(171.0,1159.0)
+:Sending Touch (ACTION_UP): 0:(160.5691,1157.5143)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(30.0,580.0)
+:Sending Touch (ACTION_UP): 0:(56.038914,618.9127)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1040.0,1765.0)
+:Sending Touch (ACTION_UP): 0:(1031.3754,1764.9917)
+    // Allowing start of Intent { cmp=com.nextcloud.client/com.owncloud.android.ui.activity.ActivitiesListActivity } in package com.nextcloud.client
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(101.0,601.0)
+:Sending Touch (ACTION_UP): 0:(64.741356,635.9449)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(819.0,243.0)
+    //[calendar_time:2022-04-26 22:17:31.394  system_uptime:1104098]
+    // Sending event #1000
+:Sending Touch (ACTION_UP): 0:(850.7411,179.66563)
+:Sending Touch (ACTION_DOWN): 0:(1140.0,569.0)
+:Sending Touch (ACTION_UP): 0:(1157.5117,565.3212)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(572.0,1184.0)
+:Sending Touch (ACTION_UP): 0:(578.6206,1189.1405)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Flip keyboardOpen=false
+    // Allowing start of Intent { cmp=com.nextcloud.client/com.owncloud.android.ui.preview.PreviewImageActivity } in package com.nextcloud.client
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1149.0,1048.0)
+:Sending Touch (ACTION_UP): 0:(1146.5817,1051.312)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Touch (ACTION_DOWN): 0:(461.0,783.0)
+:Sending Touch (ACTION_UP): 0:(562.8589,803.02246)
+:Sending Touch (ACTION_DOWN): 0:(302.0,520.0)
+:Sending Touch (ACTION_UP): 0:(287.84042,525.71)
+:Sending Touch (ACTION_DOWN): 0:(865.0,586.0)
+:Sending Touch (ACTION_UP): 0:(870.5396,592.6307)
+    //[calendar_time:2022-04-26 22:17:37.992  system_uptime:1110697]
+    // Sending event #1100
+    //[calendar_time:2022-04-26 22:17:38.193  system_uptime:1110897]
+    // Sending event #1100
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(879.0,948.0)
+:Sending Touch (ACTION_UP): 0:(816.5155,961.1147)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(612.0,1582.0)
+:Sending Touch (ACTION_UP): 0:(609.3978,1577.7327)
+:Sending Touch (ACTION_DOWN): 0:(846.0,1423.0)
+:Sending Touch (ACTION_UP): 0:(853.0258,1424.6908)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1192.0,79.0)
+:Sending Touch (ACTION_UP): 0:(1177.0645,81.58401)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    //[calendar_time:2022-04-26 22:17:41.700  system_uptime:1114404]
+    // Sending event #1200
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(568.0,1126.0)
+:Sending Touch (ACTION_UP): 0:(644.5736,1109.508)
+:Sending Touch (ACTION_DOWN): 0:(476.0,34.0)
+:Sending Touch (ACTION_UP): 0:(473.9798,37.493107)
+:Sending Touch (ACTION_DOWN): 0:(205.0,316.0)
+:Sending Touch (ACTION_UP): 0:(192.66841,316.92102)
+:Sending Touch (ACTION_DOWN): 0:(1088.0,822.0)
+:Sending Touch (ACTION_UP): 0:(1134.4132,824.2037)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(626.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(629.20575,1294.4514)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,457.0)
+:Sending Touch (ACTION_UP): 0:(1041.9525,467.81805)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(910.0,463.0)
+:Sending Touch (ACTION_UP): 0:(918.63007,445.65912)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,472.0)
+:Sending Touch (ACTION_UP): 0:(1037.5278,461.1079)
+:Sending Touch (ACTION_DOWN): 0:(209.0,418.0)
+    //[calendar_time:2022-04-26 22:17:46.379  system_uptime:1119083]
+    // Sending event #1300
+:Sending Touch (ACTION_UP): 0:(170.47812,406.19302)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(70.0,1286.0)
+:Sending Touch (ACTION_UP): 0:(66.298874,1273.0997)
+:Sending Touch (ACTION_DOWN): 0:(600.0,1529.0)
+:Sending Touch (ACTION_UP): 0:(559.0038,1547.3804)
+:Sending Touch (ACTION_DOWN): 0:(506.0,918.0)
+:Sending Touch (ACTION_UP): 0:(508.60132,927.61664)
+:Sending Touch (ACTION_DOWN): 0:(205.0,383.0)
+:Sending Touch (ACTION_UP): 0:(289.93942,321.85458)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(860.0,611.0)
+:Sending Touch (ACTION_UP): 0:(864.5768,613.7974)
+:Sending Touch (ACTION_DOWN): 0:(510.0,830.0)
+:Sending Touch (ACTION_UP): 0:(499.2646,824.24567)
+:Sending Touch (ACTION_DOWN): 0:(533.0,859.0)
+:Sending Touch (ACTION_UP): 0:(528.42914,857.5545)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(235.0,1777.0)
+:Sending Touch (ACTION_UP): 0:(227.74933,1772.6001)
+:Sending Touch (ACTION_DOWN): 0:(933.0,1176.0)
+:Sending Touch (ACTION_UP): 0:(930.39856,1159.0455)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    //[calendar_time:2022-04-26 22:17:51.139  system_uptime:1123843]
+    // Sending event #1400
+:Sending Touch (ACTION_DOWN): 0:(494.0,1273.0)
+:Sending Touch (ACTION_UP): 0:(493.046,1274.7252)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(351.0,1116.0)
+:Sending Touch (ACTION_UP): 0:(331.442,1115.4156)
+:Sending Touch (ACTION_DOWN): 0:(425.0,923.0)
+:Sending Touch (ACTION_UP): 0:(426.7674,921.8668)
+:Sending Touch (ACTION_DOWN): 0:(315.0,288.0)
+:Sending Touch (ACTION_UP): 0:(304.89297,290.80386)
+:Sending Touch (ACTION_DOWN): 0:(870.0,1823.0)
+:Sending Touch (ACTION_UP): 0:(964.6518,1824.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(886.0,206.0)
+:Sending Touch (ACTION_UP): 0:(885.06354,214.78564)
+:Sending Touch (ACTION_DOWN): 0:(728.0,1445.0)
+:Sending Touch (ACTION_UP): 0:(721.9874,1445.2744)
+:Sending Touch (ACTION_DOWN): 0:(692.0,1567.0)
+:Sending Touch (ACTION_UP): 0:(695.52026,1560.4097)
+:Sending Touch (ACTION_DOWN): 0:(641.0,767.0)
+:Sending Touch (ACTION_UP): 0:(639.6826,754.3268)
+:Sending Touch (ACTION_DOWN): 0:(569.0,573.0)
+:Sending Touch (ACTION_UP): 0:(577.25256,532.7569)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2022-04-26 22:17:55.945  system_uptime:1128649]
+    // Sending event #1500
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(219.0,414.0)
+:Sending Touch (ACTION_UP): 0:(206.0425,417.26465)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Touch (ACTION_DOWN): 0:(693.0,864.0)
+:Sending Touch (ACTION_UP): 0:(728.6891,828.0682)
+:Sending Touch (ACTION_DOWN): 0:(545.0,913.0)
+:Sending Touch (ACTION_UP): 0:(530.3405,881.5417)
+:Sending Touch (ACTION_DOWN): 0:(230.0,622.0)
+:Sending Touch (ACTION_UP): 0:(217.48885,625.3921)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(46.0,996.0)
+    //[calendar_time:2022-04-26 22:17:59.096  system_uptime:1131800]
+    // Sending event #1600
+:Sending Touch (ACTION_UP): 0:(110.99702,1062.2743)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(622.0,1083.0)
+:Sending Touch (ACTION_UP): 0:(627.3713,1078.1932)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(181.0,1511.0)
+:Sending Touch (ACTION_UP): 0:(181.23009,1511.5294)
+:Sending Touch (ACTION_DOWN): 0:(571.0,407.0)
+:Sending Touch (ACTION_UP): 0:(579.1666,409.53635)
+:Sending Touch (ACTION_DOWN): 0:(392.0,261.0)
+:Sending Touch (ACTION_UP): 0:(384.22232,252.52159)
+:Sending Touch (ACTION_DOWN): 0:(382.0,388.0)
+:Sending Touch (ACTION_UP): 0:(386.2863,391.72137)
+:Sending Touch (ACTION_DOWN): 0:(74.0,231.0)
+:Sending Touch (ACTION_UP): 0:(92.09921,232.28241)
+:Sending Touch (ACTION_DOWN): 0:(50.0,1563.0)
+:Sending Touch (ACTION_UP): 0:(49.95416,1562.582)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,810.0)
+:Sending Touch (ACTION_UP): 0:(1062.8706,796.3792)
+:Sending Touch (ACTION_DOWN): 0:(861.0,1665.0)
+:Sending Touch (ACTION_UP): 0:(853.1779,1660.9408)
+:Sending Touch (ACTION_DOWN): 0:(12.0,114.0)
+:Sending Touch (ACTION_UP): 0:(0.0,109.22747)
+:Sending Touch (ACTION_DOWN): 0:(9.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(24.849232,1066.7482)
+:Sending Flip keyboardOpen=true
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(493.0,868.0)
+:Sending Touch (ACTION_UP): 0:(479.37323,868.0131)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(524.0,430.0)
+:Sending Touch (ACTION_UP): 0:(533.2726,431.3664)
+:Sending Touch (ACTION_DOWN): 0:(737.0,1729.0)
+:Sending Touch (ACTION_UP): 0:(740.34546,1736.9874)
+:Sending Touch (ACTION_DOWN): 0:(884.0,807.0)
+:Sending Touch (ACTION_UP): 0:(884.676,808.3389)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    //[calendar_time:2022-04-26 22:18:05.665  system_uptime:1138369]
+    // Sending event #1700
+:Sending Touch (ACTION_DOWN): 0:(727.0,561.0)
+:Sending Touch (ACTION_UP): 0:(726.3233,560.4156)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(954.0,135.0)
+:Sending Touch (ACTION_UP): 0:(900.87537,109.79411)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Touch (ACTION_DOWN): 0:(1137.0,224.0)
+:Sending Touch (ACTION_UP): 0:(1144.6426,230.64008)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(603.0,1277.0)
+:Sending Touch (ACTION_UP): 0:(614.4479,1252.8394)
+:Sending Touch (ACTION_DOWN): 0:(654.0,118.0)
+:Sending Touch (ACTION_UP): 0:(611.48303,130.38538)
+:Sending Touch (ACTION_DOWN): 0:(1105.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(1069.3004,1063.2324)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1093.0,739.0)
+    //[calendar_time:2022-04-26 22:18:09.021  system_uptime:1141726]
+    // Sending event #1800
+:Sending Touch (ACTION_UP): 0:(1037.3708,657.25574)
+:Sending Touch (ACTION_DOWN): 0:(353.0,1690.0)
+:Sending Touch (ACTION_UP): 0:(348.9449,1670.7655)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(411.0,1583.0)
+:Sending Touch (ACTION_UP): 0:(413.26086,1583.4083)
+:Sending Touch (ACTION_DOWN): 0:(851.0,1723.0)
+:Sending Touch (ACTION_UP): 0:(829.7011,1704.6492)
+:Sending Touch (ACTION_DOWN): 0:(307.0,217.0)
+:Sending Touch (ACTION_UP): 0:(300.69342,204.2672)
+:Sending Touch (ACTION_DOWN): 0:(174.0,1635.0)
+:Sending Touch (ACTION_UP): 0:(185.57324,1658.4594)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(352.0,701.0)
+:Sending Touch (ACTION_UP): 0:(349.5836,698.8336)
+:Sending Touch (ACTION_DOWN): 0:(462.0,478.0)
+:Sending Touch (ACTION_UP): 0:(481.91443,476.76883)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1193.0,357.0)
+:Sending Touch (ACTION_UP): 0:(1186.3474,347.79187)
+:Sending Touch (ACTION_DOWN): 0:(169.0,1293.0)
+:Sending Touch (ACTION_UP): 0:(175.05629,1297.6866)
+:Sending Touch (ACTION_DOWN): 0:(679.0,1069.0)
+:Sending Touch (ACTION_UP): 0:(702.39136,1043.3163)
+    //[calendar_time:2022-04-26 22:18:14.899  system_uptime:1147603]
+    // Sending event #1900
+    //[calendar_time:2022-04-26 22:18:15.099  system_uptime:1147803]
+    // Sending event #1900
+:Sending Touch (ACTION_DOWN): 0:(419.0,1432.0)
+:Sending Touch (ACTION_UP): 0:(419.35666,1432.2507)
+:Sending Touch (ACTION_DOWN): 0:(4.0,1010.0)
+:Sending Touch (ACTION_UP): 0:(2.994949,1008.9691)
+:Sending Touch (ACTION_DOWN): 0:(589.0,880.0)
+:Sending Touch (ACTION_UP): 0:(577.3315,864.3186)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(689.0,811.0)
+:Sending Touch (ACTION_UP): 0:(692.0405,812.38336)
+:Sending Touch (ACTION_DOWN): 0:(574.0,387.0)
+:Sending Touch (ACTION_UP): 0:(556.23193,391.66306)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(733.0,1797.0)
+:Sending Touch (ACTION_UP): 0:(742.3448,1780.973)
+:Sending Touch (ACTION_DOWN): 0:(938.0,1740.0)
+:Sending Touch (ACTION_UP): 0:(907.29486,1777.5641)
+    //[calendar_time:2022-04-26 22:18:18.453  system_uptime:1151157]
+    // Sending event #2000
+    //[calendar_time:2022-04-26 22:18:18.653  system_uptime:1151358]
+    // Sending event #2000
+:Sending Touch (ACTION_DOWN): 0:(4.0,378.0)
+:Sending Touch (ACTION_UP): 0:(0.0,301.17188)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(1098.0,374.0)
+:Sending Touch (ACTION_UP): 0:(1113.1371,376.6844)
+:Sending Touch (ACTION_DOWN): 0:(98.0,394.0)
+:Sending Touch (ACTION_UP): 0:(103.92467,392.84134)
+:Sending Touch (ACTION_DOWN): 0:(285.0,459.0)
+:Sending Touch (ACTION_UP): 0:(283.5477,444.09167)
+:Sending Touch (ACTION_DOWN): 0:(627.0,1267.0)
+:Sending Touch (ACTION_UP): 0:(628.0244,1283.2124)
+:Sending Touch (ACTION_DOWN): 0:(7.0,1091.0)
+:Sending Touch (ACTION_UP): 0:(9.08626,1089.7627)
+:Sending Touch (ACTION_DOWN): 0:(615.0,824.0)
+:Sending Touch (ACTION_UP): 0:(603.96936,832.1442)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+// CRASH: com.nextcloud.client (pid 6455)
+// Short Msg: java.lang.ClassCastException
+// Long Msg: java.lang.ClassCastException: com.owncloud.android.ui.preview.PreviewImageActivity cannot be cast to com.owncloud.android.ui.activity.FileDisplayActivity
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// java.lang.ClassCastException: com.owncloud.android.ui.preview.PreviewImageActivity cannot be cast to com.owncloud.android.ui.activity.FileDisplayActivity
+// 	at com.owncloud.android.ui.preview.PreviewImageFragment.onOptionsItemSelected(PreviewImageFragment.java:432)
+// 	at android.support.v4.app.Fragment.performOptionsItemSelected(Fragment.java:2487)
+// 	at android.support.v4.app.FragmentManagerImpl.dispatchOptionsItemSelected(FragmentManager.java:3307)
+// 	at android.support.v4.app.FragmentController.dispatchOptionsItemSelected(FragmentController.java:344)
+// 	at android.support.v4.app.FragmentActivity.onMenuItemSelected(FragmentActivity.java:374)
+// 	at android.support.v7.app.AppCompatActivity.onMenuItemSelected(AppCompatActivity.java:195)
+// 	at android.support.v7.view.WindowCallbackWrapper.onMenuItemSelected(WindowCallbackWrapper.java:108)
+// 	at android.support.v7.app.AppCompatDelegateImplV9.onMenuItemSelected(AppCompatDelegateImplV9.java:674)
+// 	at android.support.v7.view.menu.MenuBuilder.dispatchMenuItemSelected(MenuBuilder.java:822)
+// 	at android.support.v7.view.menu.MenuItemImpl.invoke(MenuItemImpl.java:171)
+// 	at android.support.v7.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:973)
+// 	at android.support.v7.view.menu.MenuPopup.onItemClick(MenuPopup.java:127)
+// 	at android.widget.AdapterView.performItemClick(AdapterView.java:310)
+// 	at android.widget.AbsListView.performItemClick(AbsListView.java:1156)
+// 	at android.widget.AbsListView.onKeyUp(AbsListView.java:3343)
+// 	at android.widget.ListView.commonKey(ListView.java:2401)
+// 	at android.widget.ListView.onKeyUp(ListView.java:2274)
+// 	at android.view.KeyEvent.dispatch(KeyEvent.java:2712)
+// 	at android.view.View.dispatchKeyEvent(View.java:9960)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1625)
+// 	at android.widget.ListView.dispatchKeyEvent(ListView.java:2249)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.widget.PopupWindow$PopupDecorView.dispatchKeyEvent(PopupWindow.java:2266)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:4331)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:4302)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3999)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:4056)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3999)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:4056)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3999)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:4056)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:6246)
+// 	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:6220)
+// 	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:6181)
+// 	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:6349)
+// 	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:185)
+// 	at android.os.MessageQueue.nativePollOnce(Native Method)
+// 	at android.os.MessageQueue.next(MessageQueue.java:323)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// 
+app_crashcom.nextcloud.client_2022-04-26_22_18_22.998_.txt:
+// app_crashcom.nextcloud.client_2022-04-26_22_18_22.998_.txt status was 0
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2022-04-26 22:19:28.515  system_uptime:1221219]
+    // Sending event #2100
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(923.0,1782.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(926.2442,1763.57)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(690.0,216.0)
+:Sending Touch (ACTION_UP): 0:(689.76227,205.80696)
+:Sending Touch (ACTION_DOWN): 0:(995.0,932.0)
+:Sending Touch (ACTION_UP): 0:(982.4801,927.1339)
+:Sending Touch (ACTION_DOWN): 0:(472.0,1472.0)
+:Sending Touch (ACTION_UP): 0:(468.22757,1469.2902)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(122.0,747.0)
+:Sending Touch (ACTION_UP): 0:(109.999886,742.06506)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1348.0)
+:Sending Touch (ACTION_UP): 0:(269.59824,1342.5184)

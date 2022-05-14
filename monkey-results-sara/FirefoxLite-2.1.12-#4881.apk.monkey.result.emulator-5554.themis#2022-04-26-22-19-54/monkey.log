@@ -1,0 +1,2196 @@
+:Monkey: seed=1651236266291 count=1000000
+:AllowPackage: org.mozilla.rocket.debug.ting
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.306122%
+//   1: 10.204082%
+//   2: 2.0408163%
+//   3: 15.306122%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.510204%
+//   7: 15.306122%
+//   8: -0.0%
+//   9: 2.0408163%
+//   10: 1.0204082%
+//   11: 13.265306%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(446.0,183.0)
+:Sending Touch (ACTION_UP): 0:(448.03088,165.68219)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(833.0,978.0)
+:Sending Touch (ACTION_UP): 0:(850.0353,994.17255)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1172.0,1304.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1322.1792)
+:Sending Touch (ACTION_DOWN): 0:(1180.0,489.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,587.5359)
+:Sending Touch (ACTION_DOWN): 0:(224.0,1323.0)
+:Sending Touch (ACTION_UP): 0:(221.02577,1332.0198)
+:Sending Touch (ACTION_DOWN): 0:(56.0,212.0)
+:Sending Touch (ACTION_UP): 0:(76.79596,168.63689)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,464.0)
+:Sending Touch (ACTION_UP): 0:(1051.7555,455.42282)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    //[calendar_time:2022-04-26 22:20:08.111  system_uptime:1211859]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(783.0,1755.0)
+:Sending Touch (ACTION_UP): 0:(791.2147,1758.8766)
+:Sending Touch (ACTION_DOWN): 0:(1093.0,306.0)
+:Sending Touch (ACTION_UP): 0:(1051.383,345.88452)
+:Sending Touch (ACTION_DOWN): 0:(56.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(48.93931,1052.0885)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.deskclock/com.android.deskclock.DeskClock } in package com.google.android.deskclock
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.youtube/.app.honeycomb.Shell$HomeActivity } in package com.google.android.youtube
+:Sending Touch (ACTION_DOWN): 0:(460.0,841.0)
+:Sending Touch (ACTION_UP): 0:(460.23212,835.48334)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(1168.0,728.0)
+:Sending Touch (ACTION_UP): 0:(1197.0465,698.49835)
+:Sending Touch (ACTION_DOWN): 0:(1035.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(1036.0739,1025.161)
+:Sending Touch (ACTION_DOWN): 0:(950.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(940.2435,1168.1406)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(132.0,537.0)
+:Sending Touch (ACTION_UP): 0:(150.57057,637.13434)
+:Sending Touch (ACTION_DOWN): 0:(1149.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(1153.5916,1402.4978)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(740.0,588.0)
+    //[calendar_time:2022-04-26 22:20:12.957  system_uptime:1216706]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(694.1502,537.88043)
+:Sending Touch (ACTION_DOWN): 0:(740.0,998.0)
+:Sending Touch (ACTION_UP): 0:(738.5979,993.4023)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(709.0,1326.0)
+:Sending Touch (ACTION_UP): 0:(713.8598,1326.717)
+:Sending Touch (ACTION_DOWN): 0:(867.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(818.02374,1247.0503)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(58.0,1042.0)
+:Sending Touch (ACTION_UP): 0:(55.594254,974.3674)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.focus.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+    // activityResuming(org.mozilla.rocket.debug.ting)
+:Sending Touch (ACTION_DOWN): 0:(612.0,320.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    //[calendar_time:2022-04-26 22:20:16.965  system_uptime:1220713]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(606.1257,285.60605)
+    // Injection Failed
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(172.0,219.0)
+:Sending Touch (ACTION_UP): 0:(118.739944,339.35922)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(894.0,1738.0)
+:Sending Touch (ACTION_UP): 0:(920.00024,1725.5344)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{8631516 VFEDHVCL. .F....ID 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(962.0,558.0)
+:Sending Touch (ACTION_UP): 0:(964.4779,577.8911)
+:Sending Touch (ACTION_DOWN): 0:(1045.0,1204.0)
+:Sending Touch (ACTION_UP): 0:(1066.1364,1182.9719)
+:Sending Touch (ACTION_DOWN): 0:(912.0,1686.0)
+:Sending Touch (ACTION_UP): 0:(853.2621,1771.8611)
+:Sending Touch (ACTION_DOWN): 0:(888.0,368.0)
+:Sending Touch (ACTION_UP): 0:(889.3022,379.45422)
+    //[calendar_time:2022-04-26 22:20:21.774  system_uptime:1225522]
+    // Sending event #400
+    //[calendar_time:2022-04-26 22:20:21.974  system_uptime:1225723]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,632.0)
+:Sending Touch (ACTION_UP): 0:(1035.1799,630.7523)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{8631516 VFEDHVCL. ......ID 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{8631516 VFEDHVCL. ......ID 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(1009.0,280.0)
+:Sending Touch (ACTION_UP): 0:(1011.39417,273.97827)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{424fac6 VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(161.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(155.19847,1284.4628)
+:Sending Touch (ACTION_DOWN): 0:(265.0,1782.0)
+:Sending Touch (ACTION_UP): 0:(336.28958,1758.2786)
+:Sending Touch (ACTION_DOWN): 0:(1184.0,796.0)
+:Sending Touch (ACTION_UP): 0:(1196.332,794.0033)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{424fac6 VFEDHVCL. .F....ID 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(313.0,968.0)
+:Sending Touch (ACTION_UP): 0:(301.1469,967.2073)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{424fac6 VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(201.0,1573.0)
+    //[calendar_time:2022-04-26 22:20:26.924  system_uptime:1230673]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(180.19164,1542.3546)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(657.0,576.0)
+:Sending Touch (ACTION_UP): 0:(656.1681,551.19415)
+:Sending Touch (ACTION_DOWN): 0:(786.0,656.0)
+:Sending Touch (ACTION_UP): 0:(818.6583,688.4777)
+:Sending Touch (ACTION_DOWN): 0:(335.0,146.0)
+:Sending Touch (ACTION_UP): 0:(322.54062,147.9716)
+:Sending Touch (ACTION_DOWN): 0:(587.0,116.0)
+:Sending Touch (ACTION_UP): 0:(604.89056,26.826445)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{424fac6 VFEDHVCL. .F....ID 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{424fac6 VFEDHVCL. .F....I. 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{424fac6 VFEDHVCL. .F....ID 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(537.0,447.0)
+:Sending Touch (ACTION_UP): 0:(640.7577,427.50653)
+:Sending Touch (ACTION_DOWN): 0:(667.0,713.0)
+:Sending Touch (ACTION_UP): 0:(683.45154,718.48224)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{424fac6 VFEDHVCL. .F....I. 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(696.0,713.0)
+    //[calendar_time:2022-04-26 22:20:31.236  system_uptime:1234984]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(694.9515,712.66187)
+:Sending Touch (ACTION_DOWN): 0:(1012.0,861.0)
+:Sending Touch (ACTION_UP): 0:(998.2238,880.8192)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(913.0,65.0)
+:Sending Touch (ACTION_UP): 0:(1039.7413,180.2562)
+:Sending Touch (ACTION_DOWN): 0:(189.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(241.65494,1721.7019)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(506.0,914.0)
+:Sending Touch (ACTION_UP): 0:(503.28687,908.0639)
+:Sending Touch (ACTION_DOWN): 0:(563.0,390.0)
+:Sending Touch (ACTION_UP): 0:(579.5738,390.89328)
+    //[calendar_time:2022-04-26 22:20:36.234  system_uptime:1239983]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(751.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(764.465,1050.1427)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,258.0)
+:Sending Touch (ACTION_UP): 0:(1065.8601,256.1077)
+:Sending Touch (ACTION_DOWN): 0:(630.0,1530.0)
+:Sending Touch (ACTION_UP): 0:(718.73083,1496.5627)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(592.0,915.0)
+:Sending Touch (ACTION_UP): 0:(602.1825,913.5956)
+:Sending Touch (ACTION_DOWN): 0:(760.0,954.0)
+:Sending Touch (ACTION_UP): 0:(683.61646,883.27765)
+:Sending Touch (ACTION_DOWN): 0:(519.0,1579.0)
+:Sending Touch (ACTION_UP): 0:(470.8638,1564.3785)
+:Sending Touch (ACTION_DOWN): 0:(1112.0,1100.0)
+:Sending Touch (ACTION_UP): 0:(1111.192,1095.2134)
+    //[calendar_time:2022-04-26 22:20:42.145  system_uptime:1245893]
+    // Sending event #800
+    //[calendar_time:2022-04-26 22:20:42.346  system_uptime:1246094]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(873.0,147.0)
+:Sending Touch (ACTION_UP): 0:(874.4036,144.93347)
+:Sending Touch (ACTION_DOWN): 0:(304.0,62.0)
+:Sending Touch (ACTION_UP): 0:(261.18732,7.614175)
+:Sending Touch (ACTION_DOWN): 0:(85.0,1754.0)
+:Sending Touch (ACTION_UP): 0:(96.22821,1757.87)
+:Sending Touch (ACTION_DOWN): 0:(640.0,1059.0)
+:Sending Touch (ACTION_UP): 0:(652.53345,1064.3059)
+:Sending Touch (ACTION_DOWN): 0:(201.0,788.0)
+:Sending Touch (ACTION_UP): 0:(202.47331,769.4942)
+:Sending Touch (ACTION_DOWN): 0:(348.0,1335.0)
+:Sending Touch (ACTION_UP): 0:(322.91205,1344.694)
+:Sending Touch (ACTION_DOWN): 0:(317.0,28.0)
+:Sending Touch (ACTION_UP): 0:(317.17935,34.781933)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    //[calendar_time:2022-04-26 22:20:47.548  system_uptime:1251296]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(197.0,1327.0)
+:Sending Touch (ACTION_UP): 0:(198.22424,1324.9192)
+:Sending Touch (ACTION_DOWN): 0:(668.0,369.0)
+:Sending Touch (ACTION_UP): 0:(672.48016,373.333)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(595.0,821.0)
+:Sending Touch (ACTION_UP): 0:(599.4196,822.6331)
+:Sending Touch (ACTION_DOWN): 0:(108.0,1506.0)
+:Sending Touch (ACTION_UP): 0:(131.194,1507.1141)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(653.0,133.0)
+:Sending Touch (ACTION_UP): 0:(645.7292,123.914474)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(323.0,847.0)
+:Sending Touch (ACTION_UP): 0:(305.8364,852.741)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1129.0,1518.0)
+:Sending Touch (ACTION_UP): 0:(1130.3408,1521.071)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(764.0,1469.0)
+:Sending Touch (ACTION_UP): 0:(798.0429,1472.0781)
+:Sending Touch (ACTION_DOWN): 0:(280.0,89.0)
+:Sending Touch (ACTION_UP): 0:(281.45453,84.27288)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    //[calendar_time:2022-04-26 22:20:51.505  system_uptime:1255253]
+    // Sending event #1000
+:Sending Touch (ACTION_DOWN): 0:(781.0,392.0)
+:Sending Touch (ACTION_UP): 0:(780.90314,391.16928)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(611.0,487.0)
+:Sending Touch (ACTION_UP): 0:(581.4357,478.1756)
+:Sending Touch (ACTION_DOWN): 0:(707.0,90.0)
+:Sending Touch (ACTION_UP): 0:(703.3167,94.6396)
+:Sending Touch (ACTION_DOWN): 0:(460.0,566.0)
+:Sending Touch (ACTION_UP): 0:(523.9925,611.22437)
+:Sending Touch (ACTION_DOWN): 0:(310.0,556.0)
+:Sending Touch (ACTION_UP): 0:(323.91867,565.5835)
+:Sending Touch (ACTION_DOWN): 0:(216.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(211.06656,1260.8618)
+:Sending Touch (ACTION_DOWN): 0:(1160.0,310.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,303.25568)
+:Sending Touch (ACTION_DOWN): 0:(297.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(297.55957,1074.043)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1098.0,448.0)
+:Sending Touch (ACTION_UP): 0:(1078.9996,470.11362)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2022-04-26 22:20:57.517  system_uptime:1261265]
+    // Sending event #1100
+:Sending Touch (ACTION_DOWN): 0:(245.0,1114.0)
+:Sending Touch (ACTION_UP): 0:(348.796,1035.1362)
+:Sending Touch (ACTION_DOWN): 0:(1152.0,1419.0)
+:Sending Touch (ACTION_UP): 0:(1151.4542,1413.9738)
+:Sending Touch (ACTION_DOWN): 0:(663.0,1101.0)
+:Sending Touch (ACTION_UP): 0:(656.32367,1103.5482)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(651.0,1232.0)
+:Sending Touch (ACTION_UP): 0:(772.09607,1221.3136)
+:Sending Touch (ACTION_DOWN): 0:(626.0,71.0)
+:Sending Touch (ACTION_UP): 0:(631.8178,31.476204)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(21.0,851.0)
+:Sending Touch (ACTION_UP): 0:(26.048859,844.4888)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{424fac6 VFEDHVCL. .F....I. 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    //[calendar_time:2022-04-26 22:21:02.172  system_uptime:1265920]
+    // Sending event #1200
+:Sending Touch (ACTION_DOWN): 0:(769.0,129.0)
+:Sending Touch (ACTION_UP): 0:(757.3977,127.96326)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(378.0,58.0)
+:Sending Touch (ACTION_UP): 0:(312.2788,0.03212309)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1152.0,70.0)
+:Sending Touch (ACTION_UP): 0:(1158.382,83.60821)
+:Sending Touch (ACTION_DOWN): 0:(1133.0,881.0)
+:Sending Touch (ACTION_UP): 0:(1120.2177,875.5173)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{424fac6 VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,15.0)
+:Sending Touch (ACTION_UP): 0:(1064.2162,36.617123)
+:Sending Touch (ACTION_DOWN): 0:(325.0,1612.0)
+:Sending Touch (ACTION_UP): 0:(322.913,1620.2144)
+:Sending Flip keyboardOpen=false
+    //[calendar_time:2022-04-26 22:21:08.588  system_uptime:1272336]
+    // Sending event #1300
+    //[calendar_time:2022-04-26 22:21:08.788  system_uptime:1272536]
+    // Sending event #1300
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1169.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(1169.3065,1084.6702)
+:Sending Touch (ACTION_DOWN): 0:(610.0,218.0)
+:Sending Touch (ACTION_UP): 0:(615.02924,216.55664)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(124.0,788.0)
+:Sending Touch (ACTION_UP): 0:(144.01495,760.37085)
+:Sending Touch (ACTION_DOWN): 0:(451.0,1243.0)
+:Sending Touch (ACTION_UP): 0:(453.79352,1231.3232)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(587.0,1821.0)
+:Sending Touch (ACTION_UP): 0:(591.0123,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,683.0)
+:Sending Touch (ACTION_UP): 0:(1058.8677,682.60565)
+:Sending Touch (ACTION_DOWN): 0:(478.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(482.89066,1216.9225)
+:Sending Touch (ACTION_DOWN): 0:(165.0,640.0)
+:Sending Touch (ACTION_UP): 0:(164.97319,639.84045)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    //[calendar_time:2022-04-26 22:21:14.018  system_uptime:1277766]
+    // Sending event #1400
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(304.0,384.0)
+:Sending Touch (ACTION_UP): 0:(257.55518,306.8746)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{9726baa VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{9726baa VFEDHVCL. .F....ID 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(790.0,1088.0)
+:Sending Touch (ACTION_UP): 0:(789.25757,1097.9124)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(941.0,512.0)
+:Sending Touch (ACTION_UP): 0:(937.2501,509.1332)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    //[calendar_time:2022-04-26 22:21:16.498  system_uptime:1280246]
+    // Sending event #1500
+:Sending Touch (ACTION_DOWN): 0:(542.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(542.32513,1651.2775)
+:Sending Touch (ACTION_DOWN): 0:(437.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(427.3191,1392.0848)
+:Sending Touch (ACTION_DOWN): 0:(206.0,342.0)
+:Sending Touch (ACTION_UP): 0:(206.14693,342.10052)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1100.0,1191.0)
+:Sending Touch (ACTION_UP): 0:(1095.4166,1169.1716)
+:Sending Touch (ACTION_DOWN): 0:(345.0,1149.0)
+:Sending Touch (ACTION_UP): 0:(327.56622,1149.1088)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(750.0,288.0)
+:Sending Touch (ACTION_UP): 0:(753.6616,291.53873)
+:Sending Touch (ACTION_DOWN): 0:(1109.0,180.0)
+:Sending Touch (ACTION_UP): 0:(1038.2184,234.0793)
+:Sending Touch (ACTION_DOWN): 0:(1163.0,1528.0)
+:Sending Touch (ACTION_UP): 0:(1173.3921,1526.4713)
+:Sending Touch (ACTION_DOWN): 0:(143.0,28.0)
+:Sending Touch (ACTION_UP): 0:(140.35231,18.458164)
+:Sending Touch (ACTION_DOWN): 0:(52.0,862.0)
+:Sending Touch (ACTION_UP): 0:(30.993156,894.0524)
+    //[calendar_time:2022-04-26 22:21:22.873  system_uptime:1286621]
+    // Sending event #1600
+    //[calendar_time:2022-04-26 22:21:23.075  system_uptime:1286823]
+    // Sending event #1600
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(374.0,944.0)
+:Sending Touch (ACTION_UP): 0:(358.7486,901.47845)
+:Sending Touch (ACTION_DOWN): 0:(161.0,1565.0)
+:Sending Touch (ACTION_UP): 0:(176.45302,1580.4473)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{9726baa VFEDHVCL. .F....I. 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(733.0,1797.0)
+:Sending Touch (ACTION_UP): 0:(730.1944,1802.9581)
+:Sending Touch (ACTION_DOWN): 0:(467.0,296.0)
+:Sending Touch (ACTION_UP): 0:(470.59808,263.72992)
+:Sending Touch (ACTION_DOWN): 0:(325.0,356.0)
+:Sending Touch (ACTION_UP): 0:(253.63094,346.01602)
+:Sending Touch (ACTION_DOWN): 0:(773.0,1279.0)
+:Sending Touch (ACTION_UP): 0:(771.91376,1273.7601)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,1371.0)
+:Sending Touch (ACTION_UP): 0:(1032.6683,1374.4136)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(728.0,1714.0)
+:Sending Touch (ACTION_UP): 0:(741.368,1728.5488)
+:Sending Touch (ACTION_DOWN): 0:(714.0,422.0)
+:Sending Touch (ACTION_UP): 0:(727.70776,390.50803)
+    //[calendar_time:2022-04-26 22:21:28.046  system_uptime:1291794]
+    // Sending event #1700
+    //[calendar_time:2022-04-26 22:21:28.246  system_uptime:1291994]
+    // Sending event #1700
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(353.0,1226.0)
+:Sending Touch (ACTION_UP): 0:(361.65567,1226.7959)
+:Sending Touch (ACTION_DOWN): 0:(877.0,235.0)
+:Sending Touch (ACTION_UP): 0:(871.78937,236.67029)
+:Sending Touch (ACTION_DOWN): 0:(267.0,1305.0)
+:Sending Touch (ACTION_UP): 0:(239.07642,1289.1074)
+:Sending Touch (ACTION_DOWN): 0:(435.0,1524.0)
+:Sending Touch (ACTION_UP): 0:(439.8261,1518.7773)
+:Sending Touch (ACTION_DOWN): 0:(477.0,456.0)
+:Sending Touch (ACTION_UP): 0:(465.4892,458.4261)
+:Sending Touch (ACTION_DOWN): 0:(1040.0,327.0)
+:Sending Touch (ACTION_UP): 0:(1035.596,330.59738)
+:Sending Touch (ACTION_DOWN): 0:(315.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(308.93893,1348.9268)
+:Sending Touch (ACTION_DOWN): 0:(69.0,66.0)
+:Sending Touch (ACTION_UP): 0:(57.60486,77.11888)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,1733.0)
+:Sending Touch (ACTION_UP): 0:(1022.8626,1711.3038)
+:Sending Touch (ACTION_DOWN): 0:(327.0,524.0)
+:Sending Touch (ACTION_UP): 0:(332.05896,529.71735)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{9726baa VFEDHVCL. .F....I. 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(639.0,928.0)
+:Sending Touch (ACTION_UP): 0:(634.51166,925.6256)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{9726baa VFEDHVCL. .F....I. 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(655.0,987.0)
+:Sending Touch (ACTION_UP): 0:(663.3842,981.7381)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+    //[calendar_time:2022-04-26 22:21:34.060  system_uptime:1297808]
+    // Sending event #1800
+:Sending Touch (ACTION_DOWN): 0:(427.0,1144.0)
+:Sending Touch (ACTION_UP): 0:(427.82965,1144.4619)
+    // Allowing start of Intent { cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.shopping.search.ui.ShoppingSearchActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(1053.0,151.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1033.0946,155.4521)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,103.0)
+:Sending Touch (ACTION_UP): 0:(1001.0383,102.53791)
+:Sending Touch (ACTION_DOWN): 0:(735.0,116.0)
+:Sending Touch (ACTION_UP): 0:(727.9842,111.059715)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(24.0,1336.0)
+:Sending Touch (ACTION_UP): 0:(42.77517,1331.1229)
+:Sending Touch (ACTION_DOWN): 0:(1187.0,77.0)
+:Sending Touch (ACTION_UP): 0:(1196.0542,75.917015)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(959.0,1199.0)
+:Sending Touch (ACTION_UP): 0:(958.55396,1208.5875)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+    //[calendar_time:2022-04-26 22:21:37.678  system_uptime:1301426]
+    // Sending event #1900
+:Sending Touch (ACTION_DOWN): 0:(31.0,1525.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1509.5325)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(66.0,1453.0)
+:Sending Touch (ACTION_UP): 0:(82.489685,1459.8795)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,51.0)
+:Sending Touch (ACTION_UP): 0:(1016.5579,49.45186)
+:Sending Touch (ACTION_DOWN): 0:(523.0,93.0)
+:Sending Touch (ACTION_UP): 0:(459.48013,113.49456)
+:Sending Touch (ACTION_DOWN): 0:(625.0,1347.0)
+:Sending Touch (ACTION_UP): 0:(510.67657,1482.7843)
+:Sending Touch (ACTION_DOWN): 0:(909.0,595.0)
+:Sending Touch (ACTION_UP): 0:(913.55865,592.927)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(21.0,896.0)
+:Sending Touch (ACTION_UP): 0:(43.014275,880.2164)
+:Sending Touch (ACTION_DOWN): 0:(244.0,567.0)
+:Sending Touch (ACTION_UP): 0:(242.92062,582.11975)
+    //[calendar_time:2022-04-26 22:21:41.564  system_uptime:1305313]
+    // Sending event #2000
+    //[calendar_time:2022-04-26 22:21:41.765  system_uptime:1305513]
+    // Sending event #2000
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(1087.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(1085.4764,1609.811)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,984.0)
+:Sending Touch (ACTION_UP): 0:(1004.95703,983.6485)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(170.0,401.0)
+:Sending Touch (ACTION_UP): 0:(166.18593,392.00708)
+:Sending Touch (ACTION_DOWN): 0:(730.0,126.0)
+:Sending Touch (ACTION_UP): 0:(732.30774,139.15443)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,1502.0)
+    //[calendar_time:2022-04-26 22:21:47.878  system_uptime:1311626]
+    // Sending event #2100
+:Sending Touch (ACTION_UP): 0:(1049.2092,1546.6222)
+:Sending Flip keyboardOpen=false
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(674.0,1372.0)
+:Sending Touch (ACTION_UP): 0:(668.2102,1372.0125)
+:Sending Touch (ACTION_DOWN): 0:(1153.0,834.0)
+:Sending Touch (ACTION_UP): 0:(1027.9382,741.66327)
+:Sending Touch (ACTION_DOWN): 0:(86.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(66.125534,1185.2081)
+:Sending Touch (ACTION_DOWN): 0:(1186.0,55.0)
+:Sending Touch (ACTION_UP): 0:(1186.9358,60.937557)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,1520.0)
+:Sending Touch (ACTION_UP): 0:(1009.14154,1515.9744)
+:Sending Touch (ACTION_DOWN): 0:(922.0,494.0)
+:Sending Touch (ACTION_UP): 0:(922.3178,474.9541)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(540.0,1304.0)
+:Sending Touch (ACTION_UP): 0:(511.9274,1379.9802)
+:Sending Touch (ACTION_DOWN): 0:(1127.0,1242.0)
+:Sending Touch (ACTION_UP): 0:(1097.6853,1241.839)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1122.0,804.0)
+:Sending Touch (ACTION_UP): 0:(1062.227,802.6232)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    //[calendar_time:2022-04-26 22:21:51.676  system_uptime:1315424]
+    // Sending event #2200
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(85.0,905.0)
+:Sending Touch (ACTION_UP): 0:(151.78294,857.9748)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(510.0,344.0)
+:Sending Touch (ACTION_UP): 0:(512.6196,332.1125)
+:Sending Touch (ACTION_DOWN): 0:(769.0,895.0)
+:Sending Touch (ACTION_UP): 0:(754.6746,922.87885)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(920.6769,1526.3201)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(565.0,1224.0)
+:Sending Touch (ACTION_UP): 0:(657.43835,1350.7228)
+:Sending Touch (ACTION_DOWN): 0:(1198.0,639.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,636.8591)
+:Sending Touch (ACTION_DOWN): 0:(1019.0,360.0)
+    //[calendar_time:2022-04-26 22:21:54.790  system_uptime:1318538]
+    // Sending event #2300
+:Sending Touch (ACTION_UP): 0:(1081.6552,415.7008)
+:Sending Touch (ACTION_DOWN): 0:(265.0,57.0)
+:Sending Touch (ACTION_UP): 0:(268.34564,70.755875)
+:Sending Touch (ACTION_DOWN): 0:(419.0,866.0)
+:Sending Touch (ACTION_UP): 0:(412.02344,863.04895)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(403.0,703.0)
+:Sending Touch (ACTION_UP): 0:(412.74274,697.8225)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(648.0,71.0)
+:Sending Touch (ACTION_UP): 0:(652.2706,84.37878)
+:Sending Touch (ACTION_DOWN): 0:(386.0,977.0)
+:Sending Touch (ACTION_UP): 0:(372.71082,993.61646)
+:Sending Touch (ACTION_DOWN): 0:(64.0,615.0)
+:Sending Touch (ACTION_UP): 0:(58.512497,608.54083)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    //[calendar_time:2022-04-26 22:22:00.760  system_uptime:1324508]
+    // Sending event #2400
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(676.0,1617.0)
+:Sending Touch (ACTION_UP): 0:(703.7743,1559.1766)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(876.0,427.0)
+:Sending Touch (ACTION_UP): 0:(875.04126,430.20206)
+:Sending Touch (ACTION_DOWN): 0:(431.0,176.0)
+:Sending Touch (ACTION_UP): 0:(429.29034,186.56926)
+:Sending Touch (ACTION_DOWN): 0:(797.0,268.0)
+:Sending Touch (ACTION_UP): 0:(798.1514,260.9968)
+:Sending Touch (ACTION_DOWN): 0:(762.0,859.0)
+:Sending Touch (ACTION_UP): 0:(763.05347,844.1572)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(159.0,1177.0)
+:Sending Touch (ACTION_UP): 0:(188.2745,1143.077)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2022-04-26 22:22:05.142  system_uptime:1328890]
+    // Sending event #2500
+    //[calendar_time:2022-04-26 22:22:05.342  system_uptime:1329090]
+    // Sending event #2500
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(580.0,939.0)
+:Sending Touch (ACTION_UP): 0:(576.64874,929.6939)
+:Sending Touch (ACTION_DOWN): 0:(301.0,1561.0)
+:Sending Touch (ACTION_UP): 0:(287.25208,1626.3634)
+:Sending Touch (ACTION_DOWN): 0:(999.0,1595.0)
+:Sending Touch (ACTION_UP): 0:(970.41797,1590.8783)
+:Sending Touch (ACTION_DOWN): 0:(609.0,1240.0)
+:Sending Touch (ACTION_UP): 0:(620.9638,1309.0183)
+:Sending Touch (ACTION_DOWN): 0:(232.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(248.16986,1537.4675)
+:Sending Touch (ACTION_DOWN): 0:(262.0,1195.0)
+:Sending Touch (ACTION_UP): 0:(262.27856,1203.9076)
+:Sending Touch (ACTION_DOWN): 0:(548.0,1810.0)
+:Sending Touch (ACTION_UP): 0:(539.089,1796.3042)
+:Sending Touch (ACTION_DOWN): 0:(701.0,103.0)
+:Sending Touch (ACTION_UP): 0:(696.29034,101.28626)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(180.0,1169.0)
+:Sending Touch (ACTION_UP): 0:(222.52673,1125.6788)
+    //[calendar_time:2022-04-26 22:22:10.296  system_uptime:1334044]
+    // Sending event #2600
+    //[calendar_time:2022-04-26 22:22:10.496  system_uptime:1334244]
+    // Sending event #2600
+:Sending Touch (ACTION_DOWN): 0:(75.0,441.0)
+:Sending Touch (ACTION_UP): 0:(55.85147,450.64615)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(924.0,1232.0)
+:Sending Touch (ACTION_UP): 0:(1007.3534,1173.4141)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(1016.13916,1278.1012)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1195.0,1504.0)
+:Sending Touch (ACTION_UP): 0:(1141.2144,1549.1166)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(900.0,1766.0)
+:Sending Touch (ACTION_UP): 0:(958.6656,1747.0742)
+:Sending Touch (ACTION_DOWN): 0:(468.0,593.0)
+:Sending Touch (ACTION_UP): 0:(414.14252,553.957)
+    //[calendar_time:2022-04-26 22:22:14.408  system_uptime:1338156]
+    // Sending event #2700
+:Sending Touch (ACTION_DOWN): 0:(808.0,1657.0)
+:Sending Touch (ACTION_UP): 0:(809.1333,1680.2208)
+:Sending Touch (ACTION_DOWN): 0:(596.0,1262.0)
+:Sending Touch (ACTION_UP): 0:(597.092,1258.7281)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(885.0,1445.0)
+:Sending Touch (ACTION_UP): 0:(895.6505,1445.8624)
+:Sending Touch (ACTION_DOWN): 0:(1082.0,1532.0)
+:Sending Touch (ACTION_UP): 0:(1082.3994,1536.9904)
+:Sending Touch (ACTION_DOWN): 0:(273.0,368.0)
+    //[calendar_time:2022-04-26 22:22:16.911  system_uptime:1340659]
+    // Sending event #2800
+:Sending Touch (ACTION_UP): 0:(244.34831,345.3497)
+:Sending Touch (ACTION_DOWN): 0:(263.0,751.0)
+:Sending Touch (ACTION_UP): 0:(265.57166,750.2403)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(938.0,896.0)
+:Sending Touch (ACTION_UP): 0:(836.11053,820.29193)
+:Sending Touch (ACTION_DOWN): 0:(733.0,1494.0)
+:Sending Touch (ACTION_UP): 0:(776.9201,1553.4489)
+:Sending Touch (ACTION_DOWN): 0:(1110.0,168.0)
+:Sending Touch (ACTION_UP): 0:(1109.9738,166.65648)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,150.0)
+:Sending Touch (ACTION_UP): 0:(1121.7559,176.7174)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(86.0,274.0)
+:Sending Touch (ACTION_UP): 0:(102.44951,282.80417)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    //[calendar_time:2022-04-26 22:22:20.659  system_uptime:1344408]
+    // Sending event #2900
+:Sending Touch (ACTION_DOWN): 0:(340.0,828.0)
+:Sending Touch (ACTION_UP): 0:(338.70532,826.2292)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(184.0,781.0)
+:Sending Touch (ACTION_UP): 0:(178.80663,792.04785)
+:Sending Touch (ACTION_DOWN): 0:(839.0,26.0)
+:Sending Touch (ACTION_UP): 0:(855.58105,31.865484)
+:Sending Touch (ACTION_DOWN): 0:(1152.0,1067.0)
+:Sending Touch (ACTION_UP): 0:(1189.7787,1025.0046)
+:Sending Touch (ACTION_DOWN): 0:(430.0,738.0)
+:Sending Touch (ACTION_UP): 0:(429.30762,738.2026)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,354.0)
+:Sending Touch (ACTION_UP): 0:(1000.2248,390.3598)
+:Sending Touch (ACTION_DOWN): 0:(585.0,174.0)
+:Sending Touch (ACTION_UP): 0:(666.6783,159.22)
+:Sending Touch (ACTION_DOWN): 0:(580.0,879.0)
+:Sending Touch (ACTION_UP): 0:(628.2626,884.59503)
+:Sending Touch (ACTION_DOWN): 0:(721.0,927.0)
+:Sending Touch (ACTION_UP): 0:(707.9975,917.2657)
+:Sending Touch (ACTION_DOWN): 0:(1085.0,586.0)
+:Sending Touch (ACTION_UP): 0:(1081.3011,589.4383)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    //[calendar_time:2022-04-26 22:22:25.888  system_uptime:1349636]
+    // Sending event #3000
+    //[calendar_time:2022-04-26 22:22:26.088  system_uptime:1349836]
+    // Sending event #3000
+:Sending Touch (ACTION_DOWN): 0:(97.0,1707.0)
+:Sending Touch (ACTION_UP): 0:(95.442276,1727.3372)
+:Sending Touch (ACTION_DOWN): 0:(58.0,1392.0)
+:Sending Touch (ACTION_UP): 0:(58.95682,1386.5847)
+:Sending Touch (ACTION_DOWN): 0:(1012.0,261.0)
+:Sending Touch (ACTION_UP): 0:(1013.21246,261.6653)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(188.0,906.0)
+:Sending Touch (ACTION_UP): 0:(191.34499,920.56067)
+:Sending Touch (ACTION_DOWN): 0:(392.0,285.0)
+:Sending Touch (ACTION_UP): 0:(390.25122,283.0784)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(129.0,113.0)
+:Sending Touch (ACTION_UP): 0:(119.97737,106.77667)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(443.0,282.0)
+:Sending Touch (ACTION_UP): 0:(495.5431,289.3047)
+:Sending Touch (ACTION_DOWN): 0:(1127.0,1700.0)
+:Sending Touch (ACTION_UP): 0:(1128.6885,1688.3344)
+:Sending Touch (ACTION_DOWN): 0:(971.0,1192.0)
+:Sending Touch (ACTION_UP): 0:(971.2747,1185.1677)
+:Sending Touch (ACTION_DOWN): 0:(656.0,881.0)
+:Sending Touch (ACTION_UP): 0:(666.4706,879.0611)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2022-04-26 22:22:32.075  system_uptime:1355823]
+    // Sending event #3100
+:Sending Touch (ACTION_DOWN): 0:(394.0,536.0)
+:Sending Touch (ACTION_UP): 0:(301.1907,622.1667)
+:Sending Touch (ACTION_DOWN): 0:(907.0,630.0)
+:Sending Touch (ACTION_UP): 0:(836.1227,651.7897)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(890.0,960.0)
+:Sending Touch (ACTION_UP): 0:(900.8707,969.91986)
+:Sending Touch (ACTION_DOWN): 0:(761.0,1407.0)
+:Sending Touch (ACTION_UP): 0:(757.04706,1410.5126)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1144.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(1151.9585,1265.0532)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1731.0)
+:Sending Touch (ACTION_UP): 0:(258.50925,1747.154)
+    //[calendar_time:2022-04-26 22:22:37.906  system_uptime:1361654]
+    // Sending event #3200
+    //[calendar_time:2022-04-26 22:22:38.106  system_uptime:1361854]
+    // Sending event #3200
+:Sending Touch (ACTION_DOWN): 0:(774.0,1781.0)
+:Sending Touch (ACTION_UP): 0:(780.67566,1783.2826)
+:Sending Touch (ACTION_DOWN): 0:(351.0,493.0)
+:Sending Touch (ACTION_UP): 0:(348.1536,471.50327)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(722.0,216.0)
+:Sending Touch (ACTION_UP): 0:(776.06415,191.1456)
+:Sending Touch (ACTION_DOWN): 0:(457.0,1699.0)
+:Sending Touch (ACTION_UP): 0:(350.38065,1677.3174)
+:Sending Touch (ACTION_DOWN): 0:(280.0,262.0)
+:Sending Touch (ACTION_UP): 0:(266.47058,273.60138)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2022-04-26 22:22:42.401  system_uptime:1366149]
+    // Sending event #3300
+    //[calendar_time:2022-04-26 22:22:42.601  system_uptime:1366350]
+    // Sending event #3300
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(649.0,1440.0)
+:Sending Touch (ACTION_UP): 0:(669.1354,1385.4519)
+:Sending Touch (ACTION_DOWN): 0:(291.0,523.0)
+:Sending Touch (ACTION_UP): 0:(292.4837,536.8584)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(779.0,1462.0)
+:Sending Touch (ACTION_UP): 0:(782.295,1441.9354)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(670.0,222.0)
+:Sending Touch (ACTION_UP): 0:(696.70807,137.5596)
+:Sending Touch (ACTION_DOWN): 0:(662.0,1309.0)
+:Sending Touch (ACTION_UP): 0:(684.49866,1299.8473)
+    //[calendar_time:2022-04-26 22:22:46.448  system_uptime:1370196]
+    // Sending event #3400
+:Sending Touch (ACTION_DOWN): 0:(208.0,773.0)
+:Sending Touch (ACTION_UP): 0:(191.81178,775.72394)
+:Sending Touch (ACTION_DOWN): 0:(307.0,1303.0)
+:Sending Touch (ACTION_UP): 0:(305.0846,1294.8325)
+:Sending Touch (ACTION_DOWN): 0:(963.0,632.0)
+:Sending Touch (ACTION_UP): 0:(970.5662,642.82587)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(414.0,1315.0)
+:Sending Touch (ACTION_UP): 0:(413.05527,1323.7306)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(160.0,987.0)
+:Sending Touch (ACTION_UP): 0:(206.02283,971.84216)
+    //[calendar_time:2022-04-26 22:22:51.406  system_uptime:1375154]
+    // Sending event #3500
+    //[calendar_time:2022-04-26 22:22:51.607  system_uptime:1375355]
+    // Sending event #3500
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(223.0,210.0)
+:Sending Touch (ACTION_UP): 0:(225.63785,199.46591)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1193.0)
+:Sending Touch (ACTION_UP): 0:(268.79724,1196.116)
+:Sending Touch (ACTION_DOWN): 0:(117.0,1273.0)
+:Sending Touch (ACTION_UP): 0:(59.02694,1310.3096)
+:Sending Touch (ACTION_DOWN): 0:(499.0,74.0)
+:Sending Touch (ACTION_UP): 0:(512.3478,71.2584)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    //[calendar_time:2022-04-26 22:22:55.348  system_uptime:1379096]
+    // Sending event #3600
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(230.0,802.0)
+:Sending Touch (ACTION_UP): 0:(217.34949,811.61847)
+:Sending Touch (ACTION_DOWN): 0:(398.0,1503.0)
+:Sending Touch (ACTION_UP): 0:(533.42566,1372.9875)
+:Sending Touch (ACTION_DOWN): 0:(206.0,1447.0)
+:Sending Touch (ACTION_UP): 0:(209.60094,1420.7657)
+:Sending Touch (ACTION_DOWN): 0:(810.0,623.0)
+:Sending Touch (ACTION_UP): 0:(804.7869,639.2744)
+:Sending Touch (ACTION_DOWN): 0:(962.0,1421.0)
+:Sending Touch (ACTION_UP): 0:(971.40796,1431.3848)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(236.0,87.0)
+:Sending Touch (ACTION_UP): 0:(179.80928,31.08116)
+    //[calendar_time:2022-04-26 22:22:59.873  system_uptime:1383621]
+    // Sending event #3700
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(1029.0,1187.0)
+:Sending Touch (ACTION_UP): 0:(1097.0104,1129.7634)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity } in package com.google.android.music
+:Sending Touch (ACTION_DOWN): 0:(980.0,473.0)
+:Sending Touch (ACTION_UP): 0:(993.9104,474.40128)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(952.0,1524.0)
+:Sending Touch (ACTION_UP): 0:(908.8071,1500.8295)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(995.0,265.0)
+:Sending Touch (ACTION_UP): 0:(981.6215,256.21185)
+:Sending Touch (ACTION_DOWN): 0:(518.0,929.0)
+:Sending Touch (ACTION_UP): 0:(530.5951,930.0293)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    //[calendar_time:2022-04-26 22:23:04.007  system_uptime:1387755]
+    // Sending event #3800
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(483.0,1704.0)
+:Sending Touch (ACTION_UP): 0:(497.3748,1716.8126)
+:Sending Touch (ACTION_DOWN): 0:(928.0,317.0)
+:Sending Touch (ACTION_UP): 0:(1051.956,194.78076)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(786.0,1673.0)
+:Sending Touch (ACTION_UP): 0:(784.7374,1656.5859)
+:Sending Touch (ACTION_DOWN): 0:(853.0,965.0)
+:Sending Touch (ACTION_UP): 0:(854.6063,975.48505)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,459.0)
+:Sending Touch (ACTION_UP): 0:(1052.7236,446.057)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(535.0,122.0)
+:Sending Touch (ACTION_UP): 0:(548.26807,127.02807)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    //[calendar_time:2022-04-26 22:23:07.432  system_uptime:1391180]
+    // Sending event #3900
+:Sending Touch (ACTION_DOWN): 0:(731.0,884.0)
+:Sending Touch (ACTION_UP): 0:(758.8959,930.84766)
+:Sending Touch (ACTION_DOWN): 0:(230.0,53.0)
+:Sending Touch (ACTION_UP): 0:(257.85718,64.83262)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1276.0)
+:Sending Touch (ACTION_UP): 0:(240.29282,1265.4873)
+:Sending Touch (ACTION_DOWN): 0:(612.0,602.0)
+:Sending Touch (ACTION_UP): 0:(596.40826,592.52026)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(114.0,1119.0)
+:Sending Touch (ACTION_UP): 0:(116.91949,1134.0868)
+:Sending Touch (ACTION_DOWN): 0:(571.0,61.0)
+:Sending Touch (ACTION_UP): 0:(570.87823,44.67478)
+:Sending Touch (ACTION_DOWN): 0:(178.0,836.0)
+    //[calendar_time:2022-04-26 22:23:12.367  system_uptime:1396115]
+    // Sending event #4000
+:Sending Touch (ACTION_UP): 0:(215.77196,827.2519)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(482.0,1575.0)
+:Sending Touch (ACTION_UP): 0:(496.50928,1560.1904)
+:Sending Touch (ACTION_DOWN): 0:(279.0,417.0)
+:Sending Touch (ACTION_UP): 0:(273.3636,401.45496)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(135.0,761.0)
+:Sending Touch (ACTION_UP): 0:(143.51103,766.1508)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(891.0,417.0)
+:Sending Touch (ACTION_UP): 0:(910.06854,458.8926)
+:Sending Touch (ACTION_DOWN): 0:(1103.0,336.0)
+:Sending Touch (ACTION_UP): 0:(1104.1537,355.57486)
+:Sending Touch (ACTION_DOWN): 0:(1123.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(1131.7532,1223.4714)
+:Sending Touch (ACTION_DOWN): 0:(65.0,1302.0)
+:Sending Touch (ACTION_UP): 0:(65.403076,1321.2173)
+:Sending Touch (ACTION_DOWN): 0:(686.0,678.0)
+:Sending Touch (ACTION_UP): 0:(704.6001,681.2819)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,10.0)
+    //[calendar_time:2022-04-26 22:23:16.069  system_uptime:1399817]
+    // Sending event #4100
+:Sending Touch (ACTION_UP): 0:(1020.9263,5.181224)
+:Sending Touch (ACTION_DOWN): 0:(492.0,1374.0)
+:Sending Touch (ACTION_UP): 0:(484.9196,1395.2854)
+:Sending Touch (ACTION_DOWN): 0:(495.0,104.0)
+:Sending Touch (ACTION_UP): 0:(492.5883,104.29719)
+:Sending Touch (ACTION_DOWN): 0:(632.0,1371.0)
+:Sending Touch (ACTION_UP): 0:(637.8897,1372.1252)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(13.0,493.0)
+:Sending Touch (ACTION_UP): 0:(15.6674385,498.72565)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,182.0)
+:Sending Touch (ACTION_UP): 0:(1089.8713,150.24352)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,1431.0)
+:Sending Touch (ACTION_UP): 0:(1071.5659,1434.2775)
+:Sending Touch (ACTION_DOWN): 0:(784.0,1069.0)
+:Sending Touch (ACTION_UP): 0:(781.3893,1060.5895)
+:Sending Touch (ACTION_DOWN): 0:(1146.0,876.0)
+:Sending Touch (ACTION_UP): 0:(1147.3668,857.57874)
+:Sending Touch (ACTION_DOWN): 0:(344.0,866.0)
+:Sending Touch (ACTION_UP): 0:(390.48322,815.56116)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(530.0,220.0)
+:Sending Touch (ACTION_UP): 0:(538.78174,218.95743)
+:Sending Touch (ACTION_DOWN): 0:(326.0,1801.0)
+:Sending Touch (ACTION_UP): 0:(286.4849,1761.5983)
+:Sending Touch (ACTION_DOWN): 0:(966.0,511.0)
+:Sending Touch (ACTION_UP): 0:(965.4653,504.84406)
+    //[calendar_time:2022-04-26 22:23:19.725  system_uptime:1403473]
+    // Sending event #4200
+    //[calendar_time:2022-04-26 22:23:19.925  system_uptime:1403673]
+    // Sending event #4200
+:Sending Touch (ACTION_DOWN): 0:(64.0,163.0)
+:Sending Touch (ACTION_UP): 0:(149.75922,155.0523)
+:Sending Touch (ACTION_DOWN): 0:(1080.0,1645.0)
+:Sending Touch (ACTION_UP): 0:(1076.1256,1673.2494)
+:Sending Touch (ACTION_DOWN): 0:(1129.0,627.0)
+:Sending Touch (ACTION_UP): 0:(1114.3015,637.04974)
+:Sending Touch (ACTION_DOWN): 0:(358.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(371.47067,1032.7834)
+:Sending Touch (ACTION_DOWN): 0:(242.0,821.0)
+:Sending Touch (ACTION_UP): 0:(242.10736,822.20276)
+:Sending Touch (ACTION_DOWN): 0:(148.0,579.0)
+:Sending Touch (ACTION_UP): 0:(133.99713,579.6542)
+:Sending Touch (ACTION_DOWN): 0:(185.0,412.0)
+:Sending Touch (ACTION_UP): 0:(188.20764,381.38278)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    //[calendar_time:2022-04-26 22:23:25.738  system_uptime:1409486]
+    // Sending event #4300
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(111.0,112.0)
+:Sending Touch (ACTION_UP): 0:(110.87511,113.63898)
+:Sending Touch (ACTION_DOWN): 0:(876.0,1594.0)
+:Sending Touch (ACTION_UP): 0:(807.31055,1623.1693)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1167.0,825.0)
+:Sending Touch (ACTION_UP): 0:(1158.2263,830.1642)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(646.0,250.0)
+:Sending Touch (ACTION_UP): 0:(644.346,243.97504)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(60.0,1548.0)
+:Sending Touch (ACTION_UP): 0:(46.21054,1516.5477)
+:Sending Touch (ACTION_DOWN): 0:(585.0,963.0)
+:Sending Touch (ACTION_UP): 0:(579.0819,963.1404)
+:Sending Touch (ACTION_DOWN): 0:(912.0,392.0)
+:Sending Touch (ACTION_UP): 0:(915.81287,390.14575)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(25.0,1706.0)
+    //[calendar_time:2022-04-26 22:23:30.679  system_uptime:1414428]
+    // Sending event #4400
+:Sending Touch (ACTION_UP): 0:(40.42178,1704.6372)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(394.0,1588.0)
+:Sending Touch (ACTION_UP): 0:(342.59814,1691.3949)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1027.0,1682.0)
+:Sending Touch (ACTION_UP): 0:(1026.3406,1653.7598)
+:Sending Touch (ACTION_DOWN): 0:(26.0,1725.0)
+:Sending Touch (ACTION_UP): 0:(20.132143,1739.0995)
+:Sending Touch (ACTION_DOWN): 0:(341.0,1512.0)
+:Sending Touch (ACTION_UP): 0:(343.29028,1528.1981)
+:Sending Touch (ACTION_DOWN): 0:(420.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(412.78217,1691.0778)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(622.0,1434.0)
+:Sending Touch (ACTION_UP): 0:(630.7223,1481.2743)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{3aedbdc VFEDHVCL. .F....ID 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(812.0,518.0)
+:Sending Touch (ACTION_UP): 0:(806.7786,515.67365)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{3aedbdc VFEDHVCL. .F....I. 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    //[calendar_time:2022-04-26 22:23:37.095  system_uptime:1420843]
+    // Sending event #4500
+:Sending Touch (ACTION_DOWN): 0:(701.0,544.0)
+:Sending Touch (ACTION_UP): 0:(663.3875,514.092)
+:Sending Touch (ACTION_DOWN): 0:(246.0,96.0)
+:Sending Touch (ACTION_UP): 0:(249.55675,95.95383)
+:Sending Touch (ACTION_DOWN): 0:(453.0,284.0)
+:Sending Touch (ACTION_UP): 0:(460.78107,282.1784)
+:Sending Touch (ACTION_DOWN): 0:(1126.0,1101.0)
+:Sending Touch (ACTION_UP): 0:(1127.6155,1104.5344)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{3aedbdc VFEDHVCL. .F....ID 0,0-1200,1674}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1035.0,1573.0)
+:Sending Touch (ACTION_UP): 0:(1034.1938,1575.8302)
+:Sending Touch (ACTION_DOWN): 0:(797.0,1139.0)
+:Sending Touch (ACTION_UP): 0:(793.7758,1143.0801)
+:Sending Touch (ACTION_DOWN): 0:(146.0,458.0)
+:Sending Touch (ACTION_UP): 0:(131.20363,465.8199)
+:Sending Touch (ACTION_DOWN): 0:(13.0,1443.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1396.537)
+:Sending Touch (ACTION_DOWN): 0:(72.0,1440.0)
+:Sending Touch (ACTION_UP): 0:(77.02578,1440.4907)
+:Sending Touch (ACTION_DOWN): 0:(826.0,1716.0)
+:Sending Touch (ACTION_UP): 0:(825.81976,1716.2634)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(997.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(980.13745,1740.7844)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+    //[calendar_time:2022-04-26 22:23:42.877  system_uptime:1426625]
+    // Sending event #4600
+    //[calendar_time:2022-04-26 22:23:43.078  system_uptime:1426826]
+    // Sending event #4600
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(855.0,903.0)
+:Sending Touch (ACTION_UP): 0:(855.7038,907.1345)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(362.0,157.0)
+:Sending Touch (ACTION_UP): 0:(378.95444,149.97954)
+:Sending Touch (ACTION_DOWN): 0:(637.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(639.85645,1204.815)
+:Sending Touch (ACTION_DOWN): 0:(1144.0,166.0)
+:Sending Touch (ACTION_UP): 0:(1144.1099,175.6077)
+:Sending Touch (ACTION_DOWN): 0:(364.0,1329.0)
+:Sending Touch (ACTION_UP): 0:(380.39783,1319.5612)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+    //[calendar_time:2022-04-26 22:23:46.390  system_uptime:1430138]
+    // Sending event #4700
+:Sending Touch (ACTION_DOWN): 0:(533.0,556.0)
+:Sending Touch (ACTION_UP): 0:(520.331,487.9533)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(523.0,849.0)
+:Sending Touch (ACTION_UP): 0:(493.60593,793.12616)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,1165.0)
+:Sending Touch (ACTION_UP): 0:(1057.5205,1167.4275)
+:Sending Touch (ACTION_DOWN): 0:(703.0,739.0)
+:Sending Touch (ACTION_UP): 0:(767.0662,714.62787)
+:Sending Touch (ACTION_DOWN): 0:(197.0,555.0)
+:Sending Touch (ACTION_UP): 0:(190.93683,555.0469)
+:Sending Touch (ACTION_DOWN): 0:(986.0,1783.0)
+:Sending Touch (ACTION_UP): 0:(940.438,1773.2927)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+    //[calendar_time:2022-04-26 22:23:49.719  system_uptime:1433467]
+    // Sending event #4800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1141.0,1373.0)
+:Sending Touch (ACTION_UP): 0:(1146.6573,1368.582)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(938.0,468.0)
+:Sending Touch (ACTION_UP): 0:(964.6594,494.44733)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2022-04-26 22:23:53.380  system_uptime:1437128]
+    // Sending event #4900
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(868.0,955.0)
+:Sending Touch (ACTION_UP): 0:(792.6905,1093.3245)
+:Sending Touch (ACTION_DOWN): 0:(973.0,1296.0)
+:Sending Touch (ACTION_UP): 0:(973.2871,1309.5757)
+:Sending Touch (ACTION_DOWN): 0:(1120.0,111.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,122.10891)
+:Sending Touch (ACTION_DOWN): 0:(1193.0,263.0)
+:Sending Touch (ACTION_UP): 0:(1189.9113,254.20815)
+:Sending Touch (ACTION_DOWN): 0:(408.0,319.0)
+:Sending Touch (ACTION_UP): 0:(440.3915,336.52634)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(528.0,1094.0)
+:Sending Touch (ACTION_UP): 0:(577.6307,1161.0243)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(1026.7157,1115.313)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(165.0,748.0)
+:Sending Touch (ACTION_UP): 0:(184.79385,792.24054)
+:Sending Touch (ACTION_DOWN): 0:(973.0,764.0)
+:Sending Touch (ACTION_UP): 0:(964.85455,740.99963)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2022-04-26 22:23:57.454  system_uptime:1441202]
+    // Sending event #5000
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,317.0)
+:Sending Touch (ACTION_UP): 0:(1069.2183,332.56406)
+:Sending Touch (ACTION_DOWN): 0:(2.0,586.0)
+:Sending Touch (ACTION_UP): 0:(18.67351,580.90234)
+:Sending Touch (ACTION_DOWN): 0:(1103.0,571.0)
+:Sending Touch (ACTION_UP): 0:(1038.7643,568.96204)
+:Sending Touch (ACTION_DOWN): 0:(28.0,131.0)
+:Sending Touch (ACTION_UP): 0:(0.0,122.20089)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(623.0,601.0)
+:Sending Touch (ACTION_UP): 0:(612.71124,611.16174)
+:Sending Touch (ACTION_DOWN): 0:(990.0,32.0)
+:Sending Touch (ACTION_UP): 0:(1000.58813,101.89408)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,1724.0)
+:Sending Touch (ACTION_UP): 0:(931.783,1709.9802)
+:Sending Touch (ACTION_DOWN): 0:(969.0,116.0)
+:Sending Touch (ACTION_UP): 0:(968.0102,101.92641)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+    //[calendar_time:2022-04-26 22:24:02.171  system_uptime:1445919]
+    // Sending event #5100
+:Sending Touch (ACTION_DOWN): 0:(632.0,0.0)
+:Sending Touch (ACTION_UP): 0:(635.0522,0.0)
+:Sending Touch (ACTION_DOWN): 0:(651.0,478.0)
+:Sending Touch (ACTION_UP): 0:(659.86346,478.82034)
+:Sending Touch (ACTION_DOWN): 0:(218.0,808.0)
+:Sending Touch (ACTION_UP): 0:(210.62341,807.8786)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(620.0,175.0)
+:Sending Touch (ACTION_UP): 0:(597.7018,176.08775)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(1101.0,144.0)
+:Sending Touch (ACTION_UP): 0:(1110.2657,66.15101)
+:Sending Touch (ACTION_DOWN): 0:(434.0,804.0)
+:Sending Touch (ACTION_UP): 0:(333.82913,690.3557)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(223.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(209.28638,1754.0099)
+:Sending Touch (ACTION_DOWN): 0:(439.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(411.637,1577.9956)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    //[calendar_time:2022-04-26 22:24:06.493  system_uptime:1450241]
+    // Sending event #5200
+:Sending Touch (ACTION_DOWN): 0:(593.0,1370.0)
+:Sending Touch (ACTION_UP): 0:(598.1828,1371.8154)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{3aedbdc VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{3aedbdc VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{3aedbdc VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(91.0,798.0)
+:Sending Touch (ACTION_UP): 0:(91.27326,800.56024)
+:Sending Flip keyboardOpen=true
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{3aedbdc VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(65.0,571.0)
+:Sending Touch (ACTION_UP): 0:(66.17297,572.64056)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(380.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(380.5428,1618.5577)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(983.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(984.01904,1101.8033)
+:Sending Touch (ACTION_DOWN): 0:(285.0,249.0)
+:Sending Touch (ACTION_UP): 0:(285.53333,250.84146)
+:Sending Touch (ACTION_DOWN): 0:(486.0,666.0)
+:Sending Touch (ACTION_UP): 0:(548.6427,600.41174)
+:Sending Touch (ACTION_DOWN): 0:(114.0,960.0)
+    //[calendar_time:2022-04-26 22:24:12.240  system_uptime:1455988]
+    // Sending event #5300
+:Sending Touch (ACTION_UP): 0:(88.65936,941.0308)
+:Sending Touch (ACTION_DOWN): 0:(605.0,863.0)
+:Sending Touch (ACTION_UP): 0:(636.6072,789.35834)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{3aedbdc VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{3aedbdc VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(615.0,924.0)
+:Sending Touch (ACTION_UP): 0:(646.34564,971.3634)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(445.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(534.50793,951.5763)
+:Sending Touch (ACTION_DOWN): 0:(243.0,731.0)
+:Sending Touch (ACTION_UP): 0:(247.6304,728.1823)
+:Sending Touch (ACTION_DOWN): 0:(940.0,803.0)
+:Sending Touch (ACTION_UP): 0:(945.1732,810.9531)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(750.0,394.0)
+:Sending Touch (ACTION_UP): 0:(747.4369,386.03494)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+    //[calendar_time:2022-04-26 22:24:15.995  system_uptime:1459744]
+    // Sending event #5400
+:Sending Touch (ACTION_DOWN): 0:(119.0,1110.0)
+:Sending Touch (ACTION_UP): 0:(120.25292,1115.7101)
+:Sending Touch (ACTION_DOWN): 0:(839.0,670.0)
+:Sending Touch (ACTION_UP): 0:(822.5596,681.0076)
+:Sending Touch (ACTION_DOWN): 0:(79.0,1378.0)
+:Sending Touch (ACTION_UP): 0:(88.48889,1386.6708)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{85af74b VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(994.0,314.0)
+:Sending Touch (ACTION_UP): 0:(992.05225,318.07254)
+:Sending Touch (ACTION_DOWN): 0:(1026.0,244.0)
+:Sending Touch (ACTION_UP): 0:(1045.1724,256.0654)
+:Sending Touch (ACTION_DOWN): 0:(636.0,1174.0)
+:Sending Touch (ACTION_UP): 0:(684.8784,1303.5688)
+:Sending Touch (ACTION_DOWN): 0:(592.0,582.0)
+:Sending Touch (ACTION_UP): 0:(592.80884,588.4968)
+:Sending Touch (ACTION_DOWN): 0:(437.0,266.0)
+:Sending Touch (ACTION_UP): 0:(422.68143,250.63255)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(592.0,1430.0)
+:Sending Touch (ACTION_UP): 0:(593.14935,1429.1525)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(331.0,383.0)
+:Sending Touch (ACTION_UP): 0:(336.7257,381.29395)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,175.0)
+:Sending Touch (ACTION_UP): 0:(1129.8257,147.53458)
+:Sending Touch (ACTION_DOWN): 0:(130.0,490.0)
+:Sending Touch (ACTION_UP): 0:(131.5523,481.83496)
+:Sending Touch (ACTION_DOWN): 0:(500.0,100.0)
+:Sending Touch (ACTION_UP): 0:(483.20444,91.51281)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{85af74b VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    //[calendar_time:2022-04-26 22:24:21.997  system_uptime:1465746]
+    // Sending event #5500
+:Sending Touch (ACTION_DOWN): 0:(338.0,1745.0)
+:Sending Touch (ACTION_UP): 0:(375.45502,1722.7244)
+:Sending Touch (ACTION_DOWN): 0:(995.0,1510.0)
+:Sending Touch (ACTION_UP): 0:(988.7461,1497.382)
+:Sending Touch (ACTION_DOWN): 0:(1066.0,1511.0)
+:Sending Touch (ACTION_UP): 0:(1065.9838,1512.158)
+:Sending Touch (ACTION_DOWN): 0:(1199.0,165.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,169.22638)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(923.0,1418.0)
+:Sending Touch (ACTION_UP): 0:(921.7201,1407.131)
+:Sending Touch (ACTION_DOWN): 0:(409.0,672.0)
+:Sending Touch (ACTION_UP): 0:(403.96445,677.7421)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(672.0,1426.0)
+:Sending Touch (ACTION_UP): 0:(671.2484,1428.4467)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{85af74b VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(494.0,1722.0)
+:Sending Touch (ACTION_UP): 0:(485.45474,1727.4746)
+:Sending Touch (ACTION_DOWN): 0:(308.0,1588.0)
+:Sending Touch (ACTION_UP): 0:(249.60951,1605.4843)
+:Sending Touch (ACTION_DOWN): 0:(1187.0,972.0)
+:Sending Touch (ACTION_UP): 0:(1186.686,953.8758)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(650.0,1793.0)
+:Sending Touch (ACTION_UP): 0:(571.933,1750.4093)
+:Sending Touch (ACTION_DOWN): 0:(569.0,624.0)
+    //[calendar_time:2022-04-26 22:24:28.046  system_uptime:1471794]
+    // Sending event #5600
+:Sending Touch (ACTION_UP): 0:(668.8063,519.32623)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(651.0,1695.0)
+:Sending Touch (ACTION_UP): 0:(653.3047,1697.6284)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(480.0,1491.0)
+:Sending Touch (ACTION_UP): 0:(478.16653,1474.2078)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1105.0,807.0)
+:Sending Touch (ACTION_UP): 0:(1102.0205,806.6583)
+:Sending Touch (ACTION_DOWN): 0:(23.0,799.0)
+:Sending Touch (ACTION_UP): 0:(20.94848,798.33856)
+:Sending Touch (ACTION_DOWN): 0:(385.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(387.07785,1375.1005)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    //[calendar_time:2022-04-26 22:24:31.592  system_uptime:1475340]
+    // Sending event #5700
+    //[calendar_time:2022-04-26 22:24:31.792  system_uptime:1475540]
+    // Sending event #5700
+:Sending Touch (ACTION_DOWN): 0:(138.0,389.0)
+:Sending Touch (ACTION_UP): 0:(155.38158,400.02417)
+:Sending Touch (ACTION_DOWN): 0:(947.0,686.0)
+:Sending Touch (ACTION_UP): 0:(946.971,669.24457)
+:Sending Touch (ACTION_DOWN): 0:(838.0,879.0)
+:Sending Touch (ACTION_UP): 0:(940.58105,783.20654)
+:Sending Touch (ACTION_DOWN): 0:(611.0,463.0)
+:Sending Touch (ACTION_UP): 0:(610.8445,459.96243)
+:Sending Touch (ACTION_DOWN): 0:(330.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(360.267,1128.6765)
+:Sending Touch (ACTION_DOWN): 0:(1092.0,612.0)
+:Sending Touch (ACTION_UP): 0:(1084.2797,605.4653)
+:Sending Touch (ACTION_DOWN): 0:(1139.0,398.0)
+:Sending Touch (ACTION_UP): 0:(1156.692,435.25363)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1111.0,588.0)
+:Sending Touch (ACTION_UP): 0:(1104.6597,604.61383)
+:Sending Touch (ACTION_DOWN): 0:(1158.0,995.0)
+:Sending Touch (ACTION_UP): 0:(1166.921,1001.00635)
+:Sending Touch (ACTION_DOWN): 0:(1187.0,277.0)
+:Sending Touch (ACTION_UP): 0:(1166.7084,230.69835)
+:Sending Touch (ACTION_DOWN): 0:(25.0,1576.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1596.6022)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2022-04-26 22:24:37.502  system_uptime:1481250]
+    // Sending event #5800
+:Sending Touch (ACTION_DOWN): 0:(435.0,445.0)
+:Sending Touch (ACTION_UP): 0:(510.6146,444.70258)
+:Sending Touch (ACTION_DOWN): 0:(1167.0,502.0)
+:Sending Touch (ACTION_UP): 0:(1164.6046,479.1998)
+:Sending Touch (ACTION_DOWN): 0:(158.0,686.0)
+:Sending Touch (ACTION_UP): 0:(152.67293,672.35724)
+:Sending Touch (ACTION_DOWN): 0:(708.0,1604.0)
+:Sending Touch (ACTION_UP): 0:(715.0692,1603.8984)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity } in package com.google.android.music
+:Sending Touch (ACTION_DOWN): 0:(370.0,939.0)
+:Sending Touch (ACTION_UP): 0:(294.72076,1030.541)
+:Sending Touch (ACTION_DOWN): 0:(549.0,1805.0)
+:Sending Touch (ACTION_UP): 0:(549.48157,1814.2295)
+    //[calendar_time:2022-04-26 22:24:45.447  system_uptime:1489195]
+    // Sending event #5900
+    //[calendar_time:2022-04-26 22:24:45.647  system_uptime:1489395]
+    // Sending event #5900
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(443.0,1012.0)
+:Sending Touch (ACTION_UP): 0:(439.887,1024.0713)
+:Sending Touch (ACTION_DOWN): 0:(492.0,753.0)
+:Sending Touch (ACTION_UP): 0:(450.29095,783.77435)
+:Sending Touch (ACTION_DOWN): 0:(193.0,1439.0)
+:Sending Touch (ACTION_UP): 0:(207.04753,1441.5074)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,168.0)
+:Sending Touch (ACTION_UP): 0:(1045.3396,184.14381)
+:Sending Touch (ACTION_DOWN): 0:(1169.0,1676.0)
+:Sending Touch (ACTION_UP): 0:(1169.7593,1671.4021)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(157.0,1659.0)
+:Sending Touch (ACTION_UP): 0:(170.04477,1662.1616)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1100.0,1190.0)
+:Sending Touch (ACTION_UP): 0:(1095.6332,1191.3745)
+:Sending Touch (ACTION_DOWN): 0:(134.0,664.0)
+:Sending Touch (ACTION_UP): 0:(138.99373,661.9112)
+    //[calendar_time:2022-04-26 22:24:50.983  system_uptime:1494731]
+    // Sending event #6000
+    //[calendar_time:2022-04-26 22:24:51.184  system_uptime:1494932]
+    // Sending event #6000
+:Sending Touch (ACTION_DOWN): 0:(405.0,744.0)
+:Sending Touch (ACTION_UP): 0:(408.7013,739.66895)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(789.0,774.0)
+:Sending Touch (ACTION_UP): 0:(794.34607,780.86536)
+:Sending Touch (ACTION_DOWN): 0:(72.0,167.0)
+:Sending Touch (ACTION_UP): 0:(71.867874,168.42538)
+:Sending Touch (ACTION_DOWN): 0:(53.0,1474.0)
+:Sending Touch (ACTION_UP): 0:(44.250797,1469.158)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(300.0,1110.0)
+:Sending Touch (ACTION_UP): 0:(300.88,1103.7147)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(500.0,596.0)
+:Sending Touch (ACTION_UP): 0:(500.94836,602.0324)
+:Sending Touch (ACTION_DOWN): 0:(350.0,1685.0)
+:Sending Touch (ACTION_UP): 0:(343.0265,1679.116)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(964.0,35.0)
+:Sending Touch (ACTION_UP): 0:(953.84015,37.167828)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+    //[calendar_time:2022-04-26 22:24:57.209  system_uptime:1500957]
+    // Sending event #6100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(1007.0,1028.0)
+:Sending Touch (ACTION_UP): 0:(996.149,1034.9287)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1070.0,103.0)
+:Sending Touch (ACTION_UP): 0:(1044.8708,133.749)
+:Sending Touch (ACTION_DOWN): 0:(1128.0,667.0)
+:Sending Touch (ACTION_UP): 0:(1106.7462,621.40094)
+:Sending Touch (ACTION_DOWN): 0:(8.0,119.0)
+:Sending Touch (ACTION_UP): 0:(29.826662,115.95791)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(861.0,1320.0)
+:Sending Touch (ACTION_UP): 0:(875.2813,1327.7838)
+:Sending Touch (ACTION_DOWN): 0:(834.0,1443.0)
+:Sending Touch (ACTION_UP): 0:(839.7546,1469.699)
+    //[calendar_time:2022-04-26 22:25:00.594  system_uptime:1504342]
+    // Sending event #6200
+    //[calendar_time:2022-04-26 22:25:00.795  system_uptime:1504543]
+    // Sending event #6200
+:Sending Touch (ACTION_DOWN): 0:(667.0,375.0)
+:Sending Touch (ACTION_UP): 0:(668.62885,382.9929)
+:Sending Touch (ACTION_DOWN): 0:(396.0,443.0)
+:Sending Touch (ACTION_UP): 0:(463.60397,465.56155)
+:Sending Touch (ACTION_DOWN): 0:(977.0,1699.0)
+:Sending Touch (ACTION_UP): 0:(1071.0026,1666.8895)
+:Sending Touch (ACTION_DOWN): 0:(461.0,1112.0)
+:Sending Touch (ACTION_UP): 0:(447.31186,1108.9794)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(156.0,1216.0)
+:Sending Touch (ACTION_UP): 0:(156.52081,1213.9875)
+:Sending Touch (ACTION_DOWN): 0:(267.0,1329.0)
+:Sending Touch (ACTION_UP): 0:(276.69458,1309.2715)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(218.0,343.0)
+:Sending Touch (ACTION_UP): 0:(201.28627,349.16547)
+:Sending Touch (ACTION_DOWN): 0:(404.0,195.0)
+:Sending Touch (ACTION_UP): 0:(424.58496,194.84425)
+:Sending Touch (ACTION_DOWN): 0:(0.0,400.0)
+:Sending Touch (ACTION_UP): 0:(19.048132,418.455)
+    //[calendar_time:2022-04-26 22:25:05.744  system_uptime:1509492]
+    // Sending event #6300
+    //[calendar_time:2022-04-26 22:25:05.945  system_uptime:1509693]
+    // Sending event #6300
+:Sending Touch (ACTION_DOWN): 0:(41.0,1679.0)
+:Sending Touch (ACTION_UP): 0:(36.545258,1672.3221)
+:Sending Touch (ACTION_DOWN): 0:(89.0,231.0)
+:Sending Touch (ACTION_UP): 0:(82.622,232.31555)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1580.0)
+:Sending Touch (ACTION_UP): 0:(259.41296,1583.2673)
+:Sending Touch (ACTION_DOWN): 0:(1164.0,275.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,182.13403)
+:Sending Touch (ACTION_DOWN): 0:(913.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(909.94604,1745.586)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1009.0,1489.0)
+:Sending Touch (ACTION_UP): 0:(1026.1609,1476.8303)
+:Sending Touch (ACTION_DOWN): 0:(105.0,277.0)
+:Sending Touch (ACTION_UP): 0:(104.912796,276.98532)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2022-04-26 22:25:09.903  system_uptime:1513651]
+    // Sending event #6400
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(818.0,1375.0)
+:Sending Touch (ACTION_UP): 0:(816.0768,1371.0929)
+:Sending Touch (ACTION_DOWN): 0:(657.0,1465.0)
+:Sending Touch (ACTION_UP): 0:(616.78406,1403.3876)
+:Sending Touch (ACTION_DOWN): 0:(240.0,609.0)
+:Sending Touch (ACTION_UP): 0:(238.14552,624.6591)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1140.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(1135.1093,1738.0271)
+:Sending Touch (ACTION_DOWN): 0:(61.0,1482.0)
+:Sending Touch (ACTION_UP): 0:(53.35073,1462.5171)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2022-04-26 22:25:14.984  system_uptime:1518732]
+    // Sending event #6500
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(803.0,1448.0)
+:Sending Touch (ACTION_UP): 0:(810.3449,1434.2987)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(94.0,1228.0)
+:Sending Touch (ACTION_UP): 0:(109.13748,1229.8759)
+:Sending Touch (ACTION_DOWN): 0:(530.0,491.0)
+:Sending Touch (ACTION_UP): 0:(537.21106,502.41455)
+:Sending Touch (ACTION_DOWN): 0:(322.0,862.0)
+:Sending Touch (ACTION_UP): 0:(355.9767,869.5148)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(384.0,548.0)
+:Sending Touch (ACTION_UP): 0:(386.64566,551.9453)
+:Sending Touch (ACTION_DOWN): 0:(841.0,1612.0)
+:Sending Touch (ACTION_UP): 0:(795.48083,1576.6006)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    //[calendar_time:2022-04-26 22:25:18.430  system_uptime:1522178]
+    // Sending event #6600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(1176.0,351.0)
+:Sending Touch (ACTION_UP): 0:(1173.4468,350.84454)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(266.0,583.0)
+:Sending Touch (ACTION_UP): 0:(267.98776,585.6422)
+:Sending Touch (ACTION_DOWN): 0:(782.0,1597.0)
+:Sending Touch (ACTION_UP): 0:(798.0007,1612.5165)
+:Sending Touch (ACTION_DOWN): 0:(1111.0,475.0)
+:Sending Touch (ACTION_UP): 0:(1118.4006,469.68747)
+:Sending Touch (ACTION_DOWN): 0:(356.0,1123.0)
+:Sending Touch (ACTION_UP): 0:(348.26984,1129.4426)
+:Sending Touch (ACTION_DOWN): 0:(779.0,1682.0)
+:Sending Touch (ACTION_UP): 0:(778.13605,1683.5667)
+:Sending Touch (ACTION_DOWN): 0:(260.0,274.0)
+:Sending Touch (ACTION_UP): 0:(250.5311,271.01758)
+:Sending Touch (ACTION_DOWN): 0:(516.0,1560.0)
+:Sending Touch (ACTION_UP): 0:(515.43933,1564.9167)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{85af74b VFEDHVCL. .F....ID 0,0-1200,1674}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2022-04-26 22:25:24.482  system_uptime:1528230]
+    // Sending event #6700
+:Sending Touch (ACTION_DOWN): 0:(868.0,1297.0)
+:Sending Touch (ACTION_UP): 0:(870.3513,1269.485)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{85af74b VFEDHVCL. .F....ID 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(748.0,398.0)
+:Sending Touch (ACTION_UP): 0:(739.77655,393.08423)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(494.0,1586.0)
+:Sending Touch (ACTION_UP): 0:(493.2815,1583.2128)
+:Sending Touch (ACTION_DOWN): 0:(365.0,1518.0)
+:Sending Touch (ACTION_UP): 0:(365.5671,1520.115)
+:Sending Touch (ACTION_DOWN): 0:(869.0,461.0)
+:Sending Touch (ACTION_UP): 0:(872.3335,460.06586)
+:Sending Touch (ACTION_DOWN): 0:(287.0,1799.0)
+:Sending Touch (ACTION_UP): 0:(286.65448,1803.285)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    //[calendar_time:2022-04-26 22:25:30.439  system_uptime:1534187]
+    // Sending event #6800
+:Sending Touch (ACTION_DOWN): 0:(312.0,752.0)
+:Sending Touch (ACTION_UP): 0:(311.9063,755.6426)
+:Sending Touch (ACTION_DOWN): 0:(9.0,691.0)
+:Sending Touch (ACTION_UP): 0:(9.126255,717.83276)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(468.0,339.0)
+:Sending Touch (ACTION_UP): 0:(467.97812,343.66113)
+:Sending Touch (ACTION_DOWN): 0:(1156.0,782.0)
+:Sending Touch (ACTION_UP): 0:(1159.7526,783.45337)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1108.0,659.0)
+:Sending Touch (ACTION_UP): 0:(1120.8975,673.4029)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{85af74b VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(572.0,42.0)
+    //[calendar_time:2022-04-26 22:25:35.938  system_uptime:1539687]
+    // Sending event #6900
+:Sending Touch (ACTION_UP): 0:(593.25714,105.63356)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(623.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(644.0835,1145.8857)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(545.0,1619.0)
+:Sending Touch (ACTION_UP): 0:(543.40344,1620.834)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,336.0)
+:Sending Touch (ACTION_UP): 0:(1006.407,332.33475)
+:Sending Touch (ACTION_DOWN): 0:(1157.0,112.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,138.84418)
+:Sending Touch (ACTION_DOWN): 0:(1102.0,455.0)
+:Sending Touch (ACTION_UP): 0:(1175.9524,489.001)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(207.0,20.0)
+:Sending Touch (ACTION_UP): 0:(200.16298,57.68527)
+:Sending Touch (ACTION_DOWN): 0:(922.0,553.0)
+:Sending Touch (ACTION_UP): 0:(922.4239,552.0521)
+:Sending Touch (ACTION_DOWN): 0:(774.0,1026.0)
+:Sending Touch (ACTION_UP): 0:(772.35724,1021.33215)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(896.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(897.4902,1314.6301)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    //[calendar_time:2022-04-26 22:25:41.577  system_uptime:1545325]
+    // Sending event #7000
+:Sending Touch (ACTION_DOWN): 0:(521.0,1823.0)
+:Sending Touch (ACTION_UP): 0:(518.2769,1824.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{85af74b VFEDHVCL. ......ID 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(365.0,598.0)
+:Sending Touch (ACTION_UP): 0:(386.47937,517.27106)
+:Sending Touch (ACTION_DOWN): 0:(71.0,912.0)
+:Sending Touch (ACTION_UP): 0:(71.07007,910.0701)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{69c23fb VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(216.0,705.0)
+:Sending Touch (ACTION_UP): 0:(310.6868,702.0572)
+:Sending Touch (ACTION_DOWN): 0:(490.0,662.0)
+:Sending Touch (ACTION_UP): 0:(488.14984,662.3546)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(343.0,980.0)
+:Sending Touch (ACTION_UP): 0:(373.3354,968.2449)
+:Sending Touch (ACTION_DOWN): 0:(186.0,1769.0)
+    //[calendar_time:2022-04-26 22:25:44.975  system_uptime:1548723]
+    // Sending event #7100
+:Sending Touch (ACTION_UP): 0:(307.1237,1659.6276)
+:Sending Touch (ACTION_DOWN): 0:(933.0,1076.0)
+:Sending Touch (ACTION_UP): 0:(967.53314,1035.5387)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(327.0,1500.0)
+:Sending Touch (ACTION_UP): 0:(327.47617,1509.6127)
+:Sending Touch (ACTION_DOWN): 0:(625.0,887.0)
+:Sending Touch (ACTION_UP): 0:(636.0524,881.5233)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{c678f05 VFEDHVCL. .F...... 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:var __frida_inject = function(webViewInfo){console.log("Frida inject....");window.addEventListener("click", function(ev){var target = ev.toElement;console.log("[Frida]-" + JSON.stringify({msgType: "webViewTouchEvent",target: "webview",x: ev.screenX,y: ev.screenY,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.text,herf: ev.target.href,webview: webViewInfo,}));}, true);window.addEventListener("keyup", function(ev){console.log("[Frida]-" + JSON.stringify({msgType: "webViewKeyEvent",target: "webview",key: ev.key,keyCode: ev.keyCode,targetTag: ev.target.tagName,targetId: ev.target.id,targetClassList: ev.target.classList,text: ev.target.value,inputType: ev.target.type,inputName: ev.target.name,webview: webViewInfo,}));}, true);}; cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=javascript:__frida_inject("org.mozilla.focus.webkit.WebkitView{c678f05 VFEDHVCL. .F....I. 0,0-1200,1770}") cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(561.0,465.0)
+:Sending Touch (ACTION_UP): 0:(554.9187,451.9082)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(315.0,756.0)
+:Sending Touch (ACTION_UP): 0:(319.16907,744.0387)
+:Sending Touch (ACTION_DOWN): 0:(238.0,1065.0)
+:Sending Touch (ACTION_UP): 0:(280.8194,1028.1901)
+:Sending Touch (ACTION_DOWN): 0:(272.0,463.0)
+:Sending Touch (ACTION_UP): 0:(275.0542,474.98615)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,52.0)
+:Sending Touch (ACTION_UP): 0:(1056.7528,42.815685)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(48.0,1366.0)
+:Sending Touch (ACTION_UP): 0:(37.952595,1360.9172)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    //[calendar_time:2022-04-26 22:25:50.292  system_uptime:1554040]
+    // Sending event #7200
+    //[calendar_time:2022-04-26 22:25:50.492  system_uptime:1554240]
+    // Sending event #7200
+:Sending Touch (ACTION_DOWN): 0:(966.0,637.0)
+:Sending Touch (ACTION_UP): 0:(966.202,643.30524)
+:Sending Touch (ACTION_DOWN): 0:(21.0,695.0)
+:Sending Touch (ACTION_UP): 0:(22.48264,693.3822)
+:Sending Touch (ACTION_DOWN): 0:(286.0,624.0)
+:Sending Touch (ACTION_UP): 0:(320.27933,557.5583)
+:Sending Touch (ACTION_DOWN): 0:(755.0,1080.0)
+:Sending Touch (ACTION_UP): 0:(771.6824,1057.986)
+:Sending Touch (ACTION_DOWN): 0:(358.0,1665.0)
+:Sending Touch (ACTION_UP): 0:(357.99225,1670.6892)
+:Sending Touch (ACTION_DOWN): 0:(1097.0,1553.0)
+:Sending Touch (ACTION_UP): 0:(1088.8158,1554.4984)
+:Sending Touch (ACTION_DOWN): 0:(253.0,680.0)
+:Sending Touch (ACTION_UP): 0:(253.14278,671.2349)
+:Sending Touch (ACTION_DOWN): 0:(543.0,647.0)
+:Sending Touch (ACTION_UP): 0:(542.9778,650.16144)
+:Sending Touch (ACTION_DOWN): 0:(358.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(369.86044,1274.9972)
+:Sending Touch (ACTION_DOWN): 0:(633.0,1785.0)
+:Sending Touch (ACTION_UP): 0:(613.7821,1784.9836)
+:Sending Touch (ACTION_DOWN): 0:(671.0,1566.0)
+:Sending Touch (ACTION_UP): 0:(681.27094,1568.4882)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(298.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(298.37332,1250.9979)
+:Sending Touch (ACTION_DOWN): 0:(119.0,456.0)
+:Sending Touch (ACTION_UP): 0:(119.28291,459.22144)
+:Sending Touch (ACTION_DOWN): 0:(1159.0,1075.0)
+:Sending Touch (ACTION_UP): 0:(1194.7231,1071.3851)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2022-04-26 22:25:59.485  system_uptime:1563233]
+    // Sending event #7300
+:Sending Touch (ACTION_DOWN): 0:(546.0,828.0)
+:Sending Touch (ACTION_UP): 0:(544.61646,827.8191)
+:Sending Touch (ACTION_DOWN): 0:(96.0,1400.0)
+:Sending Touch (ACTION_UP): 0:(69.852264,1419.116)
+:Sending Touch (ACTION_DOWN): 0:(4.0,1400.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1411.6943)
+:Sending Touch (ACTION_DOWN): 0:(136.0,197.0)
+:Sending Touch (ACTION_UP): 0:(77.42305,90.2747)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(895.0,757.0)
+:Sending Touch (ACTION_UP): 0:(892.5437,738.36395)
+:Sending Touch (ACTION_DOWN): 0:(641.0,880.0)
+:Sending Touch (ACTION_UP): 0:(537.8697,955.3736)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(702.0,1352.0)
+:Sending Touch (ACTION_UP): 0:(708.1047,1368.4052)
+:Sending Touch (ACTION_DOWN): 0:(379.0,599.0)
+:Sending Touch (ACTION_UP): 0:(356.92963,573.8818)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    //[calendar_time:2022-04-26 22:26:05.362  system_uptime:1569110]
+    // Sending event #7400
+:Sending Touch (ACTION_DOWN): 0:(1173.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(1166.7089,1003.13446)
+:Sending Touch (ACTION_DOWN): 0:(925.0,1766.0)
+:Sending Touch (ACTION_UP): 0:(913.2884,1760.633)
+:Sending Touch (ACTION_DOWN): 0:(127.0,1214.0)
+:Sending Touch (ACTION_UP): 0:(122.13699,1215.2637)
+:Sending Touch (ACTION_DOWN): 0:(382.0,628.0)
+:Sending Touch (ACTION_UP): 0:(367.6916,622.8509)
+:Sending Touch (ACTION_DOWN): 0:(42.0,617.0)
+:Sending Touch (ACTION_UP): 0:(36.03656,603.06934)
+:Sending Touch (ACTION_DOWN): 0:(655.0,185.0)
+:Sending Touch (ACTION_UP): 0:(671.669,190.50415)
+:Sending Touch (ACTION_DOWN): 0:(649.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(640.85516,1677.1552)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,1376.0)
+:Sending Touch (ACTION_UP): 0:(1057.3142,1381.0935)
+:Sending Touch (ACTION_DOWN): 0:(330.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(325.8049,1290.1727)
+:Sending Touch (ACTION_DOWN): 0:(813.0,1805.0)
+:Sending Touch (ACTION_UP): 0:(783.2556,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(753.0,745.0)
+:Sending Touch (ACTION_UP): 0:(745.0152,731.2503)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(251.0,1185.0)
+:Sending Touch (ACTION_UP): 0:(233.47647,1181.6504)
+:Sending Touch (ACTION_DOWN): 0:(339.0,1515.0)
+:Sending Touch (ACTION_UP): 0:(340.1357,1514.1823)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(724.0,1431.0)
+:Sending Touch (ACTION_UP): 0:(722.97687,1422.6746)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    //[calendar_time:2022-04-26 22:26:10.771  system_uptime:1574519]
+    // Sending event #7500
+:Sending Touch (ACTION_DOWN): 0:(605.0,1507.0)
+:Sending Touch (ACTION_UP): 0:(611.1483,1511.7247)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(132.0,953.0)
+:Sending Touch (ACTION_UP): 0:(23.383766,911.1485)
+:Sending Touch (ACTION_DOWN): 0:(1049.0,1474.0)
+:Sending Touch (ACTION_UP): 0:(1054.0342,1472.1571)
+:Sending Touch (ACTION_DOWN): 0:(915.0,1236.0)
+:Sending Touch (ACTION_UP): 0:(842.59186,1327.9268)
+:Sending Touch (ACTION_DOWN): 0:(586.0,177.0)
+:Sending Touch (ACTION_UP): 0:(586.086,173.15059)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(430.0,1418.0)
+:Sending Touch (ACTION_UP): 0:(429.84018,1411.0724)
+:Sending Touch (ACTION_DOWN): 0:(916.0,1374.0)
+:Sending Touch (ACTION_UP): 0:(908.6396,1381.3503)
+:Sending Touch (ACTION_DOWN): 0:(150.0,132.0)
+:Sending Touch (ACTION_UP): 0:(220.929,169.9971)
+:Sending Touch (ACTION_DOWN): 0:(86.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(84.47068,1267.5768)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    //[calendar_time:2022-04-26 22:26:15.725  system_uptime:1579474]
+    // Sending event #7600
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(92.0,1729.0)
+:Sending Touch (ACTION_UP): 0:(180.9512,1620.7188)
+:Sending Touch (ACTION_DOWN): 0:(961.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(961.72437,1279.6992)
+:Sending Touch (ACTION_DOWN): 0:(1014.0,1595.0)
+:Sending Touch (ACTION_UP): 0:(1080.6471,1708.3824)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(298.0,1466.0)
+:Sending Touch (ACTION_UP): 0:(264.84418,1438.4169)
+:Sending Touch (ACTION_DOWN): 0:(955.0,693.0)
+:Sending Touch (ACTION_UP): 0:(942.05365,693.2934)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    //[calendar_time:2022-04-26 22:26:19.613  system_uptime:1583361]
+    // Sending event #7700
+:Sending Touch (ACTION_DOWN): 0:(880.0,328.0)
+:Sending Touch (ACTION_UP): 0:(876.9151,329.55478)
+:Sending Touch (ACTION_DOWN): 0:(253.0,711.0)
+:Sending Touch (ACTION_UP): 0:(252.69112,709.5096)
+:Sending Touch (ACTION_DOWN): 0:(829.0,961.0)
+:Sending Touch (ACTION_UP): 0:(827.70447,947.3185)
+:Sending Touch (ACTION_DOWN): 0:(480.0,169.0)
+:Sending Touch (ACTION_UP): 0:(476.5426,181.78403)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(896.0,556.0)
+:Sending Touch (ACTION_UP): 0:(907.0858,554.684)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(1181.0,257.0)
+:Sending Touch (ACTION_UP): 0:(1179.6188,245.29788)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(581.0,305.0)
+:Sending Touch (ACTION_UP): 0:(511.50333,307.319)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+    //[calendar_time:2022-04-26 22:26:25.372  system_uptime:1589120]
+    // Sending event #7800
+:Sending Touch (ACTION_DOWN): 0:(807.0,1345.0)
+:Sending Touch (ACTION_UP): 0:(809.995,1336.437)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1155.0,341.0)
+:Sending Touch (ACTION_UP): 0:(1135.5875,338.82404)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1174.0,909.0)
+:Sending Touch (ACTION_UP): 0:(1175.7552,912.2561)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(744.0,139.0)
+:Sending Touch (ACTION_UP): 0:(743.8782,129.55525)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,1587.0)
+:Sending Touch (ACTION_UP): 0:(1011.73553,1586.8611)
+:Sending Touch (ACTION_DOWN): 0:(107.0,1278.0)
+:Sending Touch (ACTION_UP): 0:(110.88693,1275.329)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(110.0,838.0)
+:Sending Touch (ACTION_UP): 0:(110.15722,776.89923)
+:Sending Touch (ACTION_DOWN): 0:(199.0,1207.0)
+:Sending Touch (ACTION_UP): 0:(207.56227,1206.9474)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2022-04-26 22:26:29.735  system_uptime:1593484]
+    // Sending event #7900
+:Sending Touch (ACTION_DOWN): 0:(224.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(232.00458,1050.1694)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(418.0,1628.0)
+:Sending Touch (ACTION_UP): 0:(439.6437,1601.2274)
+:Sending Touch (ACTION_DOWN): 0:(906.0,987.0)
+:Sending Touch (ACTION_UP): 0:(850.4921,1039.5857)
+:Sending Touch (ACTION_DOWN): 0:(81.0,265.0)
+:Sending Touch (ACTION_UP): 0:(82.81399,252.46251)
+:Sending Touch (ACTION_DOWN): 0:(1182.0,1779.0)
+:Sending Touch (ACTION_UP): 0:(1174.2728,1779.7345)
+:Sending Touch (ACTION_DOWN): 0:(497.0,289.0)
+:Sending Touch (ACTION_UP): 0:(506.4352,333.59854)
+:Sending Touch (ACTION_DOWN): 0:(1102.0,1122.0)
+:Sending Touch (ACTION_UP): 0:(1126.8453,1150.2433)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2022-04-26 22:26:33.895  system_uptime:1597643]
+    // Sending event #8000
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(347.0,1042.0)
+:Sending Touch (ACTION_UP): 0:(264.9358,1122.1807)
+:Sending Touch (ACTION_DOWN): 0:(363.0,1400.0)
+:Sending Touch (ACTION_UP): 0:(363.79086,1405.327)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(545.0,41.0)
+:Sending Touch (ACTION_UP): 0:(561.89667,43.802868)
+:Sending Touch (ACTION_DOWN): 0:(460.0,712.0)
+:Sending Touch (ACTION_UP): 0:(407.58453,697.2528)
+:Sending Touch (ACTION_DOWN): 0:(1075.0,34.0)
+:Sending Touch (ACTION_UP): 0:(1061.5748,19.727695)
+:Sending Touch (ACTION_DOWN): 0:(1106.0,335.0)
+:Sending Touch (ACTION_UP): 0:(1099.4991,341.97842)
+:Sending Touch (ACTION_DOWN): 0:(157.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(168.25868,1047.6387)
+:Sending Touch (ACTION_DOWN): 0:(93.0,524.0)
+:Sending Touch (ACTION_UP): 0:(96.48289,522.82574)
+    //[calendar_time:2022-04-26 22:26:37.402  system_uptime:1601150]
+    // Sending event #8100
+    //[calendar_time:2022-04-26 22:26:37.602  system_uptime:1601350]
+    // Sending event #8100
+:Sending Touch (ACTION_DOWN): 0:(303.0,1779.0)
+:Sending Touch (ACTION_UP): 0:(306.80313,1780.8345)
+:Sending Touch (ACTION_DOWN): 0:(1001.0,1726.0)
+:Sending Touch (ACTION_UP): 0:(993.26526,1719.2603)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(685.0,277.0)
+:Sending Touch (ACTION_UP): 0:(783.30206,219.16768)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1586.0)
+:Sending Touch (ACTION_UP): 0:(940.55176,1569.569)
+:Sending Touch (ACTION_DOWN): 0:(408.0,1664.0)
+:Sending Touch (ACTION_UP): 0:(386.06842,1757.3839)
+:Sending Touch (ACTION_DOWN): 0:(1120.0,1525.0)
+:Sending Touch (ACTION_UP): 0:(1051.2177,1488.2673)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,69.0)
+:Sending Touch (ACTION_UP): 0:(1043.255,56.465874)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    //[calendar_time:2022-04-26 22:26:42.110  system_uptime:1605858]
+    // Sending event #8200
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(528.0,766.0)
+:Sending Touch (ACTION_UP): 0:(405.58514,810.76416)
+:Sending Touch (ACTION_DOWN): 0:(1020.0,630.0)
+:Sending Touch (ACTION_UP): 0:(1007.70953,635.2434)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(246.0,578.0)
+:Sending Touch (ACTION_UP): 0:(244.87656,585.9632)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(1022.0,865.0)
+:Sending Touch (ACTION_UP): 0:(1022.21454,869.2775)
+:Sending Touch (ACTION_DOWN): 0:(138.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(40.71969,1101.9077)
+    //[calendar_time:2022-04-26 22:26:46.908  system_uptime:1610656]
+    // Sending event #8300
+    //[calendar_time:2022-04-26 22:26:47.109  system_uptime:1610857]
+    // Sending event #8300
+:Sending Touch (ACTION_DOWN): 0:(446.0,686.0)
+:Sending Touch (ACTION_UP): 0:(421.78445,684.05597)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(415.0,829.0)
+:Sending Touch (ACTION_UP): 0:(414.13202,826.26697)
+:Sending Touch (ACTION_DOWN): 0:(1104.0,383.0)
+:Sending Touch (ACTION_UP): 0:(1100.4432,393.72482)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(375.0,951.0)
+:Sending Touch (ACTION_UP): 0:(420.15027,932.91266)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,732.0)
+:Sending Touch (ACTION_UP): 0:(1161.0396,692.18475)
+:Sending Touch (ACTION_DOWN): 0:(893.0,1018.0)
+:Sending Touch (ACTION_UP): 0:(917.3774,1052.3306)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(414.0,10.0)
+:Sending Touch (ACTION_UP): 0:(398.23563,17.419489)
+:Sending Touch (ACTION_DOWN): 0:(198.0,136.0)
+:Sending Touch (ACTION_UP): 0:(199.19206,129.41371)
+:Sending Touch (ACTION_DOWN): 0:(22.0,132.0)
+:Sending Touch (ACTION_UP): 0:(27.7105,137.32922)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    //[calendar_time:2022-04-26 22:26:53.098  system_uptime:1616846]
+    // Sending event #8400
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1120.0,1255.0)
+:Sending Touch (ACTION_UP): 0:(1119.9033,1254.1227)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.shopping.search.ui.ShoppingSearchActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(419.0,766.0)
+:Sending Touch (ACTION_UP): 0:(366.00623,716.3108)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(1034.0,622.0)
+:Sending Touch (ACTION_UP): 0:(1028.8864,618.5612)
+:Sending Touch (ACTION_DOWN): 0:(111.0,1317.0)
+:Sending Touch (ACTION_UP): 0:(116.8845,1313.6222)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(829.0,398.0)
+:Sending Touch (ACTION_UP): 0:(834.01556,378.61377)
+:Sending Touch (ACTION_DOWN): 0:(450.0,760.0)
+:Sending Touch (ACTION_UP): 0:(464.719,760.4841)
+:Sending Touch (ACTION_DOWN): 0:(256.0,800.0)
+    //[calendar_time:2022-04-26 22:26:57.761  system_uptime:1621509]
+    // Sending event #8500
+:Sending Touch (ACTION_UP): 0:(222.7294,860.13617)
+:Sending Touch (ACTION_DOWN): 0:(829.0,463.0)
+:Sending Touch (ACTION_UP): 0:(831.87,469.70847)
+    // activityResuming(org.mozilla.rocket.debug.ting)
+:Sending Touch (ACTION_DOWN): 0:(443.0,518.0)
+:Sending Touch (ACTION_UP): 0:(380.02673,478.70023)
+:Sending Touch (ACTION_DOWN): 0:(689.0,578.0)
+:Sending Touch (ACTION_UP): 0:(670.26544,576.4911)
+:Sending Touch (ACTION_DOWN): 0:(518.0,453.0)
+:Sending Touch (ACTION_UP): 0:(520.8977,456.9615)
+:Sending Touch (ACTION_DOWN): 0:(692.0,315.0)
+:Sending Touch (ACTION_UP): 0:(692.8876,316.42242)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1073.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(1119.0466,1775.5818)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.rocket.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/org.mozilla.focus.activity.MainActivity } in package org.mozilla.rocket.debug.ting
+    // activityResuming(org.mozilla.rocket.debug.ting)
+:Sending Touch (ACTION_DOWN): 0:(630.0,1688.0)
+:Sending Touch (ACTION_UP): 0:(633.48315,1687.8094)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(805.0,764.0)
+:Sending Touch (ACTION_UP): 0:(814.32874,764.9016)
+    //[calendar_time:2022-04-26 22:27:03.389  system_uptime:1627137]
+    // Sending event #8600
+:Sending Touch (ACTION_DOWN): 0:(962.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(960.2016,1061.615)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(661.0,301.0)
+:Sending Touch (ACTION_UP): 0:(660.1314,300.93698)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1070.0,928.0)
+:Sending Touch (ACTION_UP): 0:(1097.1824,928.0778)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(264.0,1231.0)
+:Sending Touch (ACTION_UP): 0:(264.88373,1237.8551)
+:Sending Touch (ACTION_DOWN): 0:(1123.0,1236.0)
+:Sending Touch (ACTION_UP): 0:(1133.3605,1234.6793)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+    //[calendar_time:2022-04-26 22:27:09.177  system_uptime:1632925]
+    // Sending event #8700
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(914.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(929.48254,1239.6565)
+:Sending Touch (ACTION_DOWN): 0:(637.0,1556.0)
+:Sending Touch (ACTION_UP): 0:(638.55493,1559.4651)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(162.0,735.0)
+:Sending Touch (ACTION_UP): 0:(176.31148,733.00836)
+:Sending Touch (ACTION_DOWN): 0:(479.0,735.0)
+:Sending Touch (ACTION_UP): 0:(483.43274,743.421)
+:Sending Touch (ACTION_DOWN): 0:(169.0,843.0)
+:Sending Touch (ACTION_UP): 0:(170.84642,841.1142)
+:Sending Touch (ACTION_DOWN): 0:(1115.0,1142.0)
+:Sending Touch (ACTION_UP): 0:(1111.7916,1143.231)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.mozilla.rocket.debug.ting/leakcanary.internal.activity.LeakLauncherActivity } in package org.mozilla.rocket.debug.ting
+:Sending Touch (ACTION_DOWN): 0:(349.0,1494.0)
+:Sending Touch (ACTION_UP): 0:(348.7993,1491.6638)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    //[calendar_time:2022-04-26 22:27:14.347  system_uptime:1638095]
+    // Sending event #8800
+:Sending Touch (ACTION_DOWN): 0:(1093.0,1210.0)
+:Sending Touch (ACTION_UP): 0:(1089.2587,1202.3787)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(553.0,1518.0)
+:Sending Touch (ACTION_UP): 0:(570.69275,1497.6211)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(418.0,1676.0)
+:Sending Touch (ACTION_UP): 0:(410.65198,1677.316)
+:Sending Touch (ACTION_DOWN): 0:(303.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(315.50226,1066.9835)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(189.0,818.0)
+:Sending Touch (ACTION_UP): 0:(187.0147,832.60583)
+:Sending Touch (ACTION_DOWN): 0:(390.0,819.0)
+:Sending Touch (ACTION_UP): 0:(354.41937,735.3334)
+:Sending Touch (ACTION_DOWN): 0:(786.0,543.0)
+:Sending Touch (ACTION_UP): 0:(786.7916,538.8136)
+:Sending Touch (ACTION_DOWN): 0:(245.0,855.0)
+:Sending Touch (ACTION_UP): 0:(254.72154,868.47876)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2022-04-26 22:27:19.336  system_uptime:1643084]
+    // Sending event #8900
+:Sending Touch (ACTION_DOWN): 0:(169.0,1638.0)
+:Sending Touch (ACTION_UP): 0:(156.44977,1632.0499)
+// CRASH: org.mozilla.rocket.debug.ting (pid 7423)
+// Short Msg: Native crash
+// Long Msg: Native crash: Aborted
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+// Build fingerprint: 'google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys'
+// Revision: '0'
+// ABI: 'x86'
+// pid: 7423, tid: 7549, name: cket.debug.ting  >>> org.mozilla.rocket.debug.ting <<<
+// signal 6 (SIGABRT), code -6 (SI_TKILL), fault addr --------
+// Abort message: 'frida-gum/gum/backend-posix/gumtls-posix.c:33:gum_tls_key_new: assertion failed (res == 0): (11 == 0)'
+//     eax 00000000  ebx 00001cff  ecx 00001d7d  edx 00000006
+//     esi 8e1ff978  edi 8e1ff920
+//     xcs 00000073  xds 0000007b  xes 0000007b  xfs 0000003b  xss 0000007b
+//     eip ac581424  ebp 8e1ff3a8  esp 8e1ff34c  flags 00000296
+// 
+// backtrace:
+//     #00 pc ffffe424  [vdso:ac581000] (__kernel_vsyscall+16)
+//     #01 pc 0000103c  /system/lib/libc.so (offset 0x79000)
+// 
+app_crashorg.mozilla.rocket.debug.ting_2022-04-26_22_27_19.539_.txt:

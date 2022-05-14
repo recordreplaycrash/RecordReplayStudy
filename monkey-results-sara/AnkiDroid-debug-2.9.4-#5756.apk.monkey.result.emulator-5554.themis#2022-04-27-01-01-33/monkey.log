@@ -1,0 +1,116 @@
+:Monkey: seed=1651227242062 count=1000000
+:AllowPackage: com.ichi2.anki
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.306122%
+//   1: 10.204082%
+//   2: 2.0408163%
+//   3: 15.306122%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.510204%
+//   7: 15.306122%
+//   8: -0.0%
+//   9: 2.0408163%
+//   10: 1.0204082%
+//   11: 13.265306%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(304.0,11.0)
+:Sending Touch (ACTION_UP): 0:(300.531,17.629593)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(557.0,1723.0)
+:Sending Touch (ACTION_UP): 0:(556.1261,1730.706)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(801.0,458.0)
+:Sending Touch (ACTION_UP): 0:(803.2691,458.07733)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1111.0,677.0)
+:Sending Touch (ACTION_UP): 0:(1098.1168,680.60535)
+:Sending Touch (ACTION_DOWN): 0:(470.0,967.0)
+:Sending Touch (ACTION_UP): 0:(507.61847,984.8439)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1110.0,1718.0)
+:Sending Touch (ACTION_UP): 0:(1106.5096,1703.3661)
+:Sending Touch (ACTION_DOWN): 0:(492.0,1512.0)
+:Sending Touch (ACTION_UP): 0:(494.93542,1522.1726)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(141.0,281.0)
+:Sending Touch (ACTION_UP): 0:(150.26073,277.81445)
+:Sending Touch (ACTION_DOWN): 0:(11.0,481.0)
+:Sending Touch (ACTION_UP): 0:(4.129478,481.40207)
+:Sending Touch (ACTION_DOWN): 0:(728.0,1731.0)
+:Sending Touch (ACTION_UP): 0:(725.16034,1736.0135)
+:Sending Touch (ACTION_DOWN): 0:(1181.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(1175.4464,1068.9526)
+:Sending Touch (ACTION_DOWN): 0:(1110.0,1760.0)
+    //[calendar_time:2022-04-27 01:01:51.241  system_uptime:827093]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(1100.7701,1754.1403)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(448.0,499.0)
+:Sending Touch (ACTION_UP): 0:(438.6147,502.90158)
+:Sending Touch (ACTION_DOWN): 0:(85.0,1179.0)
+:Sending Touch (ACTION_UP): 0:(110.92893,1199.2855)
+:Sending Touch (ACTION_DOWN): 0:(932.0,1809.0)
+:Sending Touch (ACTION_UP): 0:(930.23785,1803.985)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(926.0,1489.0)
+:Sending Touch (ACTION_UP): 0:(848.6929,1478.6007)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://ankiweb.net/... pkg=com.android.chrome cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(1159.0,1384.0)
+:Sending Touch (ACTION_UP): 0:(1160.9109,1394.7133)
+:Sending Touch (ACTION_DOWN): 0:(608.0,146.0)
+:Sending Touch (ACTION_UP): 0:(707.81213,166.01794)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(743.0,932.0)
+:Sending Touch (ACTION_UP): 0:(742.69366,939.9932)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(640.0,8.0)
+:Sending Touch (ACTION_UP): 0:(643.22864,28.224596)
+:Sending Touch (ACTION_DOWN): 0:(1130.0,1762.0)
+:Sending Touch (ACTION_UP): 0:(1131.4475,1765.0405)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+// CRASH: com.ichi2.anki (pid 5702)
+// Short Msg: Native crash
+// Long Msg: Native crash: Segmentation fault
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+// Build fingerprint: 'google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys'
+// Revision: '0'
+// ABI: 'x86'
+// pid: 5702, tid: 5707, name: Jit thread pool  >>> com.ichi2.anki <<<
+// signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x364
+//     eax 8256517f  ebx a5c8b748  ecx af6773b4  edx aacd3988
+//     esi a5c8b748  edi 00000350
+//     xcs 00000073  xds 0000007b  xes 0000007b  xfs 0000003b  xss 0000007b
+//     eip a59622d1  ebp aacd3808  esp aacd3750  flags 00010286
+// 
+// backtrace:
+//     #00 pc 001962d1  /system/lib/libart-compiler.so (_ZN3art8HInliner24TryInlineMonomorphicCallEPNS_7HInvokeEPNS_9ArtMethodERKNS_11InlineCacheE+49)
+//     #01 pc 0019582c  /system/lib/libart-compiler.so (_ZN3art8HInliner9TryInlineEPNS_7HInvokeE+3244)
+//     #02 pc 00194b55  /system/lib/libart-compiler.so (_ZN3art8HInliner3RunEv+213)
+//     #03 pc 0019cfd3  /system/lib/libart-compiler.so (_ZN3art8HInliner16RunOptimizationsEPNS_6HGraphEPKNS_7DexFile8CodeItemERKNS_18DexCompilationUnitE+531)
+//     #04 pc 0019ac1e  /system/lib/libart-compiler.so (_ZN3art8HInliner23TryBuildAndInlineHelperEPNS_7HInvokeEPNS_9ArtMethodEbPPNS_12HInstructionE+2862)
+//     #05 pc 001982fd  /system/lib/libart-compiler.so (_ZN3art8HInliner17TryBuildAndInlineEPNS_7HInvokeEPNS_9ArtMethodEPPNS_12HInstructionE+1229)
+//     #06 pc 00195f38  /system/lib/libart-compiler.so (_ZN3art8HInliner24TryInlinePolymorphicCallEPNS_7HInvokeEPNS_9ArtMethodERKNS_11InlineCacheE+728)
+//     #07 pc 00195715  /system/lib/libart-compiler.so (_ZN3art8HInliner9TryInlineEPNS_7HInvokeE+2965)
+//     #08 pc 00194b55  /system/lib/libart-compiler.so (_ZN3art8HInliner3RunEv+213)
+//     #09 pc 001e66c1  /system/lib/libart-compiler.so (_ZNK3art18OptimizingCompiler10TryCompileEPNS_14ArenaAllocatorEPNS_19CodeVectorAllocatorEPKNS_7DexFile8CodeItemEjNS_10InvokeTypeEtjP8_jobjectRKS5_NS_6HandleINS_6mirror8DexCacheEEEPNS_9ArtMethodEb+7553)
+//     #10 pc 001e8888  /system/lib/libart-compiler.so (_ZN3art18OptimizingCompiler10JitCompileEPNS_6ThreadEPNS_3jit12JitCodeCacheEPNS_9ArtMethodEb+632)
+//     #11 pc 0015aaa0  /system/lib/libart-compiler.so (_ZN3art3jit11JitCompiler13CompileMethodEPNS_6ThreadEPNS_9ArtMethodEb+400)
+//     #12 pc 0015a8f7  /system/lib/libart-compiler.so (jit_compile_method+55)
+//     #13 pc 003b7cab  /system/lib/libart.so (_ZN3art3jit3Jit13CompileMethodEPNS_9ArtMethodEPNS_6ThreadEb+539)
+//     #14 pc 003ba190  /system/lib/libart.so (_ZN3art3jit14JitCompileTask3RunEPNS_6ThreadE+704)
+//     #15 pc 0055d53b  /system/lib/libart.so (_ZN3art16ThreadPoolWorker3RunEv+91)
+//     #16 pc 0055cd2a  /system/lib/libart.so (_ZN3art16ThreadPoolWorker8CallbackEPv+106)
+//     #17 pc 00055fe2  /system/lib/libc.so (offset 0x1f000)
+// 
+app_crashcom.ichi2.anki_2022-04-27_01_01_55.876_.txt:

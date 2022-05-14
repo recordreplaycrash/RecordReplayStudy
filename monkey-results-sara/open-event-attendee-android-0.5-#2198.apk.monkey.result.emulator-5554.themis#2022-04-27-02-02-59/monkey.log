@@ -1,0 +1,465 @@
+:Monkey: seed=1651137913332 count=1000000
+:AllowPackage: com.eventyay.attendee
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.306122%
+//   1: 10.204082%
+//   2: 2.0408163%
+//   3: 15.306122%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.510204%
+//   7: 15.306122%
+//   8: -0.0%
+//   9: 2.0408163%
+//   10: 1.0204082%
+//   11: 13.265306%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity } in package com.eventyay.attendee
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(112.0,1144.0)
+:Sending Touch (ACTION_UP): 0:(107.032104,1146.0436)
+:Sending Touch (ACTION_DOWN): 0:(1130.0,514.0)
+:Sending Touch (ACTION_UP): 0:(1150.58,514.9558)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(627.0,615.0)
+:Sending Touch (ACTION_UP): 0:(631.5958,596.76135)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1124.0,759.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,714.0986)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    //[calendar_time:2022-04-27 02:03:13.809  system_uptime:1085693]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(1112.0,1439.0)
+:Sending Touch (ACTION_UP): 0:(1111.8301,1454.5402)
+:Sending Touch (ACTION_DOWN): 0:(586.0,1265.0)
+:Sending Touch (ACTION_UP): 0:(622.41455,1292.3245)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity } in package com.eventyay.attendee
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(305.0,616.0)
+:Sending Touch (ACTION_UP): 0:(309.13516,623.1623)
+:Sending Touch (ACTION_DOWN): 0:(288.0,27.0)
+:Sending Touch (ACTION_UP): 0:(284.32077,17.2094)
+:Sending Touch (ACTION_DOWN): 0:(177.0,127.0)
+:Sending Touch (ACTION_UP): 0:(168.89001,115.22783)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(357.0,1452.0)
+:Sending Touch (ACTION_UP): 0:(356.61563,1453.2595)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(923.0,1445.0)
+    //[calendar_time:2022-04-27 02:03:21.510  system_uptime:1093395]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(951.70355,1547.0632)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(280.0,200.0)
+:Sending Touch (ACTION_UP): 0:(396.8601,171.45276)
+:Sending Touch (ACTION_DOWN): 0:(961.0,890.0)
+:Sending Touch (ACTION_UP): 0:(958.9849,890.2708)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity } in package com.eventyay.attendee
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity } in package com.eventyay.attendee
+:Sending Touch (ACTION_DOWN): 0:(1198.0,1294.0)
+:Sending Touch (ACTION_UP): 0:(1198.7091,1292.8097)
+:Sending Touch (ACTION_DOWN): 0:(310.0,1311.0)
+:Sending Touch (ACTION_UP): 0:(323.37704,1320.9541)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    //[calendar_time:2022-04-27 02:03:26.899  system_uptime:1098784]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(23.0,1200.0)
+:Sending Touch (ACTION_UP): 0:(24.159294,1198.7711)
+:Sending Touch (ACTION_DOWN): 0:(957.0,552.0)
+:Sending Touch (ACTION_UP): 0:(957.8715,562.34485)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity } in package com.eventyay.attendee
+:Sending Touch (ACTION_DOWN): 0:(1102.0,456.0)
+:Sending Touch (ACTION_UP): 0:(1092.8091,461.618)
+:Sending Touch (ACTION_DOWN): 0:(693.0,692.0)
+:Sending Touch (ACTION_UP): 0:(694.6199,702.1364)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(163.0,774.0)
+    //[calendar_time:2022-04-27 02:03:30.449  system_uptime:1102333]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(209.02075,792.8921)
+:Sending Touch (ACTION_DOWN): 0:(11.0,362.0)
+:Sending Touch (ACTION_UP): 0:(0.0,362.66418)
+:Sending Touch (ACTION_DOWN): 0:(240.0,1526.0)
+:Sending Touch (ACTION_UP): 0:(242.0478,1513.9122)
+:Sending Touch (ACTION_DOWN): 0:(884.0,1460.0)
+:Sending Touch (ACTION_UP): 0:(784.1577,1508.3022)
+:Sending Touch (ACTION_DOWN): 0:(889.0,807.0)
+:Sending Touch (ACTION_UP): 0:(889.0061,826.4788)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity } in package com.eventyay.attendee
+:Sending Touch (ACTION_DOWN): 0:(18.0,398.0)
+:Sending Touch (ACTION_UP): 0:(19.113417,380.42603)
+:Sending Touch (ACTION_DOWN): 0:(1186.0,1069.0)
+:Sending Touch (ACTION_UP): 0:(1176.1243,1065.9828)
+:Sending Touch (ACTION_DOWN): 0:(350.0,525.0)
+:Sending Touch (ACTION_UP): 0:(347.46835,527.086)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(80.0,1458.0)
+:Sending Touch (ACTION_UP): 0:(74.03197,1460.5748)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    //[calendar_time:2022-04-27 02:03:36.921  system_uptime:1108806]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(349.0,1539.0)
+:Sending Touch (ACTION_UP): 0:(337.96762,1539.4349)
+:Sending Touch (ACTION_DOWN): 0:(910.0,166.0)
+:Sending Touch (ACTION_UP): 0:(909.491,182.59795)
+:Sending Touch (ACTION_DOWN): 0:(74.0,1111.0)
+:Sending Touch (ACTION_UP): 0:(146.0434,1137.0297)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(141.0,2.0)
+:Sending Touch (ACTION_UP): 0:(100.0214,110.07184)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity } in package com.eventyay.attendee
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    //[calendar_time:2022-04-27 02:03:43.849  system_uptime:1115734]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(327.0,1015.0)
+:Sending Touch (ACTION_UP): 0:(329.0819,1021.9317)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity } in package com.eventyay.attendee
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(797.0,1076.0)
+:Sending Touch (ACTION_UP): 0:(796.86224,1072.3301)
+:Sending Touch (ACTION_DOWN): 0:(672.0,809.0)
+:Sending Touch (ACTION_UP): 0:(655.55164,800.71277)
+:Sending Touch (ACTION_DOWN): 0:(674.0,518.0)
+:Sending Touch (ACTION_UP): 0:(679.5441,472.4356)
+:Sending Touch (ACTION_DOWN): 0:(1004.0,1559.0)
+:Sending Touch (ACTION_UP): 0:(989.8858,1547.8356)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    //[calendar_time:2022-04-27 02:03:51.059  system_uptime:1122944]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(521.0,1347.0)
+:Sending Touch (ACTION_UP): 0:(523.939,1326.6375)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(231.0,1309.0)
+:Sending Touch (ACTION_UP): 0:(210.25316,1259.235)
+:Sending Touch (ACTION_DOWN): 0:(834.0,520.0)
+:Sending Touch (ACTION_UP): 0:(790.4507,626.0182)
+:Sending Touch (ACTION_DOWN): 0:(33.0,369.0)
+:Sending Touch (ACTION_UP): 0:(42.928207,374.9644)
+:Sending Touch (ACTION_DOWN): 0:(596.0,1147.0)
+:Sending Touch (ACTION_UP): 0:(601.62775,1264.2811)
+:Sending Touch (ACTION_DOWN): 0:(381.0,188.0)
+:Sending Touch (ACTION_UP): 0:(380.7089,188.07338)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(444.0,1281.0)
+:Sending Touch (ACTION_UP): 0:(460.42926,1329.6952)
+:Sending Touch (ACTION_DOWN): 0:(983.0,1686.0)
+:Sending Touch (ACTION_UP): 0:(976.5117,1685.5286)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+    //[calendar_time:2022-04-27 02:03:56.029  system_uptime:1127914]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(351.0,1219.0)
+:Sending Touch (ACTION_UP): 0:(353.61267,1210.6141)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1165.0,587.0)
+:Sending Touch (ACTION_UP): 0:(1173.8103,585.1808)
+:Sending Touch (ACTION_DOWN): 0:(241.0,1388.0)
+:Sending Touch (ACTION_UP): 0:(245.50728,1387.6387)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+    //[calendar_time:2022-04-27 02:03:59.558  system_uptime:1131443]
+    // Sending event #900
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(366.0,994.0)
+:Sending Touch (ACTION_UP): 0:(375.0193,974.6282)
+:Sending Touch (ACTION_DOWN): 0:(13.0,1725.0)
+:Sending Touch (ACTION_UP): 0:(18.710382,1727.0165)
+:Sending Touch (ACTION_DOWN): 0:(587.0,347.0)
+:Sending Touch (ACTION_UP): 0:(587.9964,333.32825)
+:Sending Touch (ACTION_DOWN): 0:(594.0,958.0)
+:Sending Touch (ACTION_UP): 0:(613.525,973.19604)
+:Sending Touch (ACTION_DOWN): 0:(775.0,118.0)
+:Sending Touch (ACTION_UP): 0:(771.2462,125.736885)
+:Sending Touch (ACTION_DOWN): 0:(183.0,52.0)
+:Sending Touch (ACTION_UP): 0:(181.0502,56.63555)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(321.0,166.0)
+:Sending Touch (ACTION_UP): 0:(322.9588,165.27632)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(669.0,1450.0)
+:Sending Touch (ACTION_UP): 0:(649.87714,1461.6962)
+:Sending Touch (ACTION_DOWN): 0:(668.0,568.0)
+:Sending Touch (ACTION_UP): 0:(665.81146,567.6951)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity } in package com.eventyay.attendee
+:Sending Touch (ACTION_DOWN): 0:(1131.0,46.0)
+:Sending Touch (ACTION_UP): 0:(1129.2814,56.644882)
+:Sending Touch (ACTION_DOWN): 0:(259.0,1510.0)
+:Sending Touch (ACTION_UP): 0:(267.09418,1512.7313)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(646.0,362.0)
+:Sending Touch (ACTION_UP): 0:(652.9419,319.06674)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(0.0,1400.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1396.144)
+    //[calendar_time:2022-04-27 02:04:05.802  system_uptime:1137687]
+    // Sending event #1000
+    //[calendar_time:2022-04-27 02:04:06.002  system_uptime:1137887]
+    // Sending event #1000
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(440.0,557.0)
+:Sending Touch (ACTION_UP): 0:(480.90543,548.48553)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(913.0,894.0)
+:Sending Touch (ACTION_UP): 0:(916.3271,896.652)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+    //[calendar_time:2022-04-27 02:04:10.039  system_uptime:1141924]
+    // Sending event #1100
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1162.0,582.0)
+:Sending Touch (ACTION_UP): 0:(1170.6705,581.05383)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(847.0,443.0)
+:Sending Touch (ACTION_UP): 0:(845.36584,451.13953)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(660.0,122.0)
+:Sending Touch (ACTION_UP): 0:(673.2751,117.70401)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(142.0,1484.0)
+:Sending Touch (ACTION_UP): 0:(143.48938,1474.3718)
+:Sending Touch (ACTION_DOWN): 0:(1167.0,1275.0)
+:Sending Touch (ACTION_UP): 0:(1178.5092,1268.4098)
+:Sending Touch (ACTION_DOWN): 0:(129.0,1218.0)
+:Sending Touch (ACTION_UP): 0:(125.489075,1207.167)
+:Sending Touch (ACTION_DOWN): 0:(279.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(245.18071,1657.0054)
+    //[calendar_time:2022-04-27 02:04:14.763  system_uptime:1146648]
+    // Sending event #1200
+:Sending Touch (ACTION_DOWN): 0:(841.0,181.0)
+:Sending Touch (ACTION_UP): 0:(838.78406,183.5043)
+:Sending Touch (ACTION_DOWN): 0:(686.0,84.0)
+:Sending Touch (ACTION_UP): 0:(698.5438,86.523224)
+:Sending Touch (ACTION_DOWN): 0:(1079.0,1046.0)
+:Sending Touch (ACTION_UP): 0:(1074.8586,1045.8739)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(171.0,1448.0)
+:Sending Touch (ACTION_UP): 0:(161.84496,1443.4141)
+:Sending Touch (ACTION_DOWN): 0:(962.0,1721.0)
+:Sending Touch (ACTION_UP): 0:(962.54803,1733.5961)
+:Sending Touch (ACTION_DOWN): 0:(1035.0,1315.0)
+:Sending Touch (ACTION_UP): 0:(1034.4612,1315.2018)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity } in package com.eventyay.attendee
+:Sending Touch (ACTION_DOWN): 0:(225.0,610.0)
+:Sending Touch (ACTION_UP): 0:(242.402,611.41315)
+:Sending Touch (ACTION_DOWN): 0:(257.0,91.0)
+:Sending Touch (ACTION_UP): 0:(259.28186,76.45446)
+:Sending Touch (ACTION_DOWN): 0:(221.0,167.0)
+:Sending Touch (ACTION_UP): 0:(227.37343,167.00797)
+:Sending Touch (ACTION_DOWN): 0:(69.0,626.0)
+:Sending Touch (ACTION_UP): 0:(134.82565,611.55804)
+:Sending Touch (ACTION_DOWN): 0:(310.0,1629.0)
+:Sending Touch (ACTION_UP): 0:(300.8548,1628.469)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(629.0,1218.0)
+:Sending Touch (ACTION_UP): 0:(630.12427,1211.3732)
+    //[calendar_time:2022-04-27 02:04:23.129  system_uptime:1155013]
+    // Sending event #1300
+    //[calendar_time:2022-04-27 02:04:23.329  system_uptime:1155214]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(610.0,103.0)
+:Sending Touch (ACTION_UP): 0:(624.297,90.36203)
+:Sending Touch (ACTION_DOWN): 0:(1181.0,177.0)
+:Sending Touch (ACTION_UP): 0:(1181.0109,175.69672)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(73.0,1110.0)
+:Sending Touch (ACTION_UP): 0:(77.51859,1106.5023)
+:Sending Touch (ACTION_DOWN): 0:(330.0,682.0)
+:Sending Touch (ACTION_UP): 0:(330.22708,682.2361)
+:Sending Touch (ACTION_DOWN): 0:(536.0,995.0)
+:Sending Touch (ACTION_UP): 0:(538.3063,995.43976)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(298.0,116.0)
+:Sending Touch (ACTION_UP): 0:(290.84625,116.192955)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(989.0,67.0)
+:Sending Touch (ACTION_UP): 0:(981.93005,65.70086)
+:Sending Touch (ACTION_DOWN): 0:(874.0,1598.0)
+:Sending Touch (ACTION_UP): 0:(879.5637,1608.1115)
+:Sending Touch (ACTION_DOWN): 0:(397.0,800.0)
+:Sending Touch (ACTION_UP): 0:(383.6787,796.47955)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2022-04-27 02:04:29.730  system_uptime:1161615]
+    // Sending event #1400
+:Sending Touch (ACTION_DOWN): 0:(738.0,1227.0)
+:Sending Touch (ACTION_UP): 0:(637.39374,1191.5225)
+:Sending Touch (ACTION_DOWN): 0:(400.0,1327.0)
+:Sending Touch (ACTION_UP): 0:(419.8642,1325.4888)
+:Sending Touch (ACTION_DOWN): 0:(991.0,1226.0)
+:Sending Touch (ACTION_UP): 0:(988.5428,1243.9094)
+:Sending Touch (ACTION_DOWN): 0:(492.0,1722.0)
+:Sending Touch (ACTION_UP): 0:(498.9361,1719.2322)
+:Sending Touch (ACTION_DOWN): 0:(750.0,601.0)
+:Sending Touch (ACTION_UP): 0:(735.7603,607.1572)
+:Sending Touch (ACTION_DOWN): 0:(1018.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(1023.55695,1325.1447)
+:Sending Touch (ACTION_DOWN): 0:(935.0,1044.0)
+:Sending Touch (ACTION_UP): 0:(816.0357,1033.3052)
+:Sending Touch (ACTION_DOWN): 0:(768.0,842.0)
+:Sending Touch (ACTION_UP): 0:(773.81146,836.01526)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(442.0,974.0)
+:Sending Touch (ACTION_UP): 0:(538.82,845.6961)
+:Sending Touch (ACTION_DOWN): 0:(581.0,805.0)
+    //[calendar_time:2022-04-27 02:04:34.943  system_uptime:1166827]
+    // Sending event #1500
+:Sending Touch (ACTION_UP): 0:(622.63,740.35913)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/leakcanary.internal.activity.LeakLauncherActivity } in package com.eventyay.attendee
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,1765.0)
+:Sending Touch (ACTION_UP): 0:(1065.898,1763.562)
+:Sending Touch (ACTION_DOWN): 0:(797.0,698.0)
+:Sending Touch (ACTION_UP): 0:(802.34766,684.34186)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(997.0,766.0)
+:Sending Touch (ACTION_UP): 0:(1013.9176,767.46436)
+:Sending Touch (ACTION_DOWN): 0:(289.0,26.0)
+:Sending Touch (ACTION_UP): 0:(288.67667,32.306957)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(608.0,959.0)
+:Sending Touch (ACTION_UP): 0:(601.92883,959.5879)
+:Sending Touch (ACTION_DOWN): 0:(633.0,457.0)
+:Sending Touch (ACTION_UP): 0:(645.1967,459.14014)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(443.0,59.0)
+    //[calendar_time:2022-04-27 02:04:40.297  system_uptime:1172182]
+    // Sending event #1600
+:Sending Touch (ACTION_UP): 0:(437.89102,59.120583)
+:Sending Touch (ACTION_DOWN): 0:(548.0,1353.0)
+:Sending Touch (ACTION_UP): 0:(552.4987,1349.2954)
+:Sending Touch (ACTION_DOWN): 0:(804.0,811.0)
+:Sending Touch (ACTION_UP): 0:(801.72504,806.9427)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(853.0,737.0)
+:Sending Touch (ACTION_UP): 0:(851.5088,734.75684)
+:Sending Touch (ACTION_DOWN): 0:(350.0,715.0)
+:Sending Touch (ACTION_UP): 0:(340.68488,712.8502)
+:Sending Touch (ACTION_DOWN): 0:(812.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(755.9121,1316.5258)
+:Sending Touch (ACTION_DOWN): 0:(796.0,486.0)
+:Sending Touch (ACTION_UP): 0:(800.8584,473.04752)
+:Sending Touch (ACTION_DOWN): 0:(764.0,1420.0)
+:Sending Touch (ACTION_UP): 0:(755.50806,1418.4729)
+:Sending Touch (ACTION_DOWN): 0:(590.0,1542.0)
+:Sending Touch (ACTION_UP): 0:(607.5517,1509.4105)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity } in package com.eventyay.attendee
+:Sending Touch (ACTION_DOWN): 0:(14.0,467.0)
+:Sending Touch (ACTION_UP): 0:(0.0,466.74487)
+:Sending Touch (ACTION_DOWN): 0:(856.0,281.0)
+:Sending Touch (ACTION_UP): 0:(856.2064,284.7606)
+:Sending Touch (ACTION_DOWN): 0:(594.0,102.0)
+:Sending Touch (ACTION_UP): 0:(590.1815,106.26148)
+:Sending Flip keyboardOpen=true
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.eventyay.attendee/org.fossasia.openevent.general.MainActivity } in package com.eventyay.attendee
+:Sending Touch (ACTION_DOWN): 0:(579.0,675.0)
+:Sending Touch (ACTION_UP): 0:(557.5859,560.6861)
+:Sending Touch (ACTION_DOWN): 0:(1046.0,200.0)
+:Sending Touch (ACTION_UP): 0:(1047.7085,201.35168)
+:Sending Touch (ACTION_DOWN): 0:(494.0,1384.0)
+:Sending Touch (ACTION_UP): 0:(486.21017,1360.8735)
+:Sending Touch (ACTION_DOWN): 0:(473.0,84.0)
+:Sending Touch (ACTION_UP): 0:(477.91046,103.22385)
+:Sending Touch (ACTION_DOWN): 0:(817.0,1820.0)
+:Sending Touch (ACTION_UP): 0:(821.01105,1820.9597)
+:Sending Touch (ACTION_DOWN): 0:(173.0,261.0)
+:Sending Touch (ACTION_UP): 0:(221.71892,236.54674)
+    //[calendar_time:2022-04-27 02:04:48.013  system_uptime:1179898]
+    // Sending event #1700
+    //[calendar_time:2022-04-27 02:04:48.214  system_uptime:1180098]
+    // Sending event #1700
+:Sending Touch (ACTION_DOWN): 0:(500.0,703.0)
+:Sending Touch (ACTION_UP): 0:(565.03394,726.9761)
+// CRASH: com.eventyay.attendee (pid 6825)
+// Short Msg: Native crash
+// Long Msg: Native crash: Segmentation fault
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+// Build fingerprint: 'google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys'
+// Revision: '0'
+// ABI: 'x86'
+// pid: 6825, tid: 6830, name: Jit thread pool  >>> com.eventyay.attendee <<<
+// signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x2050df2
+// Abort message: 'art/runtime/java_vm_ext.cc:470] JNI DETECTED ERROR IN APPLICATION: JNI GetArrayLength called with pending exception java.lang.NoClassDefFoundError: android.view.textclassifier.TextClassifier'
+//     eax 000002f0  ebx a7dd8748  ecx a7dd04c4  edx 000002f0
+//     esi 02050b02  edi 00000084
+//     xcs 00000073  xds 0000007b  xes 0000007b  xfs 0000003b  xss 0000007b
+//     eip a7ab0341  ebp acf53748  esp acf53690  flags 00010202
+// 
+// backtrace:
+//     #00 pc 00197341  /system/lib/libart-compiler.so (_ZN3art8HInliner36TryInlinePolymorphicCallToSameTargetEPNS_7HInvokeEPNS_9ArtMethodERKNS_11InlineCacheE+289)
+//     #01 pc 00195cb1  /system/lib/libart-compiler.so (_ZN3art8HInliner24TryInlinePolymorphicCallEPNS_7HInvokeEPNS_9ArtMethodERKNS_11InlineCacheE+81)
+//     #02 pc 00195715  /system/lib/libart-compiler.so (_ZN3art8HInliner9TryInlineEPNS_7HInvokeE+2965)
+//     #03 pc 00194b55  /system/lib/libart-compiler.so (_ZN3art8HInliner3RunEv+213)
+//     #04 pc 0019cfd3  /system/lib/libart-compiler.so (_ZN3art8HInliner16RunOptimizationsEPNS_6HGraphEPKNS_7DexFile8CodeItemERKNS_18DexCompilationUnitE+531)
+//     #05 pc 0019ac1e  /system/lib/libart-compiler.so (_ZN3art8HInliner23TryBuildAndInlineHelperEPNS_7HInvokeEPNS_9ArtMethodEbPPNS_12HInstructionE+2862)
+//     #06 pc 001982fd  /system/lib/libart-compiler.so (_ZN3art8HInliner17TryBuildAndInlineEPNS_7HInvokeEPNS_9ArtMethodEPPNS_12HInstructionE+1229)
+//     #07 pc 00196633  /system/lib/libart-compiler.so (_ZN3art8HInliner24TryInlineMonomorphicCallEPNS_7HInvokeEPNS_9ArtMethodERKNS_11InlineCacheE+915)
+//     #08 pc 0019582c  /system/lib/libart-compiler.so (_ZN3art8HInliner9TryInlineEPNS_7HInvokeE+3244)
+//     #09 pc 00194b55  /system/lib/libart-compiler.so (_ZN3art8HInliner3RunEv+213)
+//     #10 pc 001e66c1  /system/lib/libart-compiler.so (_ZNK3art18OptimizingCompiler10TryCompileEPNS_14ArenaAllocatorEPNS_19CodeVectorAllocatorEPKNS_7DexFile8CodeItemEjNS_10InvokeTypeEtjP8_jobjectRKS5_NS_6HandleINS_6mirror8DexCacheEEEPNS_9ArtMethodEb+7553)
+//     #11 pc 001e8888  /system/lib/libart-compiler.so (_ZN3art18OptimizingCompiler10JitCompileEPNS_6ThreadEPNS_3jit12JitCodeCacheEPNS_9ArtMethodEb+632)
+//     #12 pc 0015aaa0  /system/lib/libart-compiler.so (_ZN3art3jit11JitCompiler13CompileMethodEPNS_6ThreadEPNS_9ArtMethodEb+400)
+//     #13 pc 0015a8f7  /system/lib/libart-compiler.so (jit_compile_method+55)
+//     #14 pc 003b7cab  /system/lib/libart.so (_ZN3art3jit3Jit13CompileMethodEPNS_9ArtMethodEPNS_6ThreadEb+539)
+//     #15 pc 003ba190  /system/lib/libart.so (_ZN3art3jit14JitCompileTask3RunEPNS_6ThreadE+704)
+//     #16 pc 0055d53b  /system/lib/libart.so (_ZN3art16ThreadPoolWorker3RunEv+91)
+//     #17 pc 0055cd2a  /system/lib/libart.so (_ZN3art16ThreadPoolWorker8CallbackEPv+106)
+//     #18 pc 00055fe2  /system/lib/libc.so (offset 0x1f000)
+// 
+app_crashcom.eventyay.attendee_2022-04-27_02_04_48.416_.txt:

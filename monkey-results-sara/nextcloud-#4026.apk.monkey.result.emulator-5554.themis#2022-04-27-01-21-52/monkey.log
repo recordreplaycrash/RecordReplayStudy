@@ -1,0 +1,141 @@
+:Monkey: seed=1651290698178 count=1000000
+:AllowPackage: com.nextcloud.client
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.306122%
+//   1: 10.204082%
+//   2: 2.0408163%
+//   3: 15.306122%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.510204%
+//   7: 15.306122%
+//   8: -0.0%
+//   9: 2.0408163%
+//   10: 1.0204082%
+//   11: 13.265306%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Touch (ACTION_DOWN): 0:(298.0,656.0)
+:Sending Touch (ACTION_UP): 0:(312.1574,669.3631)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Touch (ACTION_DOWN): 0:(1053.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(1051.4031,1259.0189)
+:Sending Touch (ACTION_DOWN): 0:(673.0,233.0)
+:Sending Touch (ACTION_UP): 0:(628.8082,280.34308)
+:Sending Touch (ACTION_DOWN): 0:(176.0,559.0)
+:Sending Touch (ACTION_UP): 0:(136.57332,517.175)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(311.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(312.14505,1031.7756)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(111.0,1020.0)
+:Sending Touch (ACTION_UP): 0:(61.301197,963.2669)
+:Sending Touch (ACTION_DOWN): 0:(554.0,1137.0)
+:Sending Touch (ACTION_UP): 0:(570.3904,1134.0237)
+:Sending Touch (ACTION_DOWN): 0:(698.0,1422.0)
+:Sending Touch (ACTION_UP): 0:(723.3126,1499.7351)
+:Sending Touch (ACTION_DOWN): 0:(1019.0,711.0)
+:Sending Touch (ACTION_UP): 0:(1018.36536,710.8821)
+:Sending Touch (ACTION_DOWN): 0:(389.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(335.40036,1251.2207)
+:Sending Touch (ACTION_DOWN): 0:(406.0,211.0)
+:Sending Touch (ACTION_UP): 0:(360.53543,246.51944)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    //[calendar_time:2022-04-27 01:22:07.809  system_uptime:376164]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(779.0,537.0)
+:Sending Touch (ACTION_UP): 0:(709.5784,613.0604)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(126.0,546.0)
+:Sending Touch (ACTION_UP): 0:(113.826904,556.9366)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(40.0,531.0)
+:Sending Touch (ACTION_UP): 0:(1.0927002,613.0026)
+:Sending Touch (ACTION_DOWN): 0:(1012.0,546.0)
+:Sending Touch (ACTION_UP): 0:(1017.5389,550.47925)
+:Sending Touch (ACTION_DOWN): 0:(51.0,255.0)
+:Sending Touch (ACTION_UP): 0:(51.27369,266.34756)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(95.0,987.0)
+:Sending Touch (ACTION_UP): 0:(134.84975,904.3497)
+:Sending Touch (ACTION_DOWN): 0:(752.0,643.0)
+:Sending Touch (ACTION_UP): 0:(742.93524,651.86255)
+:Sending Touch (ACTION_DOWN): 0:(129.0,1000.0)
+:Sending Touch (ACTION_UP): 0:(135.14897,981.28687)
+    //[calendar_time:2022-04-27 01:22:13.609  system_uptime:381964]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(710.0,132.0)
+:Sending Touch (ACTION_UP): 0:(755.36847,211.45667)
+:Sending Touch (ACTION_DOWN): 0:(188.0,823.0)
+:Sending Touch (ACTION_UP): 0:(224.83585,734.597)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(74.0,241.0)
+:Sending Touch (ACTION_UP): 0:(126.793816,303.56964)
+:Sending Touch (ACTION_DOWN): 0:(468.0,662.0)
+:Sending Touch (ACTION_UP): 0:(468.86978,658.5795)
+:Sending Touch (ACTION_DOWN): 0:(370.0,40.0)
+:Sending Touch (ACTION_UP): 0:(256.3765,88.634285)
+    //[calendar_time:2022-04-27 01:22:21.024  system_uptime:389378]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Flip keyboardOpen=false
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity } in package com.nextcloud.client
+:Sending Touch (ACTION_DOWN): 0:(1133.0,389.0)
+:Sending Touch (ACTION_UP): 0:(1138.9327,393.06155)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(942.0,496.0)
+:Sending Touch (ACTION_UP): 0:(935.2585,500.77173)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+// CRASH: com.nextcloud.client (pid 4853)
+// Short Msg: Native crash
+// Long Msg: Native crash: Segmentation fault
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+// Build fingerprint: 'google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys'
+// Revision: '0'
+// ABI: 'x86'
+// pid: 4853, tid: 4858, name: Jit thread pool  >>> com.nextcloud.client <<<
+// signal 11 (SIGSEGV), code 2 (SEGV_ACCERR), fault addr 0xa60f400c
+//     eax 00000000  ebx a7dd8748  ecx a60f400c  edx 0f12c8b8
+//     esi 00000004  edi 000001e2
+//     xcs 00000073  xds 0000007b  xes 0000007b  xfs 0000003b  xss 0000007b
+//     eip ad708dc0  ebp acf53168  esp acf53160  flags 00010293
+// 
+// backtrace:
+//     #00 pc 003c8dc0  /system/lib/libart.so (_ZN3art13ProfilingInfo14GetInlineCacheEj+32)
+//     #01 pc 001955fe  /system/lib/libart-compiler.so (_ZN3art8HInliner9TryInlineEPNS_7HInvokeE+2686)
+//     #02 pc 00194b55  /system/lib/libart-compiler.so (_ZN3art8HInliner3RunEv+213)
+//     #03 pc 0019cfd3  /system/lib/libart-compiler.so (_ZN3art8HInliner16RunOptimizationsEPNS_6HGraphEPKNS_7DexFile8CodeItemERKNS_18DexCompilationUnitE+531)
+//     #04 pc 0019ac1e  /system/lib/libart-compiler.so (_ZN3art8HInliner23TryBuildAndInlineHelperEPNS_7HInvokeEPNS_9ArtMethodEbPPNS_12HInstructionE+2862)
+//     #05 pc 001982fd  /system/lib/libart-compiler.so (_ZN3art8HInliner17TryBuildAndInlineEPNS_7HInvokeEPNS_9ArtMethodEPPNS_12HInstructionE+1229)
+//     #06 pc 00195f38  /system/lib/libart-compiler.so (_ZN3art8HInliner24TryInlinePolymorphicCallEPNS_7HInvokeEPNS_9ArtMethodERKNS_11InlineCacheE+728)
+//     #07 pc 00195715  /system/lib/libart-compiler.so (_ZN3art8HInliner9TryInlineEPNS_7HInvokeE+2965)
+//     #08 pc 00194b55  /system/lib/libart-compiler.so (_ZN3art8HInliner3RunEv+213)
+//     #09 pc 0019cfd3  /system/lib/libart-compiler.so (_ZN3art8HInliner16RunOptimizationsEPNS_6HGraphEPKNS_7DexFile8CodeItemERKNS_18DexCompilationUnitE+531)
+//     #10 pc 0019ac1e  /system/lib/libart-compiler.so (_ZN3art8HInliner23TryBuildAndInlineHelperEPNS_7HInvokeEPNS_9ArtMethodEbPPNS_12HInstructionE+2862)
+//     #11 pc 001982fd  /system/lib/libart-compiler.so (_ZN3art8HInliner17TryBuildAndInlineEPNS_7HInvokeEPNS_9ArtMethodEPPNS_12HInstructionE+1229)
+//     #12 pc 0019589d  /system/lib/libart-compiler.so (_ZN3art8HInliner9TryInlineEPNS_7HInvokeE+3357)
+//     #13 pc 00194b55  /system/lib/libart-compiler.so (_ZN3art8HInliner3RunEv+213)
+//     #14 pc 001e66c1  /system/lib/libart-compiler.so (_ZNK3art18OptimizingCompiler10TryCompileEPNS_14ArenaAllocatorEPNS_19CodeVectorAllocatorEPKNS_7DexFile8CodeItemEjNS_10InvokeTypeEtjP8_jobjectRKS5_NS_6HandleINS_6mirror8DexCacheEEEPNS_9ArtMethodEb+7553)
+//     #15 pc 001e8888  /system/lib/libart-compiler.so (_ZN3art18OptimizingCompiler10JitCompileEPNS_6ThreadEPNS_3jit12JitCodeCacheEPNS_9ArtMethodEb+632)
+//     #16 pc 0015aaa0  /system/lib/libart-compiler.so (_ZN3art3jit11JitCompiler13CompileMethodEPNS_6ThreadEPNS_9ArtMethodEb+400)
+//     #17 pc 0015a8f7  /system/lib/libart-compiler.so (jit_compile_method+55)
+//     #18 pc 003b7cab  /system/lib/libart.so (_ZN3art3jit3Jit13CompileMethodEPNS_9ArtMethodEPNS_6ThreadEb+539)
+//     #19 pc 003ba190  /system/lib/libart.so (_ZN3art3jit14JitCompileTask3RunEPNS_6ThreadE+704)
+//     #20 pc 0055d53b  /system/lib/libart.so (_ZN3art16ThreadPoolWorker3RunEv+91)
+//     #21 pc 0055cd2a  /system/lib/libart.so (_ZN3art16ThreadPoolWorker8CallbackEPv+106)
+//     #22 pc 00055fe2  /system/lib/libc.so (offset 0x1f000)
+// 
+app_crashcom.nextcloud.client_2022-04-27_01_22_28.957_.txt:

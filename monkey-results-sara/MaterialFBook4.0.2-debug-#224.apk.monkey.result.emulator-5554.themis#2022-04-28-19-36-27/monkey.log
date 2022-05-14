@@ -1,0 +1,191 @@
+:Monkey: seed=1651286195092 count=1000000
+:AllowPackage: me.zeeroooo.materialfb
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.306122%
+//   1: 10.204082%
+//   2: 2.0408163%
+//   3: 15.306122%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.510204%
+//   7: 15.306122%
+//   8: -0.0%
+//   9: 2.0408163%
+//   10: 1.0204082%
+//   11: 13.265306%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.zeeroooo.materialfb/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.zeeroooo.materialfb/.activities.MainActivity } in package me.zeeroooo.materialfb
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(675.0,287.0)
+:Sending Touch (ACTION_UP): 0:(675.05975,288.39127)
+    // Allowing start of Intent { cmp=me.zeeroooo.materialfb/.activities.PhotoActivity } in package me.zeeroooo.materialfb
+    // Allowing start of Intent { cmp=me.zeeroooo.materialfb/.activities.PhotoActivity } in package me.zeeroooo.materialfb
+:Sending Touch (ACTION_DOWN): 0:(1071.0,312.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1067.5925,318.7838)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1166.0,1092.0)
+:Sending Touch (ACTION_UP): 0:(1165.8806,1080.9664)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.zeeroooo.materialfb/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.zeeroooo.materialfb/.activities.MainActivity } in package me.zeeroooo.materialfb
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(959.0,840.0)
+:Sending Touch (ACTION_UP): 0:(924.5101,897.85156)
+:Sending Touch (ACTION_DOWN): 0:(667.0,327.0)
+:Sending Touch (ACTION_UP): 0:(676.71747,334.5276)
+:Sending Touch (ACTION_DOWN): 0:(451.0,1671.0)
+    //[calendar_time:2022-04-28 19:36:46.721  system_uptime:1844715]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(375.70908,1666.8524)
+:Sending Touch (ACTION_DOWN): 0:(1182.0,1558.0)
+:Sending Touch (ACTION_UP): 0:(1195.275,1549.5756)
+:Sending Touch (ACTION_DOWN): 0:(618.0,846.0)
+:Sending Touch (ACTION_UP): 0:(638.87244,857.44543)
+:Sending Touch (ACTION_DOWN): 0:(1070.0,517.0)
+:Sending Touch (ACTION_UP): 0:(1080.0876,511.00345)
+:Sending Touch (ACTION_DOWN): 0:(773.0,79.0)
+:Sending Touch (ACTION_UP): 0:(780.83777,78.275215)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(774.0,418.0)
+:Sending Touch (ACTION_UP): 0:(763.4122,422.62048)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(537.0,1552.0)
+:Sending Touch (ACTION_UP): 0:(546.909,1607.0575)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Flip keyboardOpen=false
+    //[calendar_time:2022-04-28 19:36:53.296  system_uptime:1851290]
+    // Sending event #200
+    //[calendar_time:2022-04-28 19:36:53.496  system_uptime:1851490]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1029.0,479.0)
+:Sending Touch (ACTION_UP): 0:(1031.4028,477.8095)
+:Sending Touch (ACTION_DOWN): 0:(612.0,373.0)
+:Sending Touch (ACTION_UP): 0:(615.85516,362.32202)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(223.0,388.0)
+:Sending Touch (ACTION_UP): 0:(214.71558,335.2729)
+:Sending Touch (ACTION_DOWN): 0:(252.0,659.0)
+:Sending Touch (ACTION_UP): 0:(244.15211,662.94)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+    //[calendar_time:2022-04-28 19:36:58.367  system_uptime:1856361]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(381.0,1165.0)
+:Sending Touch (ACTION_UP): 0:(376.8125,1171.4358)
+    // Allowing start of Intent { cmp=me.zeeroooo.materialfb/.activities.PhotoActivity } in package me.zeeroooo.materialfb
+    // Allowing start of Intent { cmp=me.zeeroooo.materialfb/.activities.PhotoActivity } in package me.zeeroooo.materialfb
+:Sending Touch (ACTION_DOWN): 0:(623.0,226.0)
+:Sending Touch (ACTION_UP): 0:(627.1101,218.5413)
+:Sending Touch (ACTION_DOWN): 0:(118.0,323.0)
+:Sending Touch (ACTION_UP): 0:(121.24381,324.21445)
+    // activityResuming(me.zeeroooo.materialfb)
+:Sending Touch (ACTION_DOWN): 0:(569.0,614.0)
+:Sending Touch (ACTION_UP): 0:(582.92957,602.018)
+:Sending Touch (ACTION_DOWN): 0:(760.0,1679.0)
+:Sending Touch (ACTION_UP): 0:(754.1955,1667.3782)
+:Sending Touch (ACTION_DOWN): 0:(1179.0,1646.0)
+:Sending Touch (ACTION_UP): 0:(1178.7156,1633.0656)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(692.0,963.0)
+:Sending Touch (ACTION_UP): 0:(681.4476,960.3603)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(840.0,1439.0)
+:Sending Touch (ACTION_UP): 0:(832.35864,1442.6414)
+:Sending Touch (ACTION_DOWN): 0:(944.0,489.0)
+:Sending Touch (ACTION_UP): 0:(978.08563,423.74783)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    //[calendar_time:2022-04-28 19:37:05.369  system_uptime:1863363]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(460.0,161.0)
+:Sending Touch (ACTION_UP): 0:(467.6706,170.36879)
+    // Allowing start of Intent { cmp=me.zeeroooo.materialfb/.activities.PhotoActivity } in package me.zeeroooo.materialfb
+    // Allowing start of Intent { cmp=me.zeeroooo.materialfb/.activities.PhotoActivity } in package me.zeeroooo.materialfb
+:Sending Touch (ACTION_DOWN): 0:(818.0,1350.0)
+:Sending Touch (ACTION_UP): 0:(822.5233,1338.4724)
+:Sending Touch (ACTION_DOWN): 0:(910.0,169.0)
+:Sending Touch (ACTION_UP): 0:(972.6132,173.77995)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.zeeroooo.materialfb/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.zeeroooo.materialfb/.activities.MainActivity } in package me.zeeroooo.materialfb
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(712.0,324.0)
+:Sending Touch (ACTION_UP): 0:(719.2587,324.0658)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,1116.0)
+:Sending Touch (ACTION_UP): 0:(1029.1794,1118.3844)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1191.0,441.0)
+:Sending Touch (ACTION_UP): 0:(1114.4106,393.05298)
+:Sending Touch (ACTION_DOWN): 0:(545.0,1306.0)
+:Sending Touch (ACTION_UP): 0:(545.6797,1299.0201)
+:Sending Touch (ACTION_DOWN): 0:(1123.0,1791.0)
+:Sending Touch (ACTION_UP): 0:(1124.9731,1782.9163)
+    // Allowing start of Intent { cmp=me.zeeroooo.materialfb/.activities.PhotoActivity } in package me.zeeroooo.materialfb
+    // Allowing start of Intent { cmp=me.zeeroooo.materialfb/.activities.PhotoActivity } in package me.zeeroooo.materialfb
+:Sending Touch (ACTION_DOWN): 0:(232.0,439.0)
+:Sending Touch (ACTION_UP): 0:(238.5434,441.91916)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2022-04-28 19:37:13.512  system_uptime:1871506]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(97.0,1237.0)
+:Sending Touch (ACTION_UP): 0:(92.52879,1230.7488)
+:Sending Touch (ACTION_DOWN): 0:(938.0,1585.0)
+:Sending Touch (ACTION_UP): 0:(928.8943,1579.991)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(549.0,1218.0)
+:Sending Touch (ACTION_UP): 0:(533.5137,1230.5049)
+:Sending Touch (ACTION_DOWN): 0:(1186.0,1505.0)
+:Sending Touch (ACTION_UP): 0:(1186.4547,1619.2673)
+// CRASH: me.zeeroooo.materialfb (pid 9181)
+// Short Msg: Native crash
+// Long Msg: Native crash: Segmentation fault
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+// Build fingerprint: 'google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys'
+// Revision: '0'
+// ABI: 'x86'
+// pid: 9181, tid: 9186, name: Jit thread pool  >>> me.zeeroooo.materialfb <<<
+// signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0xa001a
+//     eax 26a907a0  ebx a6ad8748  ecx a3aabe4c  edx abc53208
+//     esi a6ad8748  edi 000a0006
+//     xcs 00000073  xds 0000007b  xes 0000007b  xfs 0000003b  xss 0000007b
+//     eip a67af2d1  ebp abc53088  esp abc52fd0  flags 00010286
+// 
+// backtrace:
+//     #00 pc 001962d1  /system/lib/libart-compiler.so (_ZN3art8HInliner24TryInlineMonomorphicCallEPNS_7HInvokeEPNS_9ArtMethodERKNS_11InlineCacheE+49)
+//     #01 pc 0019582c  /system/lib/libart-compiler.so (_ZN3art8HInliner9TryInlineEPNS_7HInvokeE+3244)
+//     #02 pc 00194b55  /system/lib/libart-compiler.so (_ZN3art8HInliner3RunEv+213)
+//     #03 pc 0019cfd3  /system/lib/libart-compiler.so (_ZN3art8HInliner16RunOptimizationsEPNS_6HGraphEPKNS_7DexFile8CodeItemERKNS_18DexCompilationUnitE+531)
+//     #04 pc 0019ac1e  /system/lib/libart-compiler.so (_ZN3art8HInliner23TryBuildAndInlineHelperEPNS_7HInvokeEPNS_9ArtMethodEbPPNS_12HInstructionE+2862)
+//     #05 pc 001982fd  /system/lib/libart-compiler.so (_ZN3art8HInliner17TryBuildAndInlineEPNS_7HInvokeEPNS_9ArtMethodEPPNS_12HInstructionE+1229)
+//     #06 pc 00195f38  /system/lib/libart-compiler.so (_ZN3art8HInliner24TryInlinePolymorphicCallEPNS_7HInvokeEPNS_9ArtMethodERKNS_11InlineCacheE+728)
+//     #07 pc 00195715  /system/lib/libart-compiler.so (_ZN3art8HInliner9TryInlineEPNS_7HInvokeE+2965)
+//     #08 pc 00194b55  /system/lib/libart-compiler.so (_ZN3art8HInliner3RunEv+213)
+//     #09 pc 0019cfd3  /system/lib/libart-compiler.so (_ZN3art8HInliner16RunOptimizationsEPNS_6HGraphEPKNS_7DexFile8CodeItemERKNS_18DexCompilationUnitE+531)
+//     #10 pc 0019ac1e  /system/lib/libart-compiler.so (_ZN3art8HInliner23TryBuildAndInlineHelperEPNS_7HInvokeEPNS_9ArtMethodEbPPNS_12HInstructionE+2862)
+//     #11 pc 001982fd  /system/lib/libart-compiler.so (_ZN3art8HInliner17TryBuildAndInlineEPNS_7HInvokeEPNS_9ArtMethodEPPNS_12HInstructionE+1229)
+//     #12 pc 00195f38  /system/lib/libart-compiler.so (_ZN3art8HInliner24TryInlinePolymorphicCallEPNS_7HInvokeEPNS_9ArtMethodERKNS_11InlineCacheE+728)
+//     #13 pc 00195715  /system/lib/libart-compiler.so (_ZN3art8HInliner9TryInlineEPNS_7HInvokeE+2965)
+//     #14 pc 00194b55  /system/lib/libart-compiler.so (_ZN3art8HInliner3RunEv+213)
+//     #15 pc 001e66c1  /system/lib/libart-compiler.so (_ZNK3art18OptimizingCompiler10TryCompileEPNS_14ArenaAllocatorEPNS_19CodeVectorAllocatorEPKNS_7DexFile8CodeItemEjNS_10InvokeTypeEtjP8_jobjectRKS5_NS_6HandleINS_6mirror8DexCacheEEEPNS_9ArtMethodEb+7553)
+//     #16 pc 001e8888  /system/lib/libart-compiler.so (_ZN3art18OptimizingCompiler10JitCompileEPNS_6ThreadEPNS_3jit12JitCodeCacheEPNS_9ArtMethodEb+632)
+//     #17 pc 0015aaa0  /system/lib/libart-compiler.so (_ZN3art3jit11JitCompiler13CompileMethodEPNS_6ThreadEPNS_9ArtMethodEb+400)
+//     #18 pc 0015a8f7  /system/lib/libart-compiler.so (jit_compile_method+55)
+//     #19 pc 003b7cab  /system/lib/libart.so (_ZN3art3jit3Jit13CompileMethodEPNS_9ArtMethodEPNS_6ThreadEb+539)
+//     #20 pc 003ba190  /system/lib/libart.so (_ZN3art3jit14JitCompileTask3RunEPNS_6ThreadE+704)
+//     #21 pc 0055d53b  /system/lib/libart.so (_ZN3art16ThreadPoolWorker3RunEv+91)
+//     #22 pc 0055cd2a  /system/lib/libart.so (_ZN3art16ThreadPoolWorker8CallbackEPv+106)
+//     #23 pc 00055fe2  /system/lib/libc.so (offset 0x1f000)
+// 
+app_crashme.zeeroooo.materialfb_2022-04-28_19_37_14.798_.txt:

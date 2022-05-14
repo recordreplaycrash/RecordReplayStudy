@@ -1,0 +1,258 @@
+:Monkey: seed=1651289155608 count=1000000
+:AllowPackage: fr.free.nrw.commons.beta
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.306122%
+//   1: 10.204082%
+//   2: 2.0408163%
+//   3: 15.306122%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.510204%
+//   7: 15.306122%
+//   8: -0.0%
+//   9: 2.0408163%
+//   10: 1.0204082%
+//   11: 13.265306%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.free.nrw.commons.beta/fr.free.nrw.commons.auth.LoginActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.free.nrw.commons.beta/fr.free.nrw.commons.auth.LoginActivity } in package fr.free.nrw.commons.beta
+:Sending Touch (ACTION_DOWN): 0:(862.0,54.0)
+:Sending Touch (ACTION_UP): 0:(855.6392,66.08384)
+:Sending Touch (ACTION_DOWN): 0:(1096.0,404.0)
+:Sending Touch (ACTION_UP): 0:(1121.6543,406.94763)
+:Sending Touch (ACTION_DOWN): 0:(1048.0,1409.0)
+:Sending Touch (ACTION_UP): 0:(1044.5433,1404.8035)
+:Sending Touch (ACTION_DOWN): 0:(776.0,867.0)
+:Sending Touch (ACTION_UP): 0:(782.1744,881.9057)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.free.nrw.commons.beta/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.free.nrw.commons.beta/com.squareup.leakcanary.internal.DisplayLeakActivity } in package fr.free.nrw.commons.beta
+:Sending Touch (ACTION_DOWN): 0:(846.0,1406.0)
+:Sending Touch (ACTION_UP): 0:(874.513,1448.5006)
+:Sending Touch (ACTION_DOWN): 0:(87.0,1490.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(86.92782,1480.2308)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(342.0,109.0)
+:Sending Touch (ACTION_UP): 0:(341.61475,123.953316)
+:Sending Touch (ACTION_DOWN): 0:(610.0,1104.0)
+:Sending Touch (ACTION_UP): 0:(611.439,1095.883)
+:Sending Touch (ACTION_DOWN): 0:(954.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(918.9311,1524.6766)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    //[calendar_time:2022-04-26 23:27:00.810  system_uptime:469554]
+    // Sending event #100
+    //[calendar_time:2022-04-26 23:27:01.010  system_uptime:469754]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(234.0,892.0)
+:Sending Touch (ACTION_UP): 0:(197.6327,919.3775)
+:Sending Touch (ACTION_DOWN): 0:(494.0,461.0)
+:Sending Touch (ACTION_UP): 0:(441.42816,542.0481)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1087.0,395.0)
+:Sending Touch (ACTION_UP): 0:(1093.5361,387.32547)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1095.0,994.0)
+:Sending Touch (ACTION_UP): 0:(1087.732,1006.1852)
+:Sending Touch (ACTION_DOWN): 0:(476.0,1221.0)
+:Sending Touch (ACTION_UP): 0:(376.07184,1309.4789)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(591.0,92.0)
+:Sending Touch (ACTION_UP): 0:(581.8948,93.37852)
+:Sending Touch (ACTION_DOWN): 0:(72.0,389.0)
+:Sending Touch (ACTION_UP): 0:(71.967606,393.67667)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2022-04-26 23:27:04.284  system_uptime:473028]
+    // Sending event #200
+    // activityResuming(fr.free.nrw.commons.beta)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.free.nrw.commons.beta/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.free.nrw.commons.beta/com.squareup.leakcanary.internal.DisplayLeakActivity } in package fr.free.nrw.commons.beta
+:Sending Touch (ACTION_DOWN): 0:(1141.0,146.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1033.9463,170.37401)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.free.nrw.commons.beta/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.free.nrw.commons.beta/com.squareup.leakcanary.internal.DisplayLeakActivity } in package fr.free.nrw.commons.beta
+:Sending Touch (ACTION_DOWN): 0:(866.0,1792.0)
+:Sending Touch (ACTION_UP): 0:(865.4453,1782.4836)
+:Sending Touch (ACTION_DOWN): 0:(1164.0,675.0)
+:Sending Touch (ACTION_UP): 0:(1184.0211,668.03735)
+:Sending Touch (ACTION_DOWN): 0:(813.0,183.0)
+:Sending Touch (ACTION_UP): 0:(743.5251,120.21237)
+:Sending Touch (ACTION_DOWN): 0:(1044.0,1336.0)
+:Sending Touch (ACTION_UP): 0:(1043.652,1326.1211)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    //[calendar_time:2022-04-26 23:27:09.949  system_uptime:478692]
+    // Sending event #300
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,1423.0)
+:Sending Touch (ACTION_UP): 0:(1002.11255,1448.4379)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,402.0)
+:Sending Touch (ACTION_UP): 0:(991.71106,350.44772)
+:Sending Touch (ACTION_DOWN): 0:(1111.0,1798.0)
+:Sending Touch (ACTION_UP): 0:(1099.8741,1798.6833)
+:Sending Touch (ACTION_DOWN): 0:(681.0,1219.0)
+:Sending Touch (ACTION_UP): 0:(690.8767,1222.6039)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.free.nrw.commons.beta/fr.free.nrw.commons.auth.LoginActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.free.nrw.commons.beta/fr.free.nrw.commons.auth.LoginActivity } in package fr.free.nrw.commons.beta
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://commons.m.wikimedia.beta.wmflabs.org/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.free.nrw.commons.beta/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.free.nrw.commons.beta/com.squareup.leakcanary.internal.DisplayLeakActivity } in package fr.free.nrw.commons.beta
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(359.0,1820.0)
+:Sending Touch (ACTION_UP): 0:(355.28836,1814.6105)
+:Sending Touch (ACTION_DOWN): 0:(832.0,599.0)
+:Sending Touch (ACTION_UP): 0:(839.5102,598.3705)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(946.0,1217.0)
+    //[calendar_time:2022-04-26 23:27:14.951  system_uptime:483695]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(937.4313,1213.5974)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(564.0,80.0)
+:Sending Touch (ACTION_UP): 0:(563.5691,88.415665)
+    // activityResuming(fr.free.nrw.commons.beta)
+:Sending Touch (ACTION_DOWN): 0:(980.0,1593.0)
+:Sending Touch (ACTION_UP): 0:(1087.0505,1427.7654)
+:Sending Touch (ACTION_DOWN): 0:(702.0,131.0)
+:Sending Touch (ACTION_UP): 0:(697.34357,117.37206)
+:Sending Touch (ACTION_DOWN): 0:(835.0,567.0)
+:Sending Touch (ACTION_UP): 0:(836.8934,567.40784)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(627.0,164.0)
+:Sending Touch (ACTION_UP): 0:(702.14606,145.95503)
+:Sending Touch (ACTION_DOWN): 0:(140.0,362.0)
+:Sending Touch (ACTION_UP): 0:(178.05006,376.49704)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.free.nrw.commons.beta/fr.free.nrw.commons.auth.LoginActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.free.nrw.commons.beta/fr.free.nrw.commons.auth.LoginActivity } in package fr.free.nrw.commons.beta
+:Sending Touch (ACTION_DOWN): 0:(1106.0,742.0)
+:Sending Touch (ACTION_UP): 0:(1105.5211,743.0361)
+:Sending Touch (ACTION_DOWN): 0:(1040.0,537.0)
+:Sending Touch (ACTION_UP): 0:(1023.72894,554.0888)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,365.0)
+:Sending Touch (ACTION_UP): 0:(1052.5659,371.45566)
+:Sending Touch (ACTION_DOWN): 0:(281.0,1704.0)
+:Sending Touch (ACTION_UP): 0:(291.25513,1713.3055)
+:Sending Touch (ACTION_DOWN): 0:(1168.0,1751.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1712.1621)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2022-04-26 23:27:21.314  system_uptime:490058]
+    // Sending event #500
+    //[calendar_time:2022-04-26 23:27:21.515  system_uptime:490259]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(577.0,1583.0)
+:Sending Touch (ACTION_UP): 0:(582.6155,1580.1359)
+:Sending Touch (ACTION_DOWN): 0:(920.0,1571.0)
+:Sending Touch (ACTION_UP): 0:(934.323,1566.0103)
+// CRASH: fr.free.nrw.commons.beta (pid 4255)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setVisible(boolean)' on a null object reference
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setVisible(boolean)' on a null object reference
+// 	at fr.free.nrw.commons.contributions.MainActivity.updateMenuItem(MainActivity.java:312)
+// 	at fr.free.nrw.commons.contributions.MainActivity.access$000(MainActivity.java:45)
+// 	at fr.free.nrw.commons.contributions.MainActivity$2.onPageSelected(MainActivity.java:187)
+// 	at android.support.v4.view.ViewPager.dispatchOnPageSelected(ViewPager.java:1941)
+// 	at android.support.v4.view.ViewPager.scrollToItem(ViewPager.java:680)
+// 	at android.support.v4.view.ViewPager.setCurrentItemInternal(ViewPager.java:664)
+// 	at android.support.v4.view.ViewPager.setCurrentItemInternal(ViewPager.java:625)
+// 	at android.support.v4.view.ViewPager.setCurrentItem(ViewPager.java:617)
+// 	at android.support.v4.view.ViewPager.pageRight(ViewPager.java:2888)
+// 	at android.support.v4.view.ViewPager.arrowScroll(ViewPager.java:2844)
+// 	at android.support.v4.view.ViewPager.executeKeyEvent(ViewPager.java:2764)
+// 	at android.support.v4.view.ViewPager.dispatchKeyEvent(ViewPager.java:2738)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at com.android.internal.policy.DecorView.superDispatchKeyEvent(DecorView.java:405)
+// 	at com.android.internal.policy.PhoneWindow.superDispatchKeyEvent(PhoneWindow.java:1798)
+// 	at android.app.Activity.dispatchKeyEvent(Activity.java:3021)
+// 	at android.app.Activity.dispatchKeyEvent(Native Method)
+// 	at android.support.v7.app.AppCompatActivity.dispatchKeyEvent(AppCompatActivity.java:534)
+// 	at android.support.v7.view.WindowCallbackWrapper.dispatchKeyEvent(WindowCallbackWrapper.java:58)
+// 	at android.support.v7.app.AppCompatDelegateImplBase$AppCompatWindowCallbackBase.dispatchKeyEvent(AppCompatDelegateImplBase.java:316)
+// 	at android.support.v7.view.WindowCallbackWrapper.dispatchKeyEvent(WindowCallbackWrapper.java:58)
+// 	at com.android.internal.policy.DecorView.dispatchKeyEvent(DecorView.java:319)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:4331)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:4302)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3999)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:4056)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:4032)
+// 	at android.view.ViewRootImpl$ImeInputStage.onFinishedInputEvent(ViewRootImpl.java:4193)
+// 	at android.view.inputmethod.InputMethodManager$PendingEvent.run(InputMethodManager.java:2400)
+// 	at android.view.inputmethod.InputMethodManager.invokeFinishedInputEventCallback(InputMethodManager.java:1964)
+// 	at android.view.inputmethod.InputMethodManager.finishedInputEvent(InputMethodManager.java:1955)
+// 	at android.view.inputmethod.InputMethodManager$ImeInputEventSender.onInputEventFinished(InputMethodManager.java:2377)
+// 	at android.view.InputEventSender.dispatchInputEventFinished(InputEventSender.java:141)
+// 	at android.os.MessageQueue.nativePollOnce(Native Method)
+// 	at android.os.MessageQueue.next(MessageQueue.java:323)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// 
+app_crashfr.free.nrw.commons.beta_2022-04-26_23_27_23.180_.txt:
+// app_crashfr.free.nrw.commons.beta_2022-04-26_23_27_23.180_.txt status was 0
+:Sending Touch (ACTION_DOWN): 0:(601.0,522.0)
+:Sending Touch (ACTION_UP): 0:(591.41583,522.5303)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(870.0,1293.0)
+:Sending Touch (ACTION_UP): 0:(871.54175,1291.771)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.gesture.builder/.GestureBuilderActivity } in package com.android.gesture.builder
+:Sending Touch (ACTION_DOWN): 0:(277.0,1403.0)
+:Sending Touch (ACTION_UP): 0:(261.3517,1424.2928)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.talk/.SigningInActivity } in package com.google.android.talk
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(439.0,818.0)
+:Sending Touch (ACTION_UP): 0:(458.8222,845.91504)
+:Sending Touch (ACTION_DOWN): 0:(56.0,440.0)
+:Sending Touch (ACTION_UP): 0:(53.70378,442.03995)
+:Sending Touch (ACTION_DOWN): 0:(438.0,1650.0)
+:Sending Touch (ACTION_UP): 0:(440.8964,1653.2792)
+    //[calendar_time:2022-04-26 23:28:05.270  system_uptime:534014]
+    // Sending event #600
+    //[calendar_time:2022-04-26 23:28:05.471  system_uptime:534215]
+    // Sending event #600
