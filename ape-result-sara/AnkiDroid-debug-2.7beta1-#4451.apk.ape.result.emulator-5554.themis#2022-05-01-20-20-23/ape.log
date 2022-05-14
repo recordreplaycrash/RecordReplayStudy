@@ -1,0 +1,1723 @@
+[APE] *** INFO *** InputMethod ID: com.android.inputmethod.latin/.LatinIME
+[APE] *** INFO *** InputMethod ID: com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService
+[APE] Power Manager says we are interactive
+[APE] >>>>>>>> SATA begin step [1][469639671332]
+[APE] *** INFO *** Explored 0 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.RelativeLayout@com.ichi2.anki:id/DeckPickerHoriz@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_name@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/counts_layout@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_new@0
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_lrn@0
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_rev@0
+[APE] *** INFO *** Create state g0s0[-1,0][0]com.ichi2.anki.DeckPicker@-230230233@Naming[0]@[W=8][A=9] for GUI tree GUITree[0@0]@g0s0[-1,0][0]com.ichi2.anki.DeckPicker@-230230233@Naming[0]@[W=8][A=9]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[-1,0][0]com.ichi2.anki.DeckPicker@-230230233@Naming[0]@[W=8][A=9]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-1.xml at step 1
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-1.png at step 1
+[APE] GSTG(g0): activities (1), states (1), edges (0), unvisited actions (9), visited actions (0)
+[APE] *** INFO *** -  0.00   1 com.ichi2.anki.DeckPicker[1,1][1][S=1]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      0  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#f533681c]
+[APE]     2 g0a1[-1,0][0]@MODEL_CLICKclass=android.widget.RelativeLayout;resource-id=com.ichi2.anki:id/DeckPickerHoriz;enabled=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][0,128,1200,224][]
+[APE]     3 g0a2[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.RelativeLayout;resource-id=com.ichi2.anki:id/DeckPickerHoriz;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,128,1200,224][]
+[APE]     4 g0a3[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/fab_expand_menu_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1020,1740,1168,1888][#44a9a244]
+[APE]     5 g0a4[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_name;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][48,128,178,224][Default]
+[APE]     6 g0a5[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_new;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1096,157,1122,195][0]
+[APE]     7 g0a6[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_lrn;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1122,157,1148,195][0]
+[APE]     8 g0a7[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_rev;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1148,157,1164,195][0]
+[APE]     9 g0a8[-1,0][0]@MODEL_BACKg0s0[1,1][1]com.ichi2.anki.DeckPicker@-230230233@Naming[0]@[W=8][A=9][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a3[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/fab_expand_menu_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1020,1740,1168,1888][#44a9a244] by strategy EARLY_STAGE
+[APE] Last  state: null
+[APE] Last action: null
+[APE] Curr  state: null
+[APE] Curr action: null
+[APE] New   state: g0s0[1,1][1]com.ichi2.anki.DeckPicker@-230230233@Naming[0]@[W=8][A=9]
+[APE] New  action: g0a3[1,1][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/fab_expand_menu_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1020,1740,1168,1888][#44a9a244]
+[APE] >>>>>>>> SATA end step [1][469834345752]
+[APE] >>>>>>>> SATA begin step [2][470658268152]
+[APE] *** INFO *** Explored 0 app activities.
+[APE] *** INFO *** Used: 0 MB, Max: 512 MB, Available: 512 MB
+[APE] *** INFO *** Patching this node: android.widget.RelativeLayout@com.ichi2.anki:id/DeckPickerHoriz@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_name@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/counts_layout@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_new@0
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_lrn@0
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_rev@0
+[APE] *** INFO *** Create state g0s1[-1,0][0]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12] for GUI tree GUITree[1@0]@g0s1[-1,0][0]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s1[-1,0][0]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-2.xml at step 2
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-2.png at step 2
+[APE] === Adding edge...
+[APE]     Source: g0s0[1,1][1]com.ichi2.anki.DeckPicker@-230230233@Naming[0]@[W=8][A=9]
+[APE]     Action: g0a3[1,1][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/fab_expand_menu_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1020,1740,1168,1888][#44a9a244]
+[APE]     Target: g0s1[2,2][1]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12]
+[APE]     Add target result: true
+[APE] GSTG(g0): activities (1), states (2), edges (1), unvisited actions (20), visited actions (1)
+[APE] *** INFO *** -  0.05   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      1  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a9[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#f533681c]
+[APE]     2 g0a10[-1,0][0]@MODEL_CLICKclass=android.widget.RelativeLayout;resource-id=com.ichi2.anki:id/DeckPickerHoriz;enabled=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][0,128,1200,224][]
+[APE]     3 g0a11[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.RelativeLayout;resource-id=com.ichi2.anki:id/DeckPickerHoriz;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,128,1200,224][]
+[APE]     4 g0a12[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/fab_expand_menu_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1020,1740,1168,1888][#cf607ddc]
+[APE]     5 g0a13[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_name;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][48,128,178,224][Default]
+[APE]     6 g0a14[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_new;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1096,157,1122,195][0]
+[APE]     7 g0a15[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_lrn;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1122,157,1148,195][0]
+[APE]     8 g0a16[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_rev;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1148,157,1164,195][0]
+[APE]     9 g0a17[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/add_deck_action;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1036,1643,1152,1759][#e4dd810a]
+[APE]    10 g0a18[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/add_shared_action;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1036,1675,1152,1791][#41da7f52]
+[APE]    11 g0a19[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/add_note_action;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1036,1708,1152,1824][#9ad237c0]
+[APE]    12 g0a20[-1,0][0]@MODEL_BACKg0s1[2,2][1]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** - g0a12[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/fab_expand_menu_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1020,1740,1168,1888][#cf607ddc]
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s1[2,2][1]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12]
+[APE] *** INFO *** > - B: g0s0[1,1][1]com.ichi2.anki.DeckPicker@-230230233@Naming[0]@[W=8][A=9]
+[APE] *** INFO *** Never move from a cold state (g0s1[2,2][1]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12]) to a hot state (g0s0[1,1][1]com.ichi2.anki.DeckPicker@-230230233@Naming[0]@[W=8][A=9]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a18[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/add_shared_action;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1036,1675,1152,1791][#41da7f52] by strategy EARLY_STAGE
+[APE] Last  state: null
+[APE] Last action: null
+[APE] Curr  state: g0s0[1,1][1]com.ichi2.anki.DeckPicker@-230230233@Naming[0]@[W=8][A=9]
+[APE] Curr action: g0a3[1,1][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/fab_expand_menu_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1020,1740,1168,1888][#44a9a244]
+[APE] New   state: g0s1[2,2][1]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12]
+[APE] New  action: g0a18[2,2][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/add_shared_action;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1036,1675,1152,1791][#41da7f52]
+[APE] >>>>>>>> SATA end step [2][470892227172]
+[APE] >>>>>>>> SATA begin step [3][472338370432]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.RelativeLayout@com.ichi2.anki:id/DeckPickerHoriz@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_name@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/counts_layout@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_new@0
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_lrn@0
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/deckpicker_rev@0
+[APE] *** INFO *** Create state g0s2[-1,0][0]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9] for GUI tree GUITree[2@0]@g0s2[-1,0][0]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s2[-1,0][0]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-3.xml at step 3
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-3.png at step 3
+[APE] === Adding edge...
+[APE]     Source: g0s1[2,2][1]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12]
+[APE]     Action: g0a18[2,2][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/add_shared_action;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1036,1675,1152,1791][#41da7f52]
+[APE]     Target: g0s2[3,3][1]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9]
+[APE]     Add target result: true
+[APE] GSTG(g0): activities (2), states (3), edges (2), unvisited actions (28), visited actions (2)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.00   1 com.ichi2.anki.NoteEditor[3,3][1][S=1]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      2  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a21[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#f533681c]
+[APE]     2 g0a22[-1,0][0]@MODEL_CLICKclass=android.widget.RelativeLayout;resource-id=com.ichi2.anki:id/DeckPickerHoriz;enabled=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][0,128,1200,224][]
+[APE]     3 g0a23[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.RelativeLayout;resource-id=com.ichi2.anki:id/DeckPickerHoriz;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,128,1200,224][]
+[APE]     4 g0a24[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/fab_expand_menu_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1020,1740,1168,1888][#d2076e6a]
+[APE]     5 g0a25[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_name;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][48,128,178,224][Default]
+[APE]     6 g0a26[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_new;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1096,157,1122,195][0]
+[APE]     7 g0a27[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_lrn;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1122,157,1148,195][0]
+[APE]     8 g0a28[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_rev;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1148,157,1164,195][0]
+[APE]     9 g0a29[-1,0][0]@MODEL_BACKg0s2[3,3][1]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s2[3,3][1]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9]
+[APE] *** INFO *** > - B: g0s1[2,2][1]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12]
+[APE] *** INFO *** Never move from a cold activity (g0s2[3,3][1]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9])(com.ichi2.anki.NoteEditor[3,3][1][S=1]) to a hot activity (g0s1[2,2][1]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12])(com.ichi2.anki.DeckPicker[1,2][2][S=2]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a27[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_lrn;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1122,157,1148,195][0] by strategy EARLY_STAGE
+[APE] Last  state: g0s0[1,1][1]com.ichi2.anki.DeckPicker@-230230233@Naming[0]@[W=8][A=9]
+[APE] Last action: g0a3[1,1][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/fab_expand_menu_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1020,1740,1168,1888][#44a9a244]
+[APE] Curr  state: g0s1[2,2][1]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12]
+[APE] Curr action: g0a18[2,2][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/add_shared_action;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1036,1675,1152,1791][#41da7f52]
+[APE] New   state: g0s2[3,3][1]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9]
+[APE] New  action: g0a27[3,3][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_lrn;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1122,157,1148,195][0]
+[APE] >>>>>>>> SATA end step [3][472573697452]
+[APE] >>>>>>>> SATA begin step [4][473103593442]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 0 MB, Max: 512 MB, Available: 512 MB
+[APE] *** INFO *** Create state g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2] for GUI tree GUITree[3@0]@g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** Checking new state: g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 789 ms.
+[APE] *** INFO *** Create state g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2] for GUI tree GUITree[4@0]@g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2] for GUI tree GUITree[5@0]@g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2] for GUI tree GUITree[6@0]@g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2] is blacklisted from refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2]: #0
+[APE] *** INFO *** actionRefinement: Refine name class=android.widget.CheckedTextView;resource-id=android:id/text1;enabled=true;clickable=true;checkable=true; that has been resolved to 4 nodes
+[APE] this:Naming[3], parent:Naming[0].
+[APE]   0. [000][BASE] //*[@clickable='true' or @long-clickable='true' or @checkable='true' or @scrollable='true'] -> ActionPatchNamer[TypeNamer[type,resource-id]]
+[APE]   1. [000][BASE] //*[@clickable='false' and @long-clickable='false' and @checkable='false' and @scrollable='false'] -> ActionPatchNamer[EmptyNamer]
+[APE]   2. [001][REFINE] //*[@class="android.widget.CheckedTextView"][@resource-id="android:id/text1"][@enabled='true'][@clickable='true'][@checkable='true'][@long-clickable='false'][@scrollable='false'] -> ActionPatchNamer[CompoundNamer[TypeNamer[type,resource-id],IndexNamer[index]]]
+[APE] *** INFO *** Refine actions: nodes(4), new names (4), new states (1), trees(1), state threshold (8)
+[APE] *** INFO *** - class=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;
+[APE] *** INFO *** - class=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;
+[APE] *** INFO *** - class=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;
+[APE] *** INFO *** - class=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;
+[APE] *** INFO *** Update naming for GUITree[6@4]@g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2]: existing in dict: Naming[0], current in tree: Naming[0], check in graph: Naming[0], new: Naming[3]
+[APE] *** INFO *** getNaming for tree GUITree[6@4]@g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2]: Source: Naming[0], Target: null, State: com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2]
+[APE] *** INFO *** updateNaming: Add - Source: Naming[0], Target: Naming[3], State: com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2]
+[APE] *** INFO *** Start rebuilding model... 
+[APE] *** INFO *** > Removing state g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** > Removing (1) old states and (0) transitions finished in 0 ms.
+[APE] *** INFO *** >> state: g0s3[-1,0][0]com.ichi2.anki.NoteEditor@1700794321@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** > rebuilding tree #4
+[APE] *** INFO *** Create state g1s3[-1,0][0]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] for GUI tree GUITree[6@4]@g1s3[-1,0][0]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** > Readding transitions finished in 0 ms.
+[APE] *** INFO *** Rebuilding model finished in 0 ms, removed 1 states and 0 state transitions, and rebuild 0 tree transitions.
+[APE] *** INFO *** Action refinement takes 7 ms.
+[APE] *** INFO *** Check over-abstracted states g1s3[-1,0][0]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #1
+[APE] *** INFO *** Checking over-abstracted states takes 8 ms
+[APE] *** INFO *** Check under-abstracted states g1s3[-1,0][0]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Check under-abstracted states collected 1 targets for naming Naming[3]. The state is g1s3[-1,0][0]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 1, affected states: 1, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 1 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 1 <= threshold: 8 
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-4.xml at step 4
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-4.png at step 4
+[APE] === Adding edge...
+[APE]     Source: g0s2[3,3][1]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9]
+[APE]     Action: g0a27[3,3][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_lrn;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1122,157,1148,195][0]
+[APE]     Target: g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (4), edges (3), unvisited actions (32), visited actions (3)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.07   2 com.ichi2.anki.NoteEditor[3,4][2][S=2]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (1)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      3  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a32[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1094,234][Basic]
+[APE]     2 g1a33[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,234,1094,330][Basic (a]
+[APE]     3 g1a34[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,330,1094,426][Basic (o]
+[APE]     4 g1a35[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,426,1094,522][Cloze]
+[APE]     5 g1a36[-1,0][0]@MODEL_BACKg1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** > - B: g0s2[3,3][1]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9]
+[APE] *** INFO *** Never move from a cold state (g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]) to a hot state (g0s2[3,3][1]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a33[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,234,1094,330][Basic (a] by strategy EARLY_STAGE
+[APE] Last  state: g0s1[2,2][1]com.ichi2.anki.DeckPicker@-788847587@Naming[0]@[W=11][A=12]
+[APE] Last action: g0a18[2,2][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/add_shared_action;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1036,1675,1152,1791][#41da7f52]
+[APE] Curr  state: g0s2[3,3][1]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9]
+[APE] Curr action: g0a27[3,3][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_lrn;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1122,157,1148,195][0]
+[APE] New   state: g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] New  action: g1a33[4,4][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][111,234,1094,330][Basic (a]
+[APE] >>>>>>>> SATA end step [4][474185236902]
+[APE] >>>>>>>> SATA begin step [5][474659913132]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 0 MB, Max: 512 MB, Available: 512 MB
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_type_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Basic (a
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_deck_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorTagButton@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/CardEditorTagText@Tags: 
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorCardsButton@
+[APE] *** INFO *** Create state g1s4[-1,0][0]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18] for GUI tree GUITree[7@0]@g1s4[-1,0][0]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[-1,0][0]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-5.xml at step 5
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-5.png at step 5
+[APE] === Adding edge...
+[APE]     Source: g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE]     Action: g1a33[4,4][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][111,234,1094,330][Basic (a]
+[APE]     Target: g1s4[5,5][1]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (5), edges (4), unvisited actions (49), visited actions (4)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.06   3 com.ichi2.anki.NoteEditor[3,5][3][S=3]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (2)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      4  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#5f7cf264]
+[APE]     2 g1a38[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     3 g1a39[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     4 g1a40[-1,0][0]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     5 g1a41[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     6 g1a42[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     7 g1a43[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     8 g1a44[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     9 g1a45[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]    10 g1a46[-1,0][0]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    11 g1a47[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    12 g1a48[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][58,545,1094,636][]
+[APE]    13 g1a49[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=40][T=200][, UNVISITED][S=0.000000][RN=2][58,416,1094,507][]
+[APE]    14 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][1094,545,1142,593][#a0283b84]
+[APE]    15 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=android:id/text1;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][113,260,1094,303][Default]
+[APE]    16 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorTagText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,713,1156,751][Tags: ]
+[APE]    17 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorCardsText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,809,1156,847][Cards: C]
+[APE]    18 g1a54[-1,0][0]@MODEL_BACKg1s4[5,5][1]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[5,5][1]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** > - B: g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** Never move from a cold state (g1s4[5,5][1]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to a hot state (g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a38[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][] by strategy EARLY_STAGE
+[APE] Last  state: g0s2[3,3][1]com.ichi2.anki.NoteEditor@1526771343@Naming[0]@[W=8][A=9]
+[APE] Last action: g0a27[3,3][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/deckpicker_lrn;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1122,157,1148,195][0]
+[APE] Curr  state: g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] Curr action: g1a33[4,4][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][111,234,1094,330][Basic (a]
+[APE] New   state: g1s4[5,5][1]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] New  action: g1a38[5,5][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][1088,16,1184,112][]
+[APE] >>>>>>>> SATA end step [5][474899230352]
+[APE] *** WARNING *** Null info root node returned by UiTestAutomationBridge, generate activate action...
+[APE] Power Manager says we are interactive
+[APE] *** INFO *** Activating: generate app switch events.
+[APE] Press HOME after app switch
+[APE] *** INFO *** Enable RecentsActivity
+[APE] *** INFO *** Let's wait for activity loading...
+[APE] *** INFO *** Expected activity package [com.ichi2.anki] is loaded...
+[APE] *** INFO *** App Activity com.ichi2.anki.NoteEditor started.
+[APE] >>>>>>>> SATA begin step [6][479038487912]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_type_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Basic (a
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_deck_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorTagButton@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/CardEditorTagText@Tags: 
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorCardsButton@
+[APE] *** INFO *** Create state g1s4[5,5][1]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18] for GUI tree GUITree[8@0]@g1s4[5,5][1]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[5,5][1]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-6.xml at step 6
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-6.png at step 6
+[APE] *** INFO *** Entry state: g1s4[5,6][2]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] GSTG(g1): activities (2), states (5), edges (4), unvisited actions (48), visited actions (5)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.09   3 com.ichi2.anki.NoteEditor[3,6][4][S=3]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      5  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#5b065bcc]
+[APE]     2 g1a38[5,5][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=32][T=0][][S=1.000000][RN=1][1088,16,1184,112][]
+[APE]     3 g1a39[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     4 g1a40[-1,0][0]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     5 g1a41[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     6 g1a42[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     7 g1a43[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     8 g1a44[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     9 g1a45[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]    10 g1a46[-1,0][0]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    11 g1a47[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    12 g1a48[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][58,416,1094,507][]
+[APE]    13 g1a49[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=40][T=200][, UNVISITED][S=0.000000][RN=2][58,545,1094,636][]
+[APE]    14 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][1094,416,1142,464][#a4b8a612]
+[APE]    15 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=android:id/text1;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][111,164,1094,207][Basic (a]
+[APE]    16 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorTagText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,713,1156,751][Tags: ]
+[APE]    17 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorCardsText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,809,1156,847][Cards: C]
+[APE]    18 g1a54[-1,0][0]@MODEL_BACKg1s4[5,6][2]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a40[-1,0][0]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][] by strategy EARLY_STAGE
+[APE] Last  state: null
+[APE] Last action: null
+[APE] Curr  state: null
+[APE] Curr action: null
+[APE] New   state: g1s4[5,6][2]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] New  action: g1a40[6,6][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=52][T=200][][S=0.000000][RN=1][111,138,1190,234][]
+[APE] >>>>>>>> SATA end step [6][479152878682]
+[APE] >>>>>>>> SATA begin step [7][479592559082]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] for GUI tree GUITree[9@0]@g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** Checking new state: g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 668 ms.
+[APE] *** INFO *** Create state g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] for GUI tree GUITree[10@0]@g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] for GUI tree GUITree[11@0]@g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] for GUI tree GUITree[12@0]@g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] is blacklisted from refresh check.
+[APE] *** INFO *** Check under-abstracted states g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Check under-abstracted states collected 1 targets for naming Naming[3]. The state is g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 1, affected states: 1, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 1 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 1 <= threshold: 8 
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Check under-abstracted states g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Check under-abstracted states collected 1 targets for naming Naming[3]. The state is g1s3[4,4][1]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 1, affected states: 1, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 1 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 1 <= threshold: 8 
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-7.xml at step 7
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-7.png at step 7
+[APE] === Adding edge...
+[APE]     Source: g1s4[5,6][2]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Action: g1a40[6,6][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=52][T=200][][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     Target: g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (5), edges (5), unvisited actions (47), visited actions (6)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.13   3 com.ichi2.anki.NoteEditor[3,7][5][S=3]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (1)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      6  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a32[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1094,234][Basic]
+[APE]     2 g1a33[4,4][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][111,234,1094,330][Basic (a]
+[APE]     3 g1a34[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,330,1094,426][Basic (o]
+[APE]     4 g1a35[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,426,1094,522][Cloze]
+[APE]     5 g1a36[-1,0][0]@MODEL_BACKg1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** > - B: g1s4[5,6][2]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Never move from a cold state (g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]) to a hot state (g1s4[5,6][2]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a35[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][111,426,1094,522][Cloze] by strategy EARLY_STAGE
+[APE] Last  state: null
+[APE] Last action: null
+[APE] Curr  state: g1s4[5,6][2]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Curr action: g1a40[6,6][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=52][T=200][][S=0.000000][RN=1][111,138,1190,234][]
+[APE] New   state: g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] New  action: g1a35[7,7][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][111,426,1094,522][Cloze]
+[APE] >>>>>>>> SATA end step [7][480598762022]
+[APE] >>>>>>>> SATA begin step [8][481109452722]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 0 MB, Max: 512 MB, Available: 512 MB
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_type_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Cloze
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_deck_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorTagButton@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/CardEditorTagText@Tags: 
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorCardsButton@
+[APE] *** INFO *** Create state g1s4[5,6][2]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18] for GUI tree GUITree[13@0]@g1s4[5,6][2]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[5,6][2]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-8.xml at step 8
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-8.png at step 8
+[APE] === Adding edge...
+[APE]     Source: g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE]     Action: g1a35[7,7][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][111,426,1094,522][Cloze]
+[APE]     Target: g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (5), edges (6), unvisited actions (46), visited actions (7)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.16   3 com.ichi2.anki.NoteEditor[3,8][6][S=3]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (2)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      7  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#67b4e244]
+[APE]     2 g1a38[5,5][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=32][T=0][][S=1.000000][RN=1][1088,16,1184,112][]
+[APE]     3 g1a39[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     4 g1a40[6,6][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=0][][S=1.000000][RN=1][111,138,1190,234][]
+[APE]     5 g1a41[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     6 g1a42[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     7 g1a43[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     8 g1a44[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     9 g1a45[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]    10 g1a46[-1,0][0]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    11 g1a47[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    12 g1a48[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][58,416,1094,507][]
+[APE]    13 g1a49[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=40][T=200][, UNVISITED][S=0.000000][RN=2][58,545,1094,636][]
+[APE]    14 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][1094,545,1142,593][#c9fce8c]
+[APE]    15 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=android:id/text1;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][113,260,1094,303][Default]
+[APE]    16 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorTagText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,713,1156,751][Tags: ]
+[APE]    17 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorCardsText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,809,1156,847][Cards: C]
+[APE]    18 g1a54[-1,0][0]@MODEL_BACKg1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** > - B: g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** Move from A (g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]).
+[APE] *** INFO *** Try to find a path (1/1) to a greedy state that we want to greedily visit in ABA.
+[APE]   1 (g1s4,g1a40,g1s3)
+[APE] *** INFO *** Move from A (g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]).
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e4[7,7][1]@[H(1),M(0),T(0.000000)] g1s4 =[g1a40]=> g1s3
+[APE] *** INFO *** Move from A (g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]) for ABA within 1 steps that start from action g1a40[6,6][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] *** INFO *** Select action g1a40[6,6][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Last action: g1a40[6,8][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] Curr  state: g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] Curr action: g1a35[7,7][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][111,426,1094,522][Cloze]
+[APE] New   state: g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] New  action: g1a40[6,8][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] >>>>>>>> SATA end step [8][481233562332]
+[APE] >>>>>>>> SATA begin step [9][481715001492]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 0 MB, Max: 512 MB, Available: 512 MB
+[APE] *** INFO *** Create state g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] for GUI tree GUITree[14@0]@g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** State g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] is in blacklist for refresh check.
+[APE] *** INFO *** Check under-abstracted states g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Check under-abstracted states collected 1 targets for naming Naming[3]. The state is g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 1, affected states: 1, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 1 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 1 <= threshold: 8 
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Check under-abstracted states g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Check under-abstracted states collected 1 targets for naming Naming[3]. The state is g1s3[4,7][2]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 1, affected states: 1, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 1 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 1 <= threshold: 8 
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-9.xml at step 9
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-9.png at step 9
+[APE] === Adding edge...
+[APE]     Source: g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Action: g1a40[6,8][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE]     Target: g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE]     Add target result: false
+[APE] GSTG(g1): activities (2), states (5), edges (6), unvisited actions (46), visited actions (7)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.16   3 com.ichi2.anki.NoteEditor[3,9][7][S=3]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (1), state (0), activity (3)
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      8  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      1  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a32[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,138,1094,233][Basic]
+[APE]     2 g1a33[4,4][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][112,233,1094,329][Basic (a]
+[APE]     3 g1a34[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,329,1094,425][Basic (o]
+[APE]     4 g1a35[7,7][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][112,425,1094,521][Cloze]
+[APE]     5 g1a36[-1,0][0]@MODEL_BACKg1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** > - B: g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Never move from a cold state (g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]) to a hot state (g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a32[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,138,1094,233][Basic] by strategy EARLY_STAGE
+[APE] Last  state: g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] Last action: g1a35[7,7][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][112,425,1094,521][Cloze]
+[APE] Curr  state: g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Curr action: g1a40[6,8][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] New   state: g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] New  action: g1a32[9,9][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][112,138,1094,233][Basic]
+[APE] >>>>>>>> SATA end step [9][481860282132]
+[APE] >>>>>>>> SATA begin step [10][482328249552]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_type_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Basic
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_deck_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorTagButton@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/CardEditorTagText@Tags: 
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorCardsButton@
+[APE] *** INFO *** Create state g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18] for GUI tree GUITree[15@0]@g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[5,8][3]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-10.xml at step 10
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-10.png at step 10
+[APE] === Adding edge...
+[APE]     Source: g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE]     Action: g1a32[9,9][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][112,138,1094,233][Basic]
+[APE]     Target: g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (5), edges (7), unvisited actions (45), visited actions (8)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.19   3 com.ichi2.anki.NoteEditor[3,10][8][S=3]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (4)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      9  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      1  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#67b4e244]
+[APE]     2 g1a38[5,5][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=32][T=0][][S=1.000000][RN=1][1088,16,1184,112][]
+[APE]     3 g1a39[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     4 g1a40[6,8][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=0][][S=1.000000][RN=1][111,138,1190,234][]
+[APE]     5 g1a41[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     6 g1a42[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     7 g1a43[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     8 g1a44[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     9 g1a45[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]    10 g1a46[-1,0][0]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    11 g1a47[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    12 g1a48[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][58,416,1094,507][]
+[APE]    13 g1a49[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=40][T=200][, UNVISITED][S=0.000000][RN=2][58,545,1094,636][]
+[APE]    14 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][1094,416,1142,464][#3d2c72ea]
+[APE]    15 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=android:id/text1;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][113,260,1094,303][Default]
+[APE]    16 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorTagText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,713,1156,751][Tags: ]
+[APE]    17 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorCardsText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,809,1156,847][Cards: C]
+[APE]    18 g1a54[-1,0][0]@MODEL_BACKg1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** > - B: g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** Move from A (g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]).
+[APE] *** INFO *** Try to find a path (1/1) to a greedy state that we want to greedily visit in ABA.
+[APE]   1 (g1s4,g1a40,g1s3)
+[APE] *** INFO *** Move from A (g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]).
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e4[7,9][2]@[H(2),M(0),T(0.000000)] g1s4 =[g1a40]=> g1s3
+[APE] *** INFO *** Move from A (g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]) for ABA within 1 steps that start from action g1a40[6,8][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] *** INFO *** Select action g1a40[6,8][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Last action: g1a40[6,10][3]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] Curr  state: g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] Curr action: g1a32[9,9][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][112,138,1094,233][Basic]
+[APE] New   state: g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] New  action: g1a40[6,10][3]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] >>>>>>>> SATA end step [10][482488607712]
+[APE] >>>>>>>> SATA begin step [11][482956714002]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 0 MB, Max: 512 MB, Available: 512 MB
+[APE] *** INFO *** Create state g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] for GUI tree GUITree[16@0]@g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** State g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] is in blacklist for refresh check.
+[APE] *** INFO *** Check under-abstracted states g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Check under-abstracted states collected 1 targets for naming Naming[3]. The state is g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 1, affected states: 1, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 1 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 1 <= threshold: 8 
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Check under-abstracted states g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Check under-abstracted states collected 1 targets for naming Naming[3]. The state is g1s3[4,9][3]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 1, affected states: 1, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 1 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 1 <= threshold: 8 
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-11.xml at step 11
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-11.png at step 11
+[APE] === Adding edge...
+[APE]     Source: g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Action: g1a40[6,10][3]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE]     Target: g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE]     Add target result: false
+[APE] GSTG(g1): activities (2), states (5), edges (7), unvisited actions (45), visited actions (8)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.19   3 com.ichi2.anki.NoteEditor[3,11][9][S=3]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (1), state (0), activity (5)
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     10  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      2  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a32[9,9][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][126,138,1094,156][Basic]
+[APE]     2 g1a33[4,4][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][126,156,1094,252][Basic (a]
+[APE]     3 g1a34[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][126,252,1094,348][Basic (o]
+[APE]     4 g1a35[7,7][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][126,348,1094,444][Cloze]
+[APE]     5 g1a36[-1,0][0]@MODEL_BACKg1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** > - B: g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Never move from a cold state (g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]) to a hot state (g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a34[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][126,252,1094,348][Basic (o] by strategy EARLY_STAGE
+[APE] Last  state: g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] Last action: g1a32[9,9][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][126,138,1094,156][Basic]
+[APE] Curr  state: g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Curr action: g1a40[6,10][3]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] New   state: g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] New  action: g1a34[11,11][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][126,252,1094,348][Basic (o]
+[APE] >>>>>>>> SATA end step [11][483145105402]
+[APE] >>>>>>>> SATA begin step [12][483595885982]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_type_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Basic (a
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_deck_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorTagButton@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/CardEditorTagText@Tags: 
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorCardsButton@
+[APE] *** INFO *** Create state g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18] for GUI tree GUITree[17@0]@g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[5,10][4]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-12.xml at step 12
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-12.png at step 12
+[APE] === Adding edge...
+[APE]     Source: g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE]     Action: g1a34[11,11][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][126,252,1094,348][Basic (o]
+[APE]     Target: g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (5), edges (8), unvisited actions (44), visited actions (9)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.22   3 com.ichi2.anki.NoteEditor[3,12][10][S=3]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (6)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     11  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      2  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#fbfc8c04]
+[APE]     2 g1a38[5,5][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=32][T=0][][S=1.000000][RN=1][1088,16,1184,112][]
+[APE]     3 g1a39[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     4 g1a40[6,10][3]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=0][][S=1.000000][RN=1][111,138,1190,234][]
+[APE]     5 g1a41[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     6 g1a42[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     7 g1a43[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     8 g1a44[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     9 g1a45[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]    10 g1a46[-1,0][0]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    11 g1a47[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    12 g1a48[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][58,545,1094,636][]
+[APE]    13 g1a49[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=40][T=200][, UNVISITED][S=0.000000][RN=2][58,545,1094,636][]
+[APE]    14 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][1094,545,1142,593][#fa48a814]
+[APE]    15 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=android:id/text1;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][111,164,1094,207][Basic (a]
+[APE]    16 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorTagText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,713,1156,751][Tags: ]
+[APE]    17 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorCardsText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,809,1156,847][Cards: C]
+[APE]    18 g1a54[-1,0][0]@MODEL_BACKg1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** > - B: g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** Move from A (g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]).
+[APE] *** INFO *** Try to find a path (1/1) to a greedy state that we want to greedily visit in ABA.
+[APE]   1 (g1s4,g1a40,g1s3)
+[APE] *** INFO *** Move from A (g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]).
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e4[7,11][3]@[H(3),M(0),T(0.000000)] g1s4 =[g1a40]=> g1s3
+[APE] *** INFO *** Move from A (g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]) for ABA within 1 steps that start from action g1a40[6,10][3]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] *** INFO *** Select action g1a40[6,10][3]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Last action: g1a40[6,12][4]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] Curr  state: g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] Curr action: g1a34[11,11][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][126,252,1094,348][Basic (o]
+[APE] New   state: g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] New  action: g1a40[6,12][4]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] >>>>>>>> SATA end step [12][483780354512]
+[APE] >>>>>>>> SATA begin step [13][484227887042]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] for GUI tree GUITree[18@0]@g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** State g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5] is in blacklist for refresh check.
+[APE] *** INFO *** Check under-abstracted states g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Check under-abstracted states collected 1 targets for naming Naming[3]. The state is g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 1, affected states: 1, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 1 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 1 <= threshold: 8 
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Check under-abstracted states g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]: #0
+[APE] *** INFO *** Check under-abstracted states collected 1 targets for naming Naming[3]. The state is g1s3[4,11][4]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 1, affected states: 1, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 1 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 1 <= threshold: 8 
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-13.xml at step 13
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-13.png at step 13
+[APE] === Adding edge...
+[APE]     Source: g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Action: g1a40[6,12][4]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE]     Target: g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE]     Add target result: false
+[APE] GSTG(g1): activities (2), states (5), edges (8), unvisited actions (44), visited actions (9)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.22   3 com.ichi2.anki.NoteEditor[3,13][11][S=3]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (1), state (0), activity (7)
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     12  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      3  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a32[9,9][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][113,138,1094,230][Basic]
+[APE]     2 g1a33[4,4][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][113,230,1094,326][Basic (a]
+[APE]     3 g1a34[11,11][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][113,326,1094,422][Basic (o]
+[APE]     4 g1a35[7,7][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=3;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][113,422,1094,518][Cloze]
+[APE]     5 g1a36[-1,0][0]@MODEL_BACKg1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** > - B: g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Never move from a cold state (g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]) to a hot state (g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) in ABA.
+[APE] *** INFO *** Find a path (1/1) to a greedy state g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18].
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e3[5,5][1]@[H(1),M(0),T(0.000000)] g1s3 =[g1a33]=> g1s4
+[APE] *** INFO *** Select action g1a33[4,4][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][113,230,1094,326][Basic (a] by strategy EARLY_STAGE
+[APE] Last  state: g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] Last action: g1a34[11,11][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=2;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][113,326,1094,422][Basic (o]
+[APE] Curr  state: g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Curr action: g1a40[6,12][4]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=200][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] New   state: g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] New  action: g1a33[4,13][2]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][113,230,1094,326][Basic (a]
+[APE] >>>>>>>> SATA end step [13][484347385582]
+[APE] >>>>>>>> SATA begin step [14][484811632352]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_type_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Basic (a
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_deck_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorTagButton@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/CardEditorTagText@Tags: 
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorCardsButton@
+[APE] *** INFO *** Create state g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18] for GUI tree GUITree[19@0]@g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[5,12][5]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-14.xml at step 14
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-14.png at step 14
+[APE] === Adding edge...
+[APE]     Source: g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE]     Action: g1a33[4,13][2]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][113,230,1094,326][Basic (a]
+[APE]     Target: g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Add target result: false
+[APE] GSTG(g1): activities (2), states (5), edges (8), unvisited actions (44), visited actions (9)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.22   3 com.ichi2.anki.NoteEditor[3,14][12][S=3]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (2), state (0), activity (8)
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     13  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#4b78e324]
+[APE]     2 g1a38[5,5][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=32][T=0][][S=1.000000][RN=1][1088,16,1184,112][]
+[APE]     3 g1a39[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     4 g1a40[6,12][4]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=0][][S=1.000000][RN=1][111,138,1190,234][]
+[APE]     5 g1a41[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     6 g1a42[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     7 g1a43[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     8 g1a44[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     9 g1a45[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]    10 g1a46[-1,0][0]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    11 g1a47[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    12 g1a48[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][58,545,1094,636][]
+[APE]    13 g1a49[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=40][T=200][, UNVISITED][S=0.000000][RN=2][58,416,1094,507][]
+[APE]    14 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][1094,416,1142,464][#7ef6ae90]
+[APE]    15 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=android:id/text1;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][111,164,1094,207][Basic (a]
+[APE]    16 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorTagText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,713,1156,751][Tags: ]
+[APE]    17 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorCardsText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,809,1156,847][Cards: C]
+[APE]    18 g1a54[-1,0][0]@MODEL_BACKg1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** > - B: g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] *** INFO *** Move from A (g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]).
+[APE] *** INFO *** Try to find a path (1/1) to a greedy state that we want to greedily visit in ABA.
+[APE]   1 (g1s4,g1a40,g1s3)
+[APE] *** INFO *** Move from A (g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]).
+[APE] *** INFO *** No state or path that we want to greedily visit in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a46[-1,0][0]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Last action: g1a40[6,12][4]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=0][][S=1.000000][RN=1][111,138,1190,234][]
+[APE] Curr  state: g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] Curr action: g1a33[4,13][2]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][113,230,1094,326][Basic (a]
+[APE] New   state: g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] New  action: g1a46[14,14][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][113,234,1190,330][]
+[APE] >>>>>>>> SATA end step [14][484965677332]
+[APE] >>>>>>>> SATA begin step [15][485391981862]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2] for GUI tree GUITree[20@0]@g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] *** INFO *** Checking new state: g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 627 ms.
+[APE] *** INFO *** Create state g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2] for GUI tree GUITree[21@0]@g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2] for GUI tree GUITree[22@0]@g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 0 ms.
+[APE] *** INFO *** Create state g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2] for GUI tree GUITree[23@0]@g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2] is blacklisted from refresh check.
+[APE] *** INFO *** Check under-abstracted states g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]: #0
+[APE] *** INFO *** Check under-abstracted states collected 2 targets for naming Naming[3]. The state is g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 2, affected states: 2, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 2 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 2 <= threshold: 8 
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Check under-abstracted states g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]: #0
+[APE] *** INFO *** Check under-abstracted states collected 2 targets for naming Naming[3]. The state is g1s5[-1,0][0]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 2, affected states: 2, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 2 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 2 <= threshold: 8 
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-15.xml at step 15
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-15.png at step 15
+[APE] === Adding edge...
+[APE]     Source: g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Action: g1a46[14,14][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][113,234,1190,330][]
+[APE]     Target: g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (6), edges (9), unvisited actions (45), visited actions (10)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.24   4 com.ichi2.anki.NoteEditor[3,15][13][S=4]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (9)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     14  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a55[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1094,330][Default]
+[APE]     2 g1a56[-1,0][0]@MODEL_BACKg1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** - g1a55[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1094,330][Default]
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] *** INFO *** > - B: g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Never move from a cold state (g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]) to a hot state (g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Select action g1a55[-1,0][0]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1094,330][Default] by strategy EARLY_STAGE
+[APE] Last  state: g1s3[4,13][5]com.ichi2.anki.NoteEditor@-1441862003@Naming[3]@[W=5][A=5]
+[APE] Last action: g1a33[4,13][2]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=1;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][113,230,1094,326][Basic (a]
+[APE] Curr  state: g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Curr action: g1a46[14,14][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][113,234,1190,330][]
+[APE] New   state: g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] New  action: g1a55[15,15][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][113,234,1094,330][Default]
+[APE] >>>>>>>> SATA end step [15][486289652202]
+[APE] >>>>>>>> SATA begin step [16][486731376622]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 0 MB, Max: 512 MB, Available: 512 MB
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_type_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Basic (a
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_deck_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorTagButton@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/CardEditorTagText@Tags: 
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorCardsButton@
+[APE] *** INFO *** Create state g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18] for GUI tree GUITree[24@0]@g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[5,14][6]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-16.xml at step 16
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-16.png at step 16
+[APE] === Adding edge...
+[APE]     Source: g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE]     Action: g1a55[15,15][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][113,234,1094,330][Default]
+[APE]     Target: g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (6), edges (10), unvisited actions (44), visited actions (11)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.26   4 com.ichi2.anki.NoteEditor[3,16][14][S=4]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (10)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     15  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#5b065bcc]
+[APE]     2 g1a38[5,5][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=32][T=0][][S=1.000000][RN=1][1088,16,1184,112][]
+[APE]     3 g1a39[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     4 g1a40[6,12][4]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=0][][S=1.000000][RN=1][111,138,1190,234][]
+[APE]     5 g1a41[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     6 g1a42[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     7 g1a43[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     8 g1a44[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     9 g1a45[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]    10 g1a46[14,14][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=42][T=0][][S=1.000000][RN=1][113,234,1190,330][]
+[APE]    11 g1a47[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    12 g1a48[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][58,545,1094,636][]
+[APE]    13 g1a49[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=40][T=200][, UNVISITED][S=0.000000][RN=2][58,416,1094,507][]
+[APE]    14 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][1094,545,1142,593][#8e82cf55]
+[APE]    15 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=android:id/text1;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][113,260,1094,303][Default]
+[APE]    16 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorTagText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,713,1156,751][Tags: ]
+[APE]    17 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorCardsText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,809,1156,847][Cards: C]
+[APE]    18 g1a54[-1,0][0]@MODEL_BACKg1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** > - B: g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] *** INFO *** Move from A (g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]).
+[APE] *** INFO *** Try to find a path (1/1) to a greedy state that we want to greedily visit in ABA.
+[APE]   1 (g1s4,g1a46,g1s5)
+[APE] *** INFO *** Move from A (g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]).
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e8[15,15][1]@[H(1),M(0),T(0.000000)] g1s4 =[g1a46]=> g1s5
+[APE] *** INFO *** Move from A (g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]) for ABA within 1 steps that start from action g1a46[14,14][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=42][T=200][][S=1.000000][RN=1][113,234,1190,330][]
+[APE] *** INFO *** Select action g1a46[14,14][1]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=42][T=200][][S=1.000000][RN=1][113,234,1190,330][] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Last action: g1a46[14,16][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=42][T=200][][S=1.000000][RN=1][113,234,1190,330][]
+[APE] Curr  state: g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] Curr action: g1a55[15,15][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=52][T=200][][S=0.000000][RN=1][113,234,1094,330][Default]
+[APE] New   state: g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] New  action: g1a46[14,16][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=42][T=200][][S=1.000000][RN=1][113,234,1190,330][]
+[APE] >>>>>>>> SATA end step [16][486910590202]
+[APE] >>>>>>>> SATA begin step [17][487376717702]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 0 MB, Max: 512 MB, Available: 512 MB
+[APE] *** INFO *** Create state g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2] for GUI tree GUITree[25@0]@g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] *** INFO *** State g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2] is in blacklist for refresh check.
+[APE] *** INFO *** Check under-abstracted states g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]: #0
+[APE] *** INFO *** Check under-abstracted states collected 2 targets for naming Naming[3]. The state is g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 2, affected states: 2, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 2 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 2 <= threshold: 8 
+[APE] *** INFO *** Pre-checking under-abstracted states takes 1 ms
+[APE] *** INFO *** Check over-abstracted states g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Check under-abstracted states g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]: #0
+[APE] *** INFO *** Check under-abstracted states collected 2 targets for naming Naming[3]. The state is g1s5[15,15][1]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 2, affected states: 2, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 2 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 2 <= threshold: 8 
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-17.xml at step 17
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-17.png at step 17
+[APE] === Adding edge...
+[APE]     Source: g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Action: g1a46[14,16][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=42][T=200][][S=1.000000][RN=1][113,234,1190,330][]
+[APE]     Target: g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE]     Add target result: false
+[APE] GSTG(g1): activities (2), states (6), edges (10), unvisited actions (44), visited actions (11)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.26   4 com.ichi2.anki.NoteEditor[3,17][15][S=4]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (1), state (0), activity (11)
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     16  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      5  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a55[15,15][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=42][T=0][][S=1.000000][RN=1][115,234,1094,330][Default]
+[APE]     2 g1a56[-1,0][0]@MODEL_BACKg1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] *** INFO *** > - B: g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Never move from a cold state (g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]) to a hot state (g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) in ABA.
+[APE] *** INFO *** Find a path (1/1) to a greedy state g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18].
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e9[16,16][1]@[H(1),M(0),T(0.000000)] g1s5 =[g1a55]=> g1s4
+[APE] *** INFO *** Select action g1a55[15,15][1]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][115,234,1094,330][Default] by strategy EARLY_STAGE
+[APE] Last  state: g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] Last action: g1a55[15,17][2]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][115,234,1094,330][Default]
+[APE] Curr  state: g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Curr action: g1a46[14,16][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=42][T=200][][S=1.000000][RN=1][113,234,1190,330][]
+[APE] New   state: g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] New  action: g1a55[15,17][2]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][115,234,1094,330][Default]
+[APE] >>>>>>>> SATA end step [17][487556357342]
+[APE] >>>>>>>> SATA begin step [18][488047164862]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_type_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Basic (a
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_deck_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorTagButton@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/CardEditorTagText@Tags: 
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorCardsButton@
+[APE] *** INFO *** Create state g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18] for GUI tree GUITree[26@0]@g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[5,16][7]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-18.xml at step 18
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-18.png at step 18
+[APE] === Adding edge...
+[APE]     Source: g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE]     Action: g1a55[15,17][2]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][115,234,1094,330][Default]
+[APE]     Target: g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Add target result: false
+[APE] GSTG(g1): activities (2), states (6), edges (10), unvisited actions (44), visited actions (11)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.26   4 com.ichi2.anki.NoteEditor[3,18][16][S=4]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (2), state (0), activity (12)
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     17  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      6  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#5b065bcc]
+[APE]     2 g1a38[5,5][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=32][T=0][][S=1.000000][RN=1][1088,16,1184,112][]
+[APE]     3 g1a39[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     4 g1a40[6,12][4]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=0][][S=1.000000][RN=1][111,138,1190,234][]
+[APE]     5 g1a41[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     6 g1a42[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     7 g1a43[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     8 g1a44[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     9 g1a45[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]    10 g1a46[14,16][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=42][T=0][][S=1.000000][RN=1][113,234,1190,330][]
+[APE]    11 g1a47[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    12 g1a48[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][58,416,1094,507][]
+[APE]    13 g1a49[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=40][T=200][, UNVISITED][S=0.000000][RN=2][58,416,1094,507][]
+[APE]    14 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][1094,545,1142,593][#8e82cf55]
+[APE]    15 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=android:id/text1;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][111,164,1094,207][Basic (a]
+[APE]    16 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorTagText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,713,1156,751][Tags: ]
+[APE]    17 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorCardsText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,809,1156,847][Cards: C]
+[APE]    18 g1a54[-1,0][0]@MODEL_BACKg1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** > - B: g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] *** INFO *** Move from A (g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]).
+[APE] *** INFO *** Try to find a path (1/1) to a greedy state that we want to greedily visit in ABA.
+[APE]   1 (g1s4,g1a46,g1s5)
+[APE] *** INFO *** Move from A (g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]).
+[APE] *** INFO *** No state or path that we want to greedily visit in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][1094,545,1142,593][#8e82cf55] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Last action: g1a46[14,16][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=42][T=0][][S=1.000000][RN=1][113,234,1190,330][]
+[APE] Curr  state: g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] Curr action: g1a55[15,17][2]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][115,234,1094,330][Default]
+[APE] New   state: g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] New  action: g1a50[18,18][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][][S=0.000000][RN=2][1094,545,1142,593][#8e82cf55]
+[APE] >>>>>>>> SATA end step [18][488238678652]
+[APE] >>>>>>>> SATA begin step [19][488644530162]
+[APE] *** INFO *** Explored 2 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Add imag
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Record a
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Advanced
+[APE] *** INFO *** Create state g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2] for GUI tree GUITree[27@0]@g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** Checking new state: g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 747 ms.
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Add imag
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Record a
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Advanced
+[APE] *** INFO *** Create state g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2] for GUI tree GUITree[28@0]@g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Add imag
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Record a
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Advanced
+[APE] *** INFO *** Create state g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2] for GUI tree GUITree[29@0]@g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Add imag
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Record a
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Advanced
+[APE] *** INFO *** Create state g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2] for GUI tree GUITree[30@0]@g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2] is blacklisted from refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s6[-1,0][0]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-19.xml at step 19
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-19.png at step 19
+[APE] === Adding edge...
+[APE]     Source: g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Action: g1a50[18,18][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][][S=0.000000][RN=2][1094,545,1142,593][#8e82cf55]
+[APE]     Target: g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (7), edges (11), unvisited actions (45), visited actions (12)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.28   5 com.ichi2.anki.NoteEditor[3,19][17][S=5]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (13)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     18  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      6  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a57[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=64][T=200][, UNVISITED][S=0.000000][RN=3][840,619,1168,662][Add imag]
+[APE]     2 g1a58[-1,0][0]@MODEL_BACKg1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** > - B: g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Never move from a cold state (g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]) to a hot state (g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a57[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=64][T=200][, UNVISITED][S=0.000000][RN=3][840,619,1168,662][Add imag] by strategy EARLY_STAGE
+[APE] Last  state: g1s5[15,17][2]com.ichi2.anki.NoteEditor@1445749654@Naming[3]@[W=2][A=2]
+[APE] Last action: g1a55[15,17][2]@MODEL_CLICKclass=android.widget.CheckedTextView;resource-id=android:id/text1;index=0;enabled=true;clickable=true;checkable=true;[P=42][T=200][][S=1.000000][RN=1][115,234,1094,330][Default]
+[APE] Curr  state: g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Curr action: g1a50[18,18][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][][S=0.000000][RN=2][1094,545,1142,593][#8e82cf55]
+[APE] New   state: g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] New  action: g1a57[19,19][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=64][T=200][][S=0.000000][RN=3][840,619,1168,662][Add imag]
+[APE] >>>>>>>> SATA end step [19][489615418042]
+[APE] >>>>>>>> SATA begin step [20][490287782602]
+[APE] *** INFO *** Explored 3 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9] for GUI tree GUITree[31@0]@g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE] *** INFO *** Checking new state: g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 766 ms.
+[APE] *** INFO *** Create state g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9] for GUI tree GUITree[32@0]@g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 6 ms.
+[APE] *** INFO *** Create state g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9] for GUI tree GUITree[33@0]@g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9] for GUI tree GUITree[34@0]@g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9] is blacklisted from refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s7[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-20.xml at step 20
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-20.png at step 20
+[APE] === Adding edge...
+[APE]     Source: g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE]     Action: g1a57[19,19][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=64][T=200][][S=0.000000][RN=3][840,619,1168,662][Add imag]
+[APE]     Target: g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (3), states (8), edges (12), unvisited actions (53), visited actions (13)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.00   1 com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity[20,20][1][S=1]
+[APE] *** INFO *** -  0.31   5 com.ichi2.anki.NoteEditor[3,19][17][S=5]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     19  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      6  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a59[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#5b065bcc]
+[APE]     2 g1a60[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_text;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][778,16,926,112][TEXT]
+[APE]     3 g1a61[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_text;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][778,16,926,112][TEXT]
+[APE]     4 g1a62[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_audio;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][926,16,1088,112][AUDIO]
+[APE]     5 g1a63[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_audio;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][926,16,1088,112][AUDIO]
+[APE]     6 g1a64[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     7 g1a65[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     8 g1a66[-1,0][0]@MODEL_CLICKclass=android.widget.Button;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][0,224,1200,320][CAMERA]
+[APE]     9 g1a67[-1,0][0]@MODEL_BACKg1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE] *** INFO *** > - B: g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** Never move from a cold activity (g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9])(com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity[20,20][1][S=1]) to a hot activity (g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2])(com.ichi2.anki.NoteEditor[3,19][17][S=5]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a64[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Last action: g1a50[18,18][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=60][T=200][][S=0.000000][RN=2][1094,545,1142,593][#8e82cf55]
+[APE] Curr  state: g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] Curr action: g1a57[19,19][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=64][T=200][][S=0.000000][RN=3][840,619,1168,662][Add imag]
+[APE] New   state: g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE] New  action: g1a64[20,20][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][1088,16,1184,112][]
+[APE] >>>>>>>> SATA end step [20][491317043502]
+    // activityResuming(com.ichi2.anki)
+[APE] >>>>>>>> SATA begin step [21][491781697242]
+[APE] *** INFO *** Explored 3 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_type_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Basic (a
+[APE] *** INFO *** Patching this node: android.widget.Spinner@com.ichi2.anki:id/note_deck_spinner@
+[APE] *** INFO *** Patching child node: android.widget.TextView@android:id/text1@Default
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorTagButton@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/CardEditorTagText@Tags: 
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@com.ichi2.anki:id/CardEditorCardsButton@
+[APE] *** INFO *** Create state g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18] for GUI tree GUITree[35@0]@g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[5,18][8]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-21.xml at step 21
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-21.png at step 21
+[APE] === Adding edge...
+[APE]     Source: g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE]     Action: g1a64[20,20][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     Target: g1s4[5,21][9]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (3), states (8), edges (13), unvisited actions (52), visited actions (14)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.11   1 com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity[20,20][1][S=1]
+[APE] *** INFO *** -  0.31   5 com.ichi2.anki.NoteEditor[3,21][18][S=5]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     20  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      6  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#5b065bcc]
+[APE]     2 g1a38[5,5][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=32][T=0][][S=1.000000][RN=1][1088,16,1184,112][]
+[APE]     3 g1a39[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/action_save;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     4 g1a40[6,12][4]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=42][T=0][][S=1.000000][RN=1][111,138,1190,234][]
+[APE]     5 g1a41[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     6 g1a42[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     7 g1a43[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     8 g1a44[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]     9 g1a45[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_type_spinner;enabled=true;long-clickable=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][111,138,1190,234][]
+[APE]    10 g1a46[14,16][2]@MODEL_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=42][T=0][][S=1.000000][RN=1][113,234,1190,330][]
+[APE]    11 g1a47[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.Spinner;resource-id=com.ichi2.anki:id/note_deck_spinner;enabled=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][113,234,1190,330][]
+[APE]    12 g1a48[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][58,416,1094,507][]
+[APE]    13 g1a49[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=com.ichi2.anki:id/id_note_editText;enabled=true;clickable=true;long-clickable=true;[P=40][T=200][, UNVISITED][S=0.000000][RN=2][58,416,1094,507][]
+[APE]    14 g1a50[18,18][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=50][T=0][][S=0.500000][RN=2][1094,545,1142,593][#2ed632f]
+[APE]    15 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=android:id/text1;enabled=true;clickable=true;[P=60][T=200][, UNVISITED][S=0.000000][RN=2][111,164,1094,207][Basic (a]
+[APE]    16 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorTagText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,713,1156,751][Tags: ]
+[APE]    17 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/CardEditorCardsText;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][44,809,1156,847][Cards: C]
+[APE]    18 g1a54[-1,0][0]@MODEL_BACKg1s4[5,21][9]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[5,21][9]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] *** INFO *** > - B: g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE] *** INFO *** Move from A (g1s4[5,21][9]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]).
+[APE] *** INFO *** Try to find a path (1/1) to a greedy state that we want to greedily visit in ABA.
+[APE]   1 (g1s4,g1a50,g1s6)
+[APE]   2 (g1s6,g1a57,g1s7)
+[APE] *** INFO *** Move from A (g1s4[5,21][9]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]).
+[APE] *** INFO *** Move from A (g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]) to B (g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]).
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e10[19,19][1]@[H(1),M(0),T(0.000000)] g1s4 =[g1a50]=> g1s6
+[APE] *** INFO ***    1 g1e11[20,20][1]@[H(1),M(0),T(0.000000)] g1s6 =[g1a57]=> g1s7
+[APE] *** INFO *** Move from A (g1s4[5,21][9]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]) to B (g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]) for ABA within 2 steps that start from action g1a50[18,18][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=50][T=200][][S=0.500000][RN=2][1094,545,1142,593][#2ed632f]
+[APE] *** INFO *** Select action g1a50[18,18][1]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=50][T=200][][S=0.500000][RN=2][1094,545,1142,593][#2ed632f] by strategy EARLY_STAGE
+[APE] Last  state: g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] Last action: g1a57[19,19][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=64][T=200][][S=0.000000][RN=3][840,619,1168,662][Add imag]
+[APE] Curr  state: g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE] Curr action: g1a64[20,20][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][1088,16,1184,112][]
+[APE] New   state: g1s4[5,21][9]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] New  action: g1a50[18,21][2]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=50][T=200][][S=0.500000][RN=2][1094,545,1142,593][#2ed632f]
+[APE] >>>>>>>> SATA end step [21][492042536662]
+[APE] >>>>>>>> SATA begin step [22][492484126732]
+[APE] *** INFO *** Explored 3 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Add imag
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Record a
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@@
+[APE] *** INFO *** Patching child node: android.widget.TextView@com.ichi2.anki:id/title@Advanced
+[APE] *** INFO *** Create state g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2] for GUI tree GUITree[36@0]@g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** State g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s6[19,19][1]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-22.xml at step 22
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-22.png at step 22
+[APE] === Adding edge...
+[APE]     Source: g1s4[5,21][9]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE]     Action: g1a50[18,21][2]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=50][T=200][][S=0.500000][RN=2][1094,545,1142,593][#2ed632f]
+[APE]     Target: g1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE]     Add target result: false
+[APE] GSTG(g1): activities (3), states (8), edges (13), unvisited actions (52), visited actions (14)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.11   1 com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity[20,20][1][S=1]
+[APE] *** INFO *** -  0.31   5 com.ichi2.anki.NoteEditor[3,22][19][S=5]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (1), state (0), activity (1)
+[APE] Sata Strategy: buffer size (2)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     21  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      7  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a57[19,19][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=44][T=500][][S=0.500000][RN=3][841,714,1169,757][Record a]
+[APE]     2 g1a58[-1,0][0]@MODEL_BACKg1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Peek an action from buffer g1a57[19,19][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=44][T=500][][S=0.500000][RN=3][841,714,1169,757][Record a]
+[APE] *** INFO *** Buffer action throttle: original: 500, tracked: 200
+[APE] *** INFO *** Select action g1a57[19,19][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=44][T=500][][S=0.500000][RN=3][841,714,1169,757][Record a] by strategy USE_BUFFER
+[APE] Last  state: g1s7[20,20][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1872661305@Naming[0]@[W=6][A=9]
+[APE] Last action: g1a64[20,20][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][1088,16,1184,112][]
+[APE] Curr  state: g1s4[5,21][9]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Curr action: g1a50[18,21][2]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=50][T=200][][S=0.500000][RN=2][1094,545,1142,593][#2ed632f]
+[APE] New   state: g1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] New  action: g1a57[19,22][2]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=44][T=500][][S=0.500000][RN=3][841,714,1169,757][Record a]
+[APE] >>>>>>>> SATA end step [22][492604370152]
+[APE] >>>>>>>> SATA begin step [23][493396751302]
+[APE] *** INFO *** Explored 3 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8] for GUI tree GUITree[37@0]@g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8]
+[APE] *** INFO *** Checking new state: g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 751 ms.
+[APE] *** INFO *** Create state g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8] for GUI tree GUITree[38@0]@g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8] for GUI tree GUITree[39@0]@g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8] for GUI tree GUITree[40@0]@g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8] is blacklisted from refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s8[-1,0][0]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-23.xml at step 23
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-com.ichi2.anki-ape-sata-running-minutes-360/step-23.png at step 23
+[APE] === Adding edge...
+[APE]     Source: g1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE]     Action: g1a57[19,22][2]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;enabled=true;clickable=true;[P=44][T=500][][S=0.500000][RN=3][841,714,1169,757][Record a]
+[APE]     Target: g1s8[23,23][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (3), states (9), edges (14), unvisited actions (60), visited actions (14)
+[APE] *** INFO *** -  0.10   2 com.ichi2.anki.DeckPicker[1,2][2][S=2]
+[APE] *** INFO *** -  0.06   2 com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity[20,23][2][S=2]
+[APE] *** INFO *** -  0.31   5 com.ichi2.anki.NoteEditor[3,22][19][S=5]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] === Try to resolve the non-determinism!!
+[APE] *** INFO *** Find the non-deterministic edge
+[APE] *** INFO *** st1: g1e11[20,20][1]@[H(1),M(0),T(0.000000)] g1s6 =[g1a57]=> g1s7
+[APE] *** INFO *** st2: g1e13[23,23][1]@[H(1),M(0),T(0.000000)] g1s6 =[g1a57]=> g1s8
+[APE] ##################################
+[APE]   0 - class=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_audio;enabled=true;clickable=true;long-clickable=true;
+[APE]   1 - class=android.widget.Button;enabled=true;clickable=true;
+[APE] ----------------------------------
+[APE]   0 = class=android.widget.ImageButton;enabled=true;clickable=true;
+[APE]   1 = class=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_text;enabled=true;clickable=true;long-clickable=true;
+[APE]   2 = class=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;
+[APE] ----------------------------------
+[APE]   0 + class=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_image;enabled=true;clickable=true;long-clickable=true;
+[APE] ##################################
+[APE] *** INFO *** Try action refinement, where source states are not necessarily to be the same.
+[APE] *** INFO *** Rebuild document for tree #19
+[APE] *** INFO *** Rebuild document for tree #22
+[APE] *** INFO *** Action refinement has 1 results.
+[APE] *** INFO *** Refinement takes 7 ms.
+[APE] *** INFO *** Find 1 new naming
+[APE] [0] Updating naming: from Naming[0] to Naming[4], [0] <-> [0].
+[APE] ==================== Old =========================
+[APE] this:Naming[0], parent:null.
+[APE]   0. [000][BASE] //*[@clickable='true' or @long-clickable='true' or @checkable='true' or @scrollable='true'] -> ActionPatchNamer[TypeNamer[type,resource-id]]
+[APE]   1. [000][BASE] //*[@clickable='false' and @long-clickable='false' and @checkable='false' and @scrollable='false'] -> ActionPatchNamer[EmptyNamer]
+[APE] --------------------------------------------------
+[APE] this:Naming[4], parent:Naming[0].
+[APE]   0. [000][BASE] //*[@clickable='true' or @long-clickable='true' or @checkable='true' or @scrollable='true'] -> ActionPatchNamer[TypeNamer[type,resource-id]]
+[APE]   1. [000][BASE] //*[@clickable='false' and @long-clickable='false' and @checkable='false' and @scrollable='false'] -> ActionPatchNamer[EmptyNamer]
+[APE]   2. [001][REFINE] //*[@class="android.widget.TextView"][@resource-id="com.ichi2.anki:id/title"][@enabled='true'][@clickable='true'][@checkable='false'][@long-clickable='false'][@scrollable='false'] -> ActionPatchNamer[CompoundNamer[TypeNamer[type,resource-id],IndexNamer[index]]]
+[APE] ==================== New =========================
+[APE] *** INFO *** Find a new naming that can resolve the non-deterministic transition.
+[APE] *** INFO *** Update naming for GUITree[30@19]@g1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]: existing in dict: Naming[0], current in tree: Naming[0], check in graph: Naming[0], new: Naming[4]
+[APE] *** INFO *** getNaming for tree GUITree[30@19]@g1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]: Source: Naming[0], Target: null, State: com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2]
+[APE] *** INFO *** updateNaming: Add - Source: Naming[0], Target: Naming[4], State: com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2]
+[APE] *** INFO *** Update naming for GUITree[36@22]@g1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]: existing in dict: Naming[0], current in tree: Naming[0], check in graph: Naming[4], new: Naming[4]
+[APE] *** INFO *** getNaming for tree GUITree[36@22]@g1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]: Source: Naming[0], Target: Naming[4], State: com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2]
+[APE] *** INFO *** getNaming for tree GUITree[36@22]@g1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]: Source: Naming[4], Target: null, State: com.ichi2.anki.NoteEditor@1170497446@Naming[4]@[W=4]
+[APE] *** INFO *** Start rebuilding model... 
+[APE] *** INFO *** > Removing state g1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** > Removing (1) old states and (3) transitions finished in 0 ms.
+[APE] *** INFO *** >> state: g1s6[19,22][2]com.ichi2.anki.NoteEditor@-1936077830@Naming[0]@[W=2][A=2]
+[APE] *** INFO *** >> transition: (g1s6,g1a57,g1s7)
+[APE] *** INFO *** >> transition: (g1s6,g1a57,g1s8)
+[APE] *** INFO *** >> transition: (g1s4,g1a50,g1s6)
+[APE] *** INFO *** > rebuilding tree #19
+[APE] *** INFO *** Create state g2s8[-1,0][0]com.ichi2.anki.NoteEditor@1170497446@Naming[4]@[W=4][A=4] for GUI tree GUITree[30@19]@g2s8[-1,0][0]com.ichi2.anki.NoteEditor@1170497446@Naming[4]@[W=4][A=4]
+[APE] *** INFO *** > rebuilding tree #22
+[APE] *** INFO *** Create state g2s8[-1,0][0]com.ichi2.anki.NoteEditor@1170497446@Naming[4]@[W=4][A=4] for GUI tree GUITree[36@22]@g2s8[-1,0][0]com.ichi2.anki.NoteEditor@1170497446@Naming[4]@[W=4][A=4]
+[APE] *** INFO *** > Readding transitions finished in 0 ms.
+[APE] *** INFO *** Rebuilding model finished in 1 ms, removed 1 states and 3 state transitions, and rebuild 4 tree transitions.
+[APE] *** INFO *** Eliminating non-deterministic transitions takes 12 ms.
+[APE] *** INFO *** Model has been refined, reset stateful..
+[APE] Update action buffer...
+[APE] Updating g1e11[20,20][1]@[H(1),M(0),T(0.000000)] g1s6 =[g1a57]=> g1s7
+[APE] Updated g2e12[19,19][2]@[H(1),M(0),T(0.000000)] g2s8 =[g2a76]=> g1s7
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      1  USE_BUFFER
+[APE]     21  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      7  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a68[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#5b065bcc]
+[APE]     2 g1a69[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_text;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][773,16,921,112][TEXT]
+[APE]     3 g1a70[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_text;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][773,16,921,112][TEXT]
+[APE]     4 g1a71[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     5 g1a72[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE]     6 g1a73[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_image;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][921,16,1088,112][IMAGE]
+[APE]     7 g1a74[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_to_image;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][921,16,1088,112][IMAGE]
+[APE]     8 g1a75[-1,0][0]@MODEL_BACKg1s8[23,23][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** - g1a71[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/multimedia_edit_field_done;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1088,16,1184,112][]
+[APE] *** INFO *** Inconsistent actions in action buffer: expected g2a76[19,19][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;index=0;enabled=true;clickable=true;[P=0][T=0][, INVALID], get g2a77[22,22][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;index=1;enabled=true;clickable=true;[P=0][T=0][, INVALID]
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s8[23,23][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8]
+[APE] *** INFO *** > - B: g2s8[19,22][2]com.ichi2.anki.NoteEditor@1170497446@Naming[4]@[W=4][A=4]
+[APE] *** INFO *** Never move from a cold activity (g1s8[23,23][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8])(com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity[20,23][2][S=2]) to a hot activity (g2s8[19,22][2]com.ichi2.anki.NoteEditor@1170497446@Naming[4]@[W=4][A=4])(com.ichi2.anki.NoteEditor[3,22][23][S=5]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a68[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#5b065bcc] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[5,21][11]com.ichi2.anki.NoteEditor@968003312@Naming[0]@[W=10][A=18]
+[APE] Last action: g1a50[18,21][4]@MODEL_CLICKclass=android.widget.ImageButton;resource-id=com.ichi2.anki:id/id_media_button;enabled=true;clickable=true;[P=50][T=200][][S=0.500000][RN=2][1094,545,1142,593][#2ed632f]
+[APE] Curr  state: g2s8[19,22][2]com.ichi2.anki.NoteEditor@1170497446@Naming[4]@[W=4][A=4]
+[APE] Curr action: g2a77[22,22][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=com.ichi2.anki:id/title;index=1;enabled=true;clickable=true;[P=0][T=0][, INVALID]
+[APE] New   state: g1s8[23,23][1]com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity@-1064361131@Naming[0]@[W=5][A=8]
+[APE] New  action: g1a68[23,23][1]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][16,0,128,128][#5b065bcc]
+[APE] >>>>>>>> SATA end step [23][494385869182]
+    // activityResuming(com.ichi2.anki)
+[APE] // CRASH: com.ichi2.anki (pid 6671) (elapsed nanos: 494689147912)
+[APE] // Short Msg: java.lang.NullPointerException
+[APE] // Long Msg: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.ichi2.anki.multimediacard.AudioView.notifyReleaseRecorder()' on a null object reference
+[APE] // Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+[APE] // Build Changelist: 6695155
+[APE] // Build Time: 1595288234000
+[APE] // java.lang.RuntimeException: Unable to destroy activity {com.ichi2.anki/com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.ichi2.anki.multimediacard.AudioView.notifyReleaseRecorder()' on a null object reference
+[APE] // 	at android.app.ActivityThread.performDestroyActivity(ActivityThread.java:4203)
+[APE] // 	at android.app.ActivityThread.handleDestroyActivity(ActivityThread.java:4221)
+[APE] // 	at android.app.ActivityThread.-wrap6(ActivityThread.java)
+[APE] // 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1538)
+[APE] // 	at android.os.Handler.dispatchMessage(Handler.java:102)
+[APE] // 	at android.os.Looper.loop(Looper.java:154)
+[APE] // 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+[APE] // 	at java.lang.reflect.Method.invoke(Native Method)
+[APE] // 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+[APE] // 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+[APE] // Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.ichi2.anki.multimediacard.AudioView.notifyReleaseRecorder()' on a null object reference
+[APE] // 	at com.ichi2.anki.multimediacard.fields.BasicAudioFieldController.onDestroy(BasicAudioFieldController.java:109)
+[APE] // 	at com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity.onDestroy(MultimediaEditFieldActivity.java:340)
+[APE] // 	at android.app.Activity.performDestroy(Activity.java:6881)
+[APE] // 	at android.app.Instrumentation.callActivityOnDestroy(Instrumentation.java:1153)
+[APE] // 	at android.app.ActivityThread.performDestroyActivity(ActivityThread.java:4190)
+[APE] // 	... 9 more
+[APE] // 
+[APE] *** INFO *** Appending crash [com.ichi2.anki@1651454469307@java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'void com.ichi2.anki.multimediacard.AudioView.notifyReleaseRecorder()' on a null object reference] to action history [Thread[Binder:6990_1,5,main]]
+[APE] Encounter abort but we are in continuous mode.
+[APE] *** WARNING *** Null info root node returned by UiTestAutomationBridge, generate activate action...
+[APE] Power Manager says we are interactive
+[APE] *** INFO *** Activating: generate app switch events.
+[APE] Press HOME after app switch
+[APE] *** INFO *** Enable RecentsActivity

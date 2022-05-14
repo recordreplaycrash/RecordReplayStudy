@@ -1,0 +1,48 @@
+--------- beginning of main
+--------- beginning of system
+05-01 20:21:09.306  6671  6671 E ACRA    : ACRA is disabled for com.ichi2.anki - forwarding uncaught Exception on to default ExceptionHandler
+--------- beginning of crash
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: FATAL EXCEPTION: main
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: Process: com.ichi2.anki, PID: 6671
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: java.lang.RuntimeException: Unable to destroy activity {com.ichi2.anki/com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.ichi2.anki.multimediacard.AudioView.notifyReleaseRecorder()' on a null object reference
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at android.app.ActivityThread.performDestroyActivity(ActivityThread.java:4203)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at android.app.ActivityThread.handleDestroyActivity(ActivityThread.java:4221)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at android.app.ActivityThread.-wrap6(ActivityThread.java)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1538)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:154)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.ichi2.anki.multimediacard.AudioView.notifyReleaseRecorder()' on a null object reference
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at com.ichi2.anki.multimediacard.fields.BasicAudioFieldController.onDestroy(BasicAudioFieldController.java:109)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at com.ichi2.anki.multimediacard.activity.MultimediaEditFieldActivity.onDestroy(MultimediaEditFieldActivity.java:340)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at android.app.Activity.performDestroy(Activity.java:6881)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at android.app.Instrumentation.callActivityOnDestroy(Instrumentation.java:1153)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	at android.app.ActivityThread.performDestroyActivity(ActivityThread.java:4190)
+05-01 20:21:09.306  6671  6671 E AndroidRuntime: 	... 9 more
+05-01 20:21:09.496  7104  7104 W System.err: java.io.FileNotFoundException: /jacoco.exec (Read-only file system)
+05-01 20:21:09.496  7104  7104 W System.err: 	at java.io.FileOutputStream.open(Native Method)
+05-01 20:21:09.496  7104  7104 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+05-01 20:21:09.496  7104  7104 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.output.FileOutput.openFile(FileOutput.java:67)
+05-01 20:21:09.496  7104  7104 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.output.FileOutput.startup(FileOutput.java:49)
+05-01 20:21:09.496  7104  7104 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.Agent.startup(Agent.java:122)
+05-01 20:21:09.496  7104  7104 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.Agent.getInstance(Agent.java:50)
+05-01 20:21:09.496  7104  7104 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.Offline.<clinit>(Offline.java:31)
+05-01 20:21:09.496  7104  7104 W System.err: 	at org.jacoco.agent.rt.internal_8ff85ea.Offline.getProbes(Offline.java:51)
+05-01 20:21:09.496  7104  7104 W System.err: 	at com.ichi2.anki.AnkiDroidApp.$jacocoInit(AnkiDroidApp.java)
+05-01 20:21:09.496  7104  7104 W System.err: 	at com.ichi2.anki.AnkiDroidApp.<clinit>(AnkiDroidApp.java)
+05-01 20:21:09.496  7104  7104 W System.err: 	at java.lang.Class.newInstance(Native Method)
+05-01 20:21:09.496  7104  7104 W System.err: 	at android.app.Instrumentation.newApplication(Instrumentation.java:1007)
+05-01 20:21:09.496  7104  7104 W System.err: 	at android.app.Instrumentation.newApplication(Instrumentation.java:992)
+05-01 20:21:09.497  7104  7104 W System.err: 	at android.app.LoadedApk.makeApplication(LoadedApk.java:796)
+05-01 20:21:09.497  7104  7104 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:5377)
+05-01 20:21:09.497  7104  7104 W System.err: 	at android.app.ActivityThread.-wrap2(ActivityThread.java)
+05-01 20:21:09.497  7104  7104 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1545)
+05-01 20:21:09.497  7104  7104 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+05-01 20:21:09.497  7104  7104 W System.err: 	at android.os.Looper.loop(Looper.java:154)
+05-01 20:21:09.497  7104  7104 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+05-01 20:21:09.497  7104  7104 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+05-01 20:21:09.497  7104  7104 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+05-01 20:21:09.497  7104  7104 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)

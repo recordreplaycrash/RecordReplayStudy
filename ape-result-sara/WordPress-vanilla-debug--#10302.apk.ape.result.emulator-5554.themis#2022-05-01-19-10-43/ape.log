@@ -1,0 +1,1570 @@
+[APE] *** INFO *** InputMethod ID: com.android.inputmethod.latin/.LatinIME
+[APE] *** INFO *** InputMethod ID: com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService
+[APE] Power Manager says we are interactive
+[APE] >>>>>>>> SATA begin step [1][528513470154]
+[APE] *** INFO *** Explored 0 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[0@0]@g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Checking new state: g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 922 ms.
+[APE] *** INFO *** Create state g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[1@0]@g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[2@0]@g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[3@0]@g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] is blacklisted from refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-1.xml at step 1
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-1.png at step 1
+[APE] GSTG(g0): activities (1), states (1), edges (0), unvisited actions (7), visited actions (0)
+[APE] *** INFO *** -  0.00   1 org.wordpress.android.ui.accounts.LoginActivity[1,1][1][S=1]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      0  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     2 g0a1[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     3 g0a2[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     4 g0a3[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     5 g0a4[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     6 g0a5[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     7 g0a6[-1,0][0]@MODEL_BACKg0s0[1,1][1]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a4[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1676,1168,1772][LOG IN] by strategy EARLY_STAGE
+[APE] Last  state: null
+[APE] Last action: null
+[APE] Curr  state: null
+[APE] Curr action: null
+[APE] New   state: g0s0[1,1][1]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] New  action: g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE] >>>>>>>> SATA end step [1][529607692215]
+[APE] >>>>>>>> SATA begin step [2][530293517802]
+[APE] *** INFO *** Explored 0 app activities.
+[APE] *** INFO *** Used: 0 MB, Max: 512 MB, Available: 512 MB
+[APE] *** INFO *** Create state g0s0[1,1][1]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[4@0]@g0s0[1,1][1]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** State g0s0[1,1][1]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[1,1][1]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-2.xml at step 2
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-2.png at step 2
+[APE] === Adding edge...
+[APE]     Source: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Action: g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=52][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     Target: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Add target result: true
+[APE] GSTG(g0): activities (1), states (1), edges (1), unvisited actions (6), visited actions (1)
+[APE] *** INFO *** -  0.14   1 org.wordpress.android.ui.accounts.LoginActivity[1,2][2][S=1]
+[APE] GSTG is updated.
+[APE] GSTG state is NOT changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      1  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     2 g0a1[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     3 g0a2[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     4 g0a3[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     5 g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     6 g0a5[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     7 g0a6[-1,0][0]@MODEL_BACKg0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** > - B: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Never move from a cold state (g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) to a hot state (g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a2[-1,0][0]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][] by strategy EARLY_STAGE
+[APE] Last  state: null
+[APE] Last action: null
+[APE] Curr  state: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Curr action: g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE] New   state: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] New  action: g0a2[2,2][1]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][][S=0.000000][RN=1][0,0,1200,1640][]
+[APE] >>>>>>>> SATA end step [2][530345503102]
+[APE] >>>>>>>> SATA begin step [3][530988554908]
+[APE] *** INFO *** Explored 0 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@org.wordpress.android:id/login_google_button@
+[APE] *** INFO *** Patching child node: android.widget.TextView@@Log in w
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@org.wordpress.android:id/login_site_button@
+[APE] *** INFO *** Patching child node: android.widget.TextView@org.wordpress.android:id/login_site_button_text@Log in b
+[APE] *** INFO *** Create state g0s1[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8] for GUI tree GUITree[5@0]@g0s1[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s1[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-3.xml at step 3
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-3.png at step 3
+[APE] === Adding edge...
+[APE]     Source: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Action: g0a2[2,2][1]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     Target: g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE]     Add target result: true
+[APE] GSTG(g0): activities (1), states (2), edges (2), unvisited actions (13), visited actions (2)
+[APE] *** INFO *** -  0.13   2 org.wordpress.android.ui.accounts.LoginActivity[1,3][3][S=2]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      2  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a7[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#10557ba8]
+[APE]     2 g0a8[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     3 g0a9[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE]     4 g0a10[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     5 g0a11[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     6 g0a12[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][96,471,334,509][Log in w]
+[APE]     7 g0a13[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/login_site_button_text;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][96,551,541,589][Log in b]
+[APE]     8 g0a14[-1,0][0]@MODEL_BACKg0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** > - B: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Never move from a cold state (g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]) to a hot state (g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a12[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][96,471,334,509][Log in w] by strategy EARLY_STAGE
+[APE] Last  state: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Last action: g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE] Curr  state: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Curr action: g0a2[2,2][1]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][][S=0.000000][RN=1][0,0,1200,1640][]
+[APE] New   state: g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] New  action: g0a12[3,3][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][96,471,334,509][Log in w]
+[APE] >>>>>>>> SATA end step [3][531094480183]
+    // activityResuming(org.wordpress.android)
+[APE] >>>>>>>> SATA begin step [4][531523219019]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 0 MB, Max: 512 MB, Available: 512 MB
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@org.wordpress.android:id/login_google_button@
+[APE] *** INFO *** Patching child node: android.widget.TextView@@Log in w
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@org.wordpress.android:id/login_site_button@
+[APE] *** INFO *** Patching child node: android.widget.TextView@org.wordpress.android:id/login_site_button_text@Log in b
+[APE] *** INFO *** Create state g0s2[-1,0][0]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8] for GUI tree GUITree[6@0]@g0s2[-1,0][0]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s2[-1,0][0]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-4.xml at step 4
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-4.png at step 4
+[APE] === Adding edge...
+[APE]     Source: g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE]     Action: g0a12[3,3][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][96,471,334,509][Log in w]
+[APE]     Target: g0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]
+[APE]     Add target result: true
+[APE] GSTG(g0): activities (2), states (3), edges (3), unvisited actions (20), visited actions (3)
+[APE] *** INFO *** -  0.00   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][1][S=1]
+[APE] *** INFO *** -  0.20   2 org.wordpress.android.ui.accounts.LoginActivity[1,3][3][S=2]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      3  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a15[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     2 g0a16[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     3 g0a17[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE]     4 g0a18[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     5 g0a19[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     6 g0a20[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][96,471,334,509][Log in w]
+[APE]     7 g0a21[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/login_site_button_text;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][96,551,541,589][Log in b]
+[APE]     8 g0a22[-1,0][0]@MODEL_BACKg0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** > - B: g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** Never move from a cold activity (g0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8])(com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][1][S=1]) to a hot activity (g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8])(org.wordpress.android.ui.accounts.LoginActivity[1,3][3][S=2]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a17[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1004,1804,1180,1900][NEXT] by strategy EARLY_STAGE
+[APE] Last  state: g0s0[1,2][2]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Last action: g0a2[2,2][1]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][][S=0.000000][RN=1][0,0,1200,1640][]
+[APE] Curr  state: g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] Curr action: g0a12[3,3][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][96,471,334,509][Log in w]
+[APE] New   state: g0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]
+[APE] New  action: g0a17[4,4][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE] >>>>>>>> SATA end step [4][531613153677]
+[APE] >>>>>>>> SATA begin step [5][532017764549]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@org.wordpress.android:id/login_google_button@
+[APE] *** INFO *** Patching child node: android.widget.TextView@@Log in w
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@org.wordpress.android:id/login_site_button@
+[APE] *** INFO *** Patching child node: android.widget.TextView@org.wordpress.android:id/login_site_button_text@Log in b
+[APE] *** INFO *** Create state g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8] for GUI tree GUITree[7@0]@g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s1[3,3][1]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-5.xml at step 5
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-5.png at step 5
+[APE] === Adding edge...
+[APE]     Source: g0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]
+[APE]     Action: g0a17[4,4][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE]     Target: g0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE]     Add target result: true
+[APE] GSTG(g0): activities (2), states (3), edges (4), unvisited actions (19), visited actions (4)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][1][S=1]
+[APE] *** INFO *** -  0.20   2 org.wordpress.android.ui.accounts.LoginActivity[1,5][4][S=2]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      4  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      0  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a7[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     2 g0a8[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     3 g0a9[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE]     4 g0a10[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     5 g0a11[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     6 g0a12[3,3][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=32][T=500][][S=1.000000][RN=1][96,504,334,542][Log in w]
+[APE]     7 g0a13[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/login_site_button_text;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][96,584,541,622][Log in b]
+[APE]     8 g0a14[-1,0][0]@MODEL_BACKg0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** > - B: g0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** Move from A (g0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]) to B (g0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]).
+[APE] *** INFO *** Try to find a path (1/1) to a greedy state that we want to greedily visit in ABA.
+[APE]   1 (g0s1,g0a12,g0s2)
+[APE] *** INFO *** Move from A (g0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]) to B (g0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]).
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g0e2[4,4][1]@[H(1),M(0),T(0.000000)] g0s1 =[g0a12]=> g0s2
+[APE] *** INFO *** Move from A (g0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]) to B (g0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]) for ABA within 1 steps that start from action g0a12[3,3][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=32][T=500][][S=1.000000][RN=1][96,504,334,542][Log in w]
+[APE] *** INFO *** Select action g0a12[3,3][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=32][T=500][][S=1.000000][RN=1][96,504,334,542][Log in w] by strategy EARLY_STAGE
+[APE] Last  state: g0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] Last action: g0a12[3,5][2]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=32][T=500][][S=1.000000][RN=1][96,504,334,542][Log in w]
+[APE] Curr  state: g0s2[4,4][1]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]
+[APE] Curr action: g0a17[4,4][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE] New   state: g0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] New  action: g0a12[3,5][2]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=32][T=500][][S=1.000000][RN=1][96,504,334,542][Log in w]
+[APE] >>>>>>>> SATA end step [5][532104207247]
+    // activityResuming(org.wordpress.android)
+[APE] >>>>>>>> SATA begin step [6][532808501658]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@org.wordpress.android:id/login_google_button@
+[APE] *** INFO *** Patching child node: android.widget.TextView@@Log in w
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@org.wordpress.android:id/login_site_button@
+[APE] *** INFO *** Patching child node: android.widget.TextView@org.wordpress.android:id/login_site_button_text@Log in b
+[APE] *** INFO *** Create state g0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8] for GUI tree GUITree[8@0]@g0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s1[3,5][2]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-6.xml at step 6
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-6.png at step 6
+[APE] === Adding edge...
+[APE]     Source: g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE]     Action: g0a12[3,5][2]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=32][T=500][][S=1.000000][RN=1][96,504,334,542][Log in w]
+[APE]     Target: g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE]     Add target result: true
+[APE] GSTG(g0): activities (2), states (3), edges (5), unvisited actions (19), visited actions (4)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][1][S=1]
+[APE] *** INFO *** -  0.20   2 org.wordpress.android.ui.accounts.LoginActivity[1,6][5][S=2]
+[APE] GSTG is updated.
+[APE] GSTG state is NOT changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] === Try to resolve the non-determinism!!
+[APE] *** INFO *** Find the non-deterministic edge
+[APE] *** INFO *** st1: g0e2[4,4][1]@[H(1),M(0),T(0.000000)] g0s1 =[g0a12]=> g0s2
+[APE] *** INFO *** st2: g0e4[6,6][1]@[H(1),M(0),T(0.000000)] g0s1 =[g0a12]=> g0s1
+[APE] ##################################
+[APE] ----------------------------------
+[APE]   0 = class=android.widget.ImageButton;enabled=true;clickable=true;
+[APE]   1 = class=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;
+[APE]   2 = class=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;
+[APE]   3 = class=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;
+[APE]   4 = class=android.widget.TextView;enabled=true;clickable=true;
+[APE]   5 = class=android.widget.TextView;resource-id=org.wordpress.android:id/login_site_button_text;enabled=true;clickable=true;
+[APE] ----------------------------------
+[APE] ##################################
+[APE] *** INFO *** Try action refinement, where source states are not necessarily to be the same.
+[APE] *** INFO *** Action is not shared. No action refinement.
+[APE] *** INFO *** Action refinement has 0 results.
+[APE] *** INFO *** Try state refinement.
+[APE] *** INFO *** Rebuild document for tree #3
+[APE] *** INFO *** Rebuild document for tree #5
+[APE] *** INFO *** State refinement has 1 results.
+[APE] *** INFO *** Refinement takes 306 ms.
+[APE] *** INFO *** Find 1 new naming
+[APE] [0] Updating naming: from Naming[0] to Naming[65], [0] <-> [0].
+[APE] ==================== Old =========================
+[APE] this:Naming[0], parent:null.
+[APE]   0. [000][BASE] //*[@clickable='true' or @long-clickable='true' or @checkable='true' or @scrollable='true'] -> ActionPatchNamer[TypeNamer[type,resource-id]]
+[APE]   1. [000][BASE] //*[@clickable='false' and @long-clickable='false' and @checkable='false' and @scrollable='false'] -> ActionPatchNamer[EmptyNamer]
+[APE] --------------------------------------------------
+[APE] this:Naming[65], parent:Naming[0].
+[APE]   0. [000][BASE] //*[@clickable='true' or @long-clickable='true' or @checkable='true' or @scrollable='true'] -> ActionPatchNamer[TypeNamer[type,resource-id]]
+[APE]   1. [000][BASE] //*[@clickable='false' and @long-clickable='false' and @checkable='false' and @scrollable='false'] -> ActionPatchNamer[EmptyNamer]
+[APE]   2. [001][REFINE] //*[@class="android.widget.ImageButton"][@resource-id=""][@enabled='true'][@clickable='true'][@checkable='false'][@long-clickable='false'][@scrollable='false'] -> ActionPatchNamer[CompoundNamer[TypeNamer[type,resource-id],TextNamer[text,content-desc]]]
+[APE] ==================== New =========================
+[APE] *** INFO *** Find a new naming that can resolve the non-deterministic transition.
+[APE] *** INFO *** Update naming for GUITree[5@3]@g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: existing in dict: Naming[0], current in tree: Naming[0], check in graph: Naming[0], new: Naming[65]
+[APE] *** INFO *** getNaming for tree GUITree[5@3]@g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: Source: Naming[0], Target: null, State: org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7]
+[APE] *** INFO *** updateNaming: Add - Source: Naming[0], Target: Naming[65], State: org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7]
+[APE] *** INFO *** Update naming for GUITree[7@5]@g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: existing in dict: Naming[0], current in tree: Naming[0], check in graph: Naming[65], new: Naming[65]
+[APE] *** INFO *** getNaming for tree GUITree[7@5]@g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: Source: Naming[0], Target: Naming[65], State: org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7]
+[APE] *** INFO *** getNaming for tree GUITree[7@5]@g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: Source: Naming[65], Target: null, State: org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7]
+[APE] *** INFO *** Update naming for GUITree[8@6]@g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: existing in dict: Naming[0], current in tree: Naming[0], check in graph: Naming[65], new: Naming[65]
+[APE] *** INFO *** getNaming for tree GUITree[8@6]@g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: Source: Naming[0], Target: Naming[65], State: org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7]
+[APE] *** INFO *** getNaming for tree GUITree[8@6]@g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]: Source: Naming[65], Target: null, State: org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7]
+[APE] *** INFO *** Start rebuilding model... 
+[APE] *** INFO *** > Removing state g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** > Removing (1) old states and (4) transitions finished in 0 ms.
+[APE] *** INFO *** >> state: g0s1[3,6][3]org.wordpress.android.ui.accounts.LoginActivity@-1530891689@Naming[0]@[W=7][A=8]
+[APE] *** INFO *** >> transition: (g0s0,g0a2,g0s1)
+[APE] *** INFO *** >> transition: (g0s1,g0a12,g0s1)
+[APE] *** INFO *** >> transition: (g0s1,g0a12,g0s2)
+[APE] *** INFO *** >> transition: (g0s2,g0a17,g0s1)
+[APE] *** INFO *** > rebuilding tree #3
+[APE] *** INFO *** Create state g1s2[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-2081438585@Naming[65]@[W=7][A=8] for GUI tree GUITree[5@3]@g1s2[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-2081438585@Naming[65]@[W=7][A=8]
+[APE] *** INFO *** > rebuilding tree #5
+[APE] *** INFO *** Create state g1s3[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8] for GUI tree GUITree[7@5]@g1s3[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] *** INFO *** > rebuilding tree #6
+[APE] *** INFO *** Create state g1s3[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8] for GUI tree GUITree[8@6]@g1s3[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] *** INFO *** > Readding transitions finished in 0 ms.
+[APE] *** INFO *** Rebuilding model finished in 1 ms, removed 1 states and 4 state transitions, and rebuild 4 tree transitions.
+[APE] *** INFO *** Eliminating non-deterministic transitions takes 312 ms.
+[APE] *** INFO *** Model has been refined, reset stateful..
+[APE] Update action buffer...
+[APE] Updating g0e2[4,4][1]@[H(1),M(0),T(0.000000)] g0s1 =[g0a12]=> g0s2
+[APE] Updated g1e2[3,3][2]@[H(1),M(0),T(0.000000)] g1s2 =[g1a27]=> g0s2
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      5  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      1  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a31[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     2 g1a32[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE]     3 g1a33[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     4 g1a34[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     5 g1a35[5,5][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][96,504,334,542][Log in w]
+[APE]     6 g1a36[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/login_site_button_text;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][96,584,541,622][Log in b]
+[APE]     7 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;text=#886ab61e;content-desc=Navigate up;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     8 g1a38[-1,0][0]@MODEL_BACKg1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Inconsistent actions in action buffer: expected g1a27[3,3][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=0][T=0][, INVALID], get g1a35[5,5][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][96,504,334,542][Log in w]
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] *** INFO *** > - B: g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] *** INFO *** Never move from a cold state (g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]) to a hot state (g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a34[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad] by strategy EARLY_STAGE
+[APE] Last  state: g0s2[4,4][2]com.google.android.gms.auth.api.signin.internal.SignInHubActivity@113147382@Naming[0]@[W=7][A=8]
+[APE] Last action: g0a17[4,4][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE] Curr  state: g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] Curr action: g1a35[5,5][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][96,504,334,542][Log in w]
+[APE] New   state: g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] New  action: g1a34[6,6][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE] >>>>>>>> SATA end step [6][533194284510]
+[APE] >>>>>>>> SATA begin step [7][534696920831]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 3 MB, Max: 512 MB, Available: 509 MB
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@org.wordpress.android:id/login_google_button@
+[APE] *** INFO *** Patching child node: android.widget.TextView@@Log in w
+[APE] *** INFO *** Patching this node: android.widget.LinearLayout@org.wordpress.android:id/login_site_button@
+[APE] *** INFO *** Patching child node: android.widget.TextView@org.wordpress.android:id/login_site_button_text@Log in b
+[APE] *** INFO *** Create state g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8] for GUI tree GUITree[9@0]@g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] *** INFO *** Check under-abstracted states g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]: #0
+[APE] *** INFO *** Check under-abstracted states collected 2 targets for naming Naming[65]. The state is g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 2, affected states: 2, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 2 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 2 <= threshold: 8 
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Check under-abstracted states g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]: #0
+[APE] *** INFO *** Check under-abstracted states collected 2 targets for naming Naming[65]. The state is g1s3[5,5][1]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]. #0
+[APE] *** INFO *** batchAbstract: refined targets: 2, affected states: 2, threshold: 8, affected threshold.
+[APE] *** INFO *** batchAbstract: refined targets: 2 <= threshold: 8 
+[APE] *** INFO *** batchAbstract: affected states: 2 <= threshold: 8 
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-7.xml at step 7
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-7.png at step 7
+[APE] === Adding edge...
+[APE]     Source: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE]     Action: g1a34[6,6][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=0][][S=1.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     Target: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (4), edges (6), unvisited actions (25), visited actions (6)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.22   3 org.wordpress.android.ui.accounts.LoginActivity[1,7][9][S=3]
+[APE] GSTG is updated.
+[APE] GSTG state is NOT changed.
+[APE] Graph Stable Counter: graph (0), state (1), activity (1)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      6  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      1  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a31[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     2 g1a32[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE]     3 g1a33[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     4 g1a34[6,6][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=26][T=0][][S=1.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     5 g1a35[5,5][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][96,504,334,542][Log in w]
+[APE]     6 g1a36[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/login_site_button_text;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][96,584,541,622][Log in b]
+[APE]     7 g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;text=#886ab61e;content-desc=Navigate up;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     8 g1a38[-1,0][0]@MODEL_BACKg1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] *** INFO *** > - B: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] *** INFO *** Never move from a cold state (g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]) to a hot state (g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a37[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;text=#886ab61e;content-desc=Navigate up;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e] by strategy EARLY_STAGE
+[APE] Last  state: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] Last action: g1a35[5,5][1]@MODEL_CLICKclass=android.widget.TextView;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][96,504,334,542][Log in w]
+[APE] Curr  state: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] Curr action: g1a34[6,6][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=26][T=0][][S=1.000000][RN=1][112,284,1168,364][Email ad]
+[APE] New   state: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] New  action: g1a37[7,7][1]@MODEL_CLICKclass=android.widget.ImageButton;text=#886ab61e;content-desc=Navigate up;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE] >>>>>>>> SATA end step [7][534771719772]
+[APE] >>>>>>>> SATA begin step [8][535186770476]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g0s0[1,2][3]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[10@0]@g0s0[1,2][3]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** State g0s0[1,2][3]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[1,2][3]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-8.xml at step 8
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-8.png at step 8
+[APE] === Adding edge...
+[APE]     Source: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE]     Action: g1a37[7,7][1]@MODEL_CLICKclass=android.widget.ImageButton;text=#886ab61e;content-desc=Navigate up;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     Target: g0s0[1,8][4]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (4), edges (7), unvisited actions (24), visited actions (7)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.26   3 org.wordpress.android.ui.accounts.LoginActivity[1,8][10][S=3]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (2)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      7  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      1  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     2 g0a1[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     3 g0a2[2,2][2]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=14][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     4 g0a3[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     5 g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     6 g0a5[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     7 g0a6[-1,0][0]@MODEL_BACKg0s0[1,8][4]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s0[1,8][4]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** > - B: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] *** INFO *** Move from A (g0s0[1,8][4]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) to B (g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]).
+[APE] *** INFO *** A cannot reach B.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a0[-1,0][0]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][] by strategy EARLY_STAGE
+[APE] Last  state: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] Last action: g1a34[6,6][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=26][T=0][][S=1.000000][RN=1][112,284,1168,364][Email ad]
+[APE] Curr  state: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] Curr action: g1a37[7,7][1]@MODEL_CLICKclass=android.widget.ImageButton;text=#886ab61e;content-desc=Navigate up;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE] New   state: g0s0[1,8][4]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] New  action: g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=200][][S=0.000000][RN=1][0,0,1200,1640][]
+[APE] >>>>>>>> SATA end step [8][535258419513]
+[APE] >>>>>>>> SATA begin step [9][535930044696]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g0s0[1,8][4]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[11@0]@g0s0[1,8][4]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** State g0s0[1,8][4]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[1,8][4]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-9.xml at step 9
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-9.png at step 9
+[APE] === Adding edge...
+[APE]     Source: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Action: g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=44][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     Target: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (4), edges (8), unvisited actions (23), visited actions (8)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.30   3 org.wordpress.android.ui.accounts.LoginActivity[1,9][11][S=3]
+[APE] GSTG is updated.
+[APE] GSTG state is NOT changed.
+[APE] Graph Stable Counter: graph (0), state (1), activity (3)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      8  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      1  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=34][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     2 g0a1[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     3 g0a2[2,2][2]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=14][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     4 g0a3[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     5 g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     6 g0a5[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     7 g0a6[-1,0][0]@MODEL_BACKg0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** > - B: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Never move from a cold state (g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) to a hot state (g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a5[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1788,1168,1884][SIGN UP ] by strategy EARLY_STAGE
+[APE] Last  state: g1s3[5,7][2]org.wordpress.android.ui.accounts.LoginActivity@-1704468455@Naming[65]@[W=7][A=8]
+[APE] Last action: g1a37[7,7][1]@MODEL_CLICKclass=android.widget.ImageButton;text=#886ab61e;content-desc=Navigate up;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE] Curr  state: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Curr action: g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=34][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE] New   state: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] New  action: g0a5[9,9][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] >>>>>>>> SATA end step [9][536019145943]
+[APE] >>>>>>>> SATA begin step [10][536442098601]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] for GUI tree GUITree[12@0]@g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** Checking new state: g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 661 ms.
+[APE] *** INFO *** Create state g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] for GUI tree GUITree[13@0]@g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 64 ms.
+[APE] *** INFO *** Create state g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] for GUI tree GUITree[14@0]@g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 46 ms.
+[APE] *** INFO *** Create state g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] for GUI tree GUITree[15@0]@g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] is blacklisted from refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-10.xml at step 10
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-10.png at step 10
+[APE] === Adding edge...
+[APE]     Source: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Action: g0a5[9,9][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     Target: g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (5), edges (9), unvisited actions (26), visited actions (9)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.30   4 org.wordpress.android.ui.accounts.LoginActivity[1,10][12][S=4]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (4)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]      9  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      1  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a39[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_tos;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1503,1168,1600][By signi]
+[APE]     2 g1a40[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE]     3 g1a41[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_google;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1716,1168,1812][SIGN UP ]
+[APE]     4 g1a42[-1,0][0]@MODEL_BACKg1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** > - B: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Never move from a cold state (g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]) to a hot state (g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a40[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1604,1168,1700][SIGN UP ] by strategy EARLY_STAGE
+[APE] Last  state: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Last action: g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=34][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE] Curr  state: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Curr action: g0a5[9,9][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] New   state: g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] New  action: g1a40[10,10][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE] >>>>>>>> SATA end step [10][537447609161]
+[APE] >>>>>>>> SATA begin step [11][537873497685]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6] for GUI tree GUITree[16@0]@g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Checking new state: g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 724 ms.
+[APE] *** INFO *** Create state g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6] for GUI tree GUITree[17@0]@g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Checking trivial new state: NOT top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6], iteration: #3
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6] for GUI tree GUITree[18@0]@g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6] for GUI tree GUITree[19@0]@g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1 ms.
+[APE] *** INFO *** Create state g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6] for GUI tree GUITree[20@0]@g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6] is blacklisted from refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s5[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-11.xml at step 11
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-11.png at step 11
+[APE] === Adding edge...
+[APE]     Source: g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE]     Action: g1a40[10,10][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE]     Target: g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (6), edges (10), unvisited actions (31), visited actions (10)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.27   5 org.wordpress.android.ui.accounts.LoginActivity[1,11][13][S=5]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (5)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     10  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      1  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a43[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     2 g1a44[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     3 g1a45[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     4 g1a46[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     5 g1a47[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;clickable=true;[P=52][T=200][, DISABLED, UNVISITED][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE]     6 g1a48[-1,0][0]@MODEL_BACKg1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** - g1a46[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** > - B: g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** Never move from a cold state (g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]) to a hot state (g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a43[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e] by strategy EARLY_STAGE
+[APE] Last  state: g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Last action: g0a5[9,9][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] Curr  state: g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] Curr action: g1a40[10,10][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE] New   state: g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] New  action: g1a43[11,11][1]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE] >>>>>>>> SATA end step [11][538754061348]
+[APE] >>>>>>>> SATA begin step [12][539160165903]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[21@0]@g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** State g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[1,9][5]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-12.xml at step 12
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-12.png at step 12
+[APE] === Adding edge...
+[APE]     Source: g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE]     Action: g1a43[11,11][1]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     Target: g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (6), edges (11), unvisited actions (30), visited actions (11)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.30   5 org.wordpress.android.ui.accounts.LoginActivity[1,12][14][S=5]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (6)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     11  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      1  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=34][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     2 g0a1[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     3 g0a2[2,2][2]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=14][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     4 g0a3[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     5 g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     6 g0a5[9,9][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     7 g0a6[-1,0][0]@MODEL_BACKg0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** > - B: g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Move from A (g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) to B (g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]).
+[APE] *** INFO *** Try to find a path (1/1) to a greedy state that we want to greedily visit in ABA.
+[APE]   1 (g0s0,g0a5,g1s4)
+[APE]   2 (g1s4,g1a40,g1s5)
+[APE] *** INFO *** Move from A (g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) to B (g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]).
+[APE] *** INFO *** Never move from a cold state (g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]) to a hot state (g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]) in ABA.
+[APE] *** INFO *** Update B from g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6] to g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e8[14,14][1]@[H(1),M(0),T(0.000000)] g0s0 =[g0a5]=> g1s4
+[APE] *** INFO *** Move from A (g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) to B (g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]) for ABA within 1 steps that start from action g0a5[9,9][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] *** INFO *** Select action g0a5[9,9][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] Last action: g1a40[10,10][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE] Curr  state: g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] Curr action: g1a43[11,11][1]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE] New   state: g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] New  action: g0a5[9,12][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] >>>>>>>> SATA end step [12][539215958638]
+[APE] >>>>>>>> SATA begin step [13][539661439133]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] for GUI tree GUITree[22@0]@g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** State g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[10,10][1]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-13.xml at step 13
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-13.png at step 13
+[APE] === Adding edge...
+[APE]     Source: g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Action: g0a5[9,12][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     Target: g1s4[10,13][2]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE]     Add target result: false
+[APE] GSTG(g1): activities (2), states (6), edges (11), unvisited actions (30), visited actions (11)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.30   5 org.wordpress.android.ui.accounts.LoginActivity[1,13][15][S=5]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (1), state (0), activity (7)
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     12  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      2  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a39[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_tos;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1503,1168,1600][By signi]
+[APE]     2 g1a40[10,10][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE]     3 g1a41[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_google;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1716,1168,1812][SIGN UP ]
+[APE]     4 g1a42[-1,0][0]@MODEL_BACKg1s4[10,13][2]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[10,13][2]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** > - B: g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Never move from a cold state (g1s4[10,13][2]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]) to a hot state (g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a39[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_tos;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1503,1168,1600][By signi] by strategy EARLY_STAGE
+[APE] Last  state: g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] Last action: g1a43[11,11][1]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE] Curr  state: g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Curr action: g0a5[9,12][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] New   state: g1s4[10,13][2]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] New  action: g1a39[13,13][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_tos;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1503,1168,1600][By signi]
+[APE] >>>>>>>> SATA end step [13][539733461004]
+[APE] >>>>>>>> SATA begin step [14][540186610299]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s4[10,13][2]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] for GUI tree GUITree[23@0]@g1s4[10,13][2]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** State g1s4[10,13][2]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[10,13][2]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-14.xml at step 14
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-14.png at step 14
+[APE] === Adding edge...
+[APE]     Source: g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE]     Action: g1a39[13,13][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_tos;enabled=true;clickable=true;[P=52][T=0][][S=1.000000][RN=1][32,1503,1168,1600][By signi]
+[APE]     Target: g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (6), edges (12), unvisited actions (29), visited actions (12)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.33   5 org.wordpress.android.ui.accounts.LoginActivity[1,14][16][S=5]
+[APE] GSTG is updated.
+[APE] GSTG state is NOT changed.
+[APE] Graph Stable Counter: graph (0), state (1), activity (8)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     13  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      2  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a39[13,13][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_tos;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1503,1168,1600][By signi]
+[APE]     2 g1a40[10,10][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE]     3 g1a41[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_google;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1716,1168,1812][SIGN UP ]
+[APE]     4 g1a42[-1,0][0]@MODEL_BACKg1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** > - B: g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** Never move from a cold state (g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]) to a hot state (g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a41[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_google;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][32,1716,1168,1812][SIGN UP ] by strategy EARLY_STAGE
+[APE] Last  state: g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Last action: g0a5[9,12][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] Curr  state: g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] Curr action: g1a39[13,13][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_tos;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1503,1168,1600][By signi]
+[APE] New   state: g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] New  action: g1a41[14,14][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_google;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1716,1168,1812][SIGN UP ]
+[APE] >>>>>>>> SATA end step [14][540283609118]
+[APE] >>>>>>>> SATA begin step [15][540797501862]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1936008693@Naming[0]@[W=1][A=1] for GUI tree GUITree[24@0]@g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1936008693@Naming[0]@[W=1][A=1]
+[APE] *** INFO *** Checking new state: g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1936008693@Naming[0]@[W=1][A=1], iteration: #4
+    // activityResuming(org.wordpress.android)
+[APE] *** INFO *** getRootInActiveWindowSlow takes 1702 ms.
+[APE] *** INFO *** Create state g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[25@0]@g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** New (trivial) state is updated from g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@-1936008693@Naming[0]@[W=1][A=1] to g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7].
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[1,12][6]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-15.xml at step 15
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-15.png at step 15
+[APE] === Adding edge...
+[APE]     Source: g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE]     Action: g1a41[14,14][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_google;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1716,1168,1812][SIGN UP ]
+[APE]     Target: g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (6), edges (13), unvisited actions (28), visited actions (13)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.36   5 org.wordpress.android.ui.accounts.LoginActivity[1,15][17][S=5]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (9)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     14  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      2  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=34][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     2 g0a1[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     3 g0a2[2,2][2]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=14][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     4 g0a3[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     5 g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     6 g0a5[9,12][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     7 g0a6[-1,0][0]@MODEL_BACKg0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** > - B: g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** Move from A (g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) to B (g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]).
+[APE] *** INFO *** Try to find a path (1/1) to a greedy state that we want to greedily visit in ABA.
+[APE]   1 (g0s0,g0a5,g1s4)
+[APE] *** INFO *** Move from A (g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) to B (g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]).
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e8[14,17][2]@[H(2),M(0),T(0.000000)] g0s0 =[g0a5]=> g1s4
+[APE] *** INFO *** Move from A (g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) to B (g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]) for ABA within 1 steps that start from action g0a5[9,12][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] *** INFO *** Select action g0a5[9,12][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] Last action: g1a39[13,13][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_tos;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1503,1168,1600][By signi]
+[APE] Curr  state: g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] Curr action: g1a41[14,14][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_google;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][32,1716,1168,1812][SIGN UP ]
+[APE] New   state: g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] New  action: g0a5[9,15][3]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] >>>>>>>> SATA end step [15][542597426682]
+[APE] >>>>>>>> SATA begin step [16][543023339442]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] for GUI tree GUITree[26@0]@g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** State g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s4[10,14][3]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-16.xml at step 16
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-16.png at step 16
+[APE] === Adding edge...
+[APE]     Source: g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Action: g0a5[9,15][3]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     Target: g1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE]     Add target result: false
+[APE] GSTG(g1): activities (2), states (6), edges (13), unvisited actions (28), visited actions (13)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.36   5 org.wordpress.android.ui.accounts.LoginActivity[1,16][18][S=5]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (1), state (0), activity (10)
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     15  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      3  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a39[13,13][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_tos;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1503,1168,1600][By signi]
+[APE]     2 g1a40[10,10][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE]     3 g1a41[14,14][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_google;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1716,1168,1812][SIGN UP ]
+[APE]     4 g1a42[-1,0][0]@MODEL_BACKg1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** > - B: g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Never move from a cold state (g1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]) to a hot state (g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) in ABA.
+[APE] *** INFO *** Find a path (1/2) to a greedy state g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6].
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e9[15,15][1]@[H(1),M(0),T(0.000000)] g1s4 =[g1a40]=> g1s5
+[APE] *** INFO *** Select action g1a40[10,10][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1604,1168,1700][SIGN UP ] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] Last action: g1a41[14,14][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_google;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1716,1168,1812][SIGN UP ]
+[APE] Curr  state: g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Curr action: g0a5[9,15][3]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] New   state: g1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] New  action: g1a40[10,16][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE] >>>>>>>> SATA end step [16][543119800875]
+[APE] >>>>>>>> SATA begin step [17][543526775751]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6] for GUI tree GUITree[27@0]@g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** State g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s5[11,11][1]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-17.xml at step 17
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-17.png at step 17
+[APE] === Adding edge...
+[APE]     Source: g1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE]     Action: g1a40[10,16][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE]     Target: g1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE]     Add target result: false
+[APE] GSTG(g1): activities (2), states (6), edges (13), unvisited actions (28), visited actions (13)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.36   5 org.wordpress.android.ui.accounts.LoginActivity[1,17][19][S=5]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (2), state (0), activity (11)
+[APE] Sata Strategy: buffer size (1)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     16  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a43[11,11][1]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     2 g1a44[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     3 g1a45[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     4 g1a46[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     5 g1a47[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;clickable=true;[P=52][T=200][, DISABLED, UNVISITED][S=0.000000][RN=1][1004,1804,1180,1900][NEXT]
+[APE]     6 g1a48[-1,0][0]@MODEL_BACKg1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** - g1a46[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** > - B: g1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] *** INFO *** Never move from a cold state (g1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]) to a hot state (g1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a45[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Email ad] by strategy EARLY_STAGE
+[APE] Last  state: g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Last action: g0a5[9,15][3]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] Curr  state: g1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] Curr action: g1a40[10,16][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE] New   state: g1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] New  action: g1a45[17,17][1]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE] *** INFO *** Select [Signing ] 14/15 from string list
+[APE] >>>>>>>> SATA end step [17][543583213862]
+[APE] *** INFO *** Input text is Signing 
+[APE] >>>>>>>> SATA begin step [18][545417976148]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] for GUI tree GUITree[28@0]@g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Checking new state: g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6], iteration: #4
+[APE] *** INFO *** getRootInActiveWindowSlow takes 519 ms.
+[APE] *** INFO *** Create state g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] for GUI tree GUITree[29@0]@g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6], iteration: #1
+[APE] *** INFO *** getRootInActiveWindowSlow takes 4 ms.
+[APE] *** INFO *** Create state g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] for GUI tree GUITree[30@0]@g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** Checking new state: g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6], iteration: #0
+[APE] *** INFO *** getRootInActiveWindowSlow takes 3 ms.
+[APE] *** INFO *** Create state g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] for GUI tree GUITree[31@0]@g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Checking trivial new state: top naming equivalent.
+[APE] *** INFO *** State g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] is blacklisted from refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s6[-1,0][0]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-18.xml at step 18
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-18.png at step 18
+[APE] === Adding edge...
+[APE]     Source: g1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE]     Action: g1a45[17,17][1]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE]     Target: g1s6[18,18][1]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (7), edges (14), unvisited actions (33), visited actions (14)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.33   6 org.wordpress.android.ui.accounts.LoginActivity[1,18][20][S=6]
+[APE] GSTG is updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (12)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     17  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     2 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     3 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1004,1708,1180,1804][NEXT]
+[APE]     4 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Signing ]
+[APE]     5 g1a54[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Signing ]
+[APE]     6 g1a55[-1,0][0]@MODEL_BACKg1s6[18,18][1]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** - g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE] *** INFO *** - g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Signing ]
+[APE] *** INFO *** - g1a54[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Signing ]
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s6[18,18][1]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** > - B: g1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Never move from a cold state (g1s6[18,18][1]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]) to a hot state (g1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Select action g1a54[-1,0][0]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Signing ] by strategy EARLY_STAGE
+[APE] Last  state: g1s4[10,16][4]org.wordpress.android.ui.accounts.LoginActivity@272039363@Naming[0]@[W=4][A=4]
+[APE] Last action: g1a40[10,16][2]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/signup_email;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1604,1168,1700][SIGN UP ]
+[APE] Curr  state: g1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] Curr action: g1a45[17,17][1]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE] New   state: g1s6[18,18][1]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] New  action: g1a54[18,18][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=200][][S=0.000000][RN=1][112,284,1168,364][Signing ]
+[APE] *** INFO *** Select [LOG IN] 1/15 from string list
+[APE] >>>>>>>> SATA end step [18][546075757780]
+[APE] >>>>>>>> SATA begin step [19][547481913168]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s6[18,18][1]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] for GUI tree GUITree[32@0]@g1s6[18,18][1]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** State g1s6[18,18][1]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s6[18,18][1]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-19.xml at step 19
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-19.png at step 19
+[APE] === Adding edge...
+[APE]     Source: g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE]     Action: g1a54[18,18][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=36][T=0][][S=1.000000][RN=1][112,284,1168,364][Signing ]
+[APE]     Target: g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (7), edges (15), unvisited actions (32), visited actions (15)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.36   6 org.wordpress.android.ui.accounts.LoginActivity[1,19][21][S=6]
+[APE] GSTG is updated.
+[APE] GSTG state is NOT changed.
+[APE] Graph Stable Counter: graph (0), state (1), activity (13)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     18  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     2 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     3 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1004,1708,1180,1804][NEXT]
+[APE]     4 g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Signing ]
+[APE]     5 g1a54[18,18][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=26][T=0][][S=1.000000][RN=1][112,284,1168,364][Signing ]
+[APE]     6 g1a55[-1,0][0]@MODEL_BACKg1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** - g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE] *** INFO *** - g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Signing ]
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** > - B: g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Never move from a cold state (g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]) to a hot state (g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Select action g1a53[-1,0][0]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][112,284,1168,364][Signing ] by strategy EARLY_STAGE
+[APE] Last  state: g1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6]
+[APE] Last action: g1a45[17,17][1]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][112,284,1168,364][Email ad]
+[APE] Curr  state: g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] Curr action: g1a54[18,18][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=26][T=0][][S=1.000000][RN=1][112,284,1168,364][Signing ]
+[APE] New   state: g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] New  action: g1a53[19,19][1]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=200][][S=0.000000][RN=1][112,284,1168,364][Signing ]
+[APE] *** INFO *** Select [To creat] 13/15 from string list
+[APE] >>>>>>>> SATA end step [19][547525274274]
+[APE] *** INFO *** Input text is To creat
+[APE] >>>>>>>> SATA begin step [20][549033269446]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] for GUI tree GUITree[33@0]@g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** State g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s6[18,19][2]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-20.xml at step 20
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-20.png at step 20
+[APE] === Adding edge...
+[APE]     Source: g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE]     Action: g1a53[19,19][1]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=52][T=0][][S=1.000000][RN=1][112,284,1168,364][SigningT]
+[APE]     Target: g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (7), edges (16), unvisited actions (31), visited actions (16)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.38   6 org.wordpress.android.ui.accounts.LoginActivity[1,20][22][S=6]
+[APE] GSTG is updated.
+[APE] GSTG state is NOT changed.
+[APE] Graph Stable Counter: graph (0), state (2), activity (14)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     19  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     2 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     3 g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1004,1708,1180,1804][NEXT]
+[APE]     4 g1a53[19,19][1]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=42][T=0][][S=1.000000][RN=1][112,284,1168,364][SigningT]
+[APE]     5 g1a54[18,18][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=26][T=0][][S=1.000000][RN=1][112,284,1168,364][SigningT]
+[APE]     6 g1a55[-1,0][0]@MODEL_BACKg1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** - g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** > - B: g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Never move from a cold state (g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]) to a hot state (g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a52[-1,0][0]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1004,1708,1180,1804][NEXT] by strategy EARLY_STAGE
+[APE] Last  state: g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] Last action: g1a54[18,18][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=26][T=0][][S=1.000000][RN=1][112,284,1168,364][SigningT]
+[APE] Curr  state: g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] Curr action: g1a53[19,19][1]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=42][T=0][][S=1.000000][RN=1][112,284,1168,364][SigningT]
+[APE] New   state: g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] New  action: g1a52[20,20][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1004,1708,1180,1804][NEXT]
+[APE] >>>>>>>> SATA end step [20][549083325794]
+[APE] >>>>>>>> SATA begin step [21][549489919182]
+[APE] *** INFO *** Explored 1 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] for GUI tree GUITree[34@0]@g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** State g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g1s6[18,20][3]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-21.xml at step 21
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-21.png at step 21
+[APE] === Adding edge...
+[APE]     Source: g1s6[18,21][4]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE]     Action: g1a52[20,20][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=52][T=0][][S=1.000000][RN=1][1004,1708,1180,1804][NEXT]
+[APE]     Target: g1s6[18,21][4]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (7), edges (17), unvisited actions (30), visited actions (17)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.41   6 org.wordpress.android.ui.accounts.LoginActivity[1,21][23][S=6]
+[APE] GSTG is updated.
+[APE] GSTG state is NOT changed.
+[APE] Graph Stable Counter: graph (0), state (3), activity (15)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     20  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE]     2 g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE]     3 g1a52[20,20][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][1004,1708,1180,1804][NEXT]
+[APE]     4 g1a53[19,19][1]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=42][T=0][][S=1.000000][RN=1][112,284,1168,364][SigningT]
+[APE]     5 g1a54[18,18][1]@MODEL_LONG_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=26][T=0][][S=1.000000][RN=1][112,284,1168,364][SigningT]
+[APE]     6 g1a55[-1,0][0]@MODEL_BACKg1s6[18,21][4]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** - g1a50[-1,0][0]@MODEL_CLICKclass=android.widget.ImageButton;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][16,0,128,128][#886ab61e]
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g1s6[18,21][4]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** > - B: g1s6[18,21][4]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] *** INFO *** Never move from a cold state (g1s6[18,21][4]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]) to a hot state (g1s6[18,21][4]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g1a51[-1,0][0]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][, UNVISITED][S=0.000000][RN=1][1067,16,1184,112][HELP] by strategy EARLY_STAGE
+[APE] Last  state: g1s6[18,21][4]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] Last action: g1a53[19,19][1]@MODEL_CLICKclass=android.widget.EditText;resource-id=org.wordpress.android:id/input;enabled=true;clickable=true;long-clickable=true;[P=42][T=0][][S=1.000000][RN=1][112,284,1168,364][SigningT]
+[APE] Curr  state: g1s6[18,21][4]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] Curr action: g1a52[20,20][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/primary_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][1004,1708,1180,1804][NEXT]
+[APE] New   state: g1s6[18,21][4]org.wordpress.android.ui.accounts.LoginActivity@1740171381@Naming[0]@[W=5][A=6]
+[APE] New  action: g1a51[21,21][1]@MODEL_CLICKclass=android.widget.TextView;resource-id=org.wordpress.android:id/help;enabled=true;clickable=true;[P=52][T=200][][S=0.000000][RN=1][1067,16,1184,112][HELP]
+[APE] >>>>>>>> SATA end step [21][549539986666]
+[APE] // CRASH: org.wordpress.android (pid 5824) (elapsed nanos: 549581378107)
+[APE] // Short Msg: java.lang.NullPointerException
+[APE] // Long Msg: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String org.wordpress.android.fluxc.model.SiteModel.getMobileEditor()' on a null object reference
+[APE] // Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+[APE] // Build Changelist: 6695155
+[APE] // Build Time: 1595288234000
+[APE] // java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String org.wordpress.android.fluxc.model.SiteModel.getMobileEditor()' on a null object reference
+[APE] // 	at org.wordpress.android.util.SiteUtils.isBlockEditorDefaultForNewPost(SiteUtils.java:91)
+[APE] // 	at org.wordpress.android.ui.accounts.HelpActivity$Companion.createIntent(HelpActivity.kt:179)
+[APE] // 	at org.wordpress.android.ui.accounts.HelpActivity.createIntent(HelpActivity.kt)
+[APE] // 	at org.wordpress.android.ui.ActivityLauncher.viewHelpAndSupport(ActivityLauncher.java:632)
+[APE] // 	at org.wordpress.android.ui.accounts.LoginActivity.viewHelpAndSupport(LoginActivity.java:588)
+[APE] // 	at org.wordpress.android.ui.accounts.LoginActivity.helpSignupEmailScreen(LoginActivity.java:613)
+[APE] // 	at org.wordpress.android.login.SignupEmailFragment.onHelp(SignupEmailFragment.java:136)
+[APE] // 	at org.wordpress.android.login.LoginBaseFormFragment.onOptionsItemSelected(LoginBaseFormFragment.java:203)
+[APE] // 	at androidx.fragment.app.Fragment.performOptionsItemSelected(Fragment.java:2587)
+[APE] // 	at androidx.fragment.app.FragmentManagerImpl.dispatchOptionsItemSelected(FragmentManager.java:3368)
+[APE] // 	at androidx.fragment.app.FragmentController.dispatchOptionsItemSelected(FragmentController.java:356)
+[APE] // 	at androidx.fragment.app.FragmentActivity.onMenuItemSelected(FragmentActivity.java:442)
+[APE] // 	at androidx.appcompat.app.AppCompatActivity.onMenuItemSelected(AppCompatActivity.java:196)
+[APE] // 	at androidx.appcompat.view.WindowCallbackWrapper.onMenuItemSelected(WindowCallbackWrapper.java:109)
+[APE] // 	at androidx.appcompat.view.WindowCallbackWrapper.onMenuItemSelected(WindowCallbackWrapper.java:109)
+[APE] // 	at androidx.appcompat.app.ToolbarActionBar$2.onMenuItemClick(ToolbarActionBar.java:64)
+[APE] // 	at androidx.appcompat.widget.Toolbar$1.onMenuItemClick(Toolbar.java:204)
+[APE] // 	at androidx.appcompat.widget.ActionMenuView$MenuBuilderCallback.onMenuItemSelected(ActionMenuView.java:781)
+[APE] // 	at androidx.appcompat.view.menu.MenuBuilder.dispatchMenuItemSelected(MenuBuilder.java:840)
+[APE] // 	at androidx.appcompat.view.menu.MenuItemImpl.invoke(MenuItemImpl.java:158)
+[APE] // 	at androidx.appcompat.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:991)
+[APE] // 	at androidx.appcompat.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:981)
+[APE] // 	at androidx.appcompat.widget.ActionMenuView.invokeItem(ActionMenuView.java:625)
+[APE] // 	at androidx.appcompat.view.menu.ActionMenuItemView.onClick(ActionMenuItemView.java:151)
+[APE] // 	at android.view.View.performClick(View.java:5637)
+[APE] // 	at android.view.View$PerformClick.run(View.java:22429)
+[APE] // 	at android.os.Handler.handleCallback(Handler.java:751)
+[APE] // 	at android.os.Handler.dispatchMessage(Handler.java:95)
+[APE] // 	at android.os.Looper.loop(Looper.java:154)
+[APE] // 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+[APE] // 	at java.lang.reflect.Method.invoke(Native Method)
+[APE] // 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+[APE] // 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+[APE] // 
+[APE] *** INFO *** Appending crash [org.wordpress.android@1651450285044@java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String org.wordpress.android.fluxc.model.SiteModel.getMobileEditor()' on a null object reference] to action history [Thread[Binder:6129_2,5,main]]
+[APE] Encounter abort but we are in continuous mode.
+[APE] *** INFO *** Let's wait for activity loading...
+[APE] *** INFO *** Expected activity package [org.wordpress.android] is loaded...
+[APE] *** INFO *** App Activity org.wordpress.android.ui.WPLaunchActivity started.
+    // activityResuming(org.wordpress.android)
+    // activityResuming(org.wordpress.android)
+[APE] >>>>>>>> SATA begin step [22][552148512411]
+[APE] *** INFO *** Explored 4 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[35@0]@g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** State g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[1,15][7]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-22.xml at step 22
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-22.png at step 22
+[APE] *** INFO *** Entry state: g0s0[1,22][8]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] GSTG(g1): activities (2), states (7), edges (17), unvisited actions (29), visited actions (18)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.44   6 org.wordpress.android.ui.accounts.LoginActivity[1,22][24][S=6]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     21  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=34][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     2 g0a1[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     3 g0a2[2,2][2]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=14][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     4 g0a3[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     5 g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     6 g0a5[9,15][3]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     7 g0a6[-1,0][0]@MODEL_BACKg0s0[1,22][8]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=13][T=200][, UNVISITED]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a6[-1,0][0]@MODEL_BACKg0s0[1,22][8]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=13][T=200][, UNVISITED] by strategy EARLY_STAGE
+[APE] Last  state: null
+[APE] Last action: null
+[APE] Curr  state: null
+[APE] Curr action: null
+[APE] New   state: g0s0[1,22][8]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] New  action: g0a6[22,22][1]@MODEL_BACKg0s0[1,22][8]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=13][T=200][]
+[APE] >>>>>>>> SATA end step [22][552186785862]
+[APE] *** INFO *** Let's wait for activity loading...
+[APE] *** INFO *** Expected activity package [org.wordpress.android] is loaded...
+[APE] *** INFO *** App Activity org.wordpress.android.ui.WPLaunchActivity started.
+    // activityResuming(org.wordpress.android)
+    // activityResuming(org.wordpress.android)
+[APE] >>>>>>>> SATA begin step [23][554846429891]
+[APE] *** INFO *** Explored 4 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g0s0[1,22][8]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[36@0]@g0s0[1,22][8]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** State g0s0[1,22][8]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[1,22][8]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-23.xml at step 23
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-23.png at step 23
+[APE] *** INFO *** Entry state: g0s0[1,23][9]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] GSTG(g1): activities (2), states (7), edges (17), unvisited actions (28), visited actions (19)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.46   6 org.wordpress.android.ui.accounts.LoginActivity[1,23][25][S=6]
+[APE] GSTG is NOT updated.
+[APE] GSTG state is changed.
+[APE] Graph Stable Counter: graph (0), state (0), activity (0)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     22  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=34][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     2 g0a1[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     3 g0a2[2,2][2]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=14][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     4 g0a3[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     5 g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     6 g0a5[9,15][3]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     7 g0a6[22,22][1]@MODEL_BACKg0s0[1,23][9]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=8][T=0][]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a3[-1,0][0]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][] by strategy EARLY_STAGE
+[APE] Last  state: null
+[APE] Last action: null
+[APE] Curr  state: null
+[APE] Curr action: null
+[APE] New   state: g0s0[1,23][9]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] New  action: g0a3[23,23][1]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][][S=0.000000][RN=1][0,0,1200,1640][]
+[APE] >>>>>>>> SATA end step [23][554953297920]
+[APE] >>>>>>>> SATA begin step [24][555586409889]
+[APE] *** INFO *** Explored 4 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g0s0[1,23][9]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[37@0]@g0s0[1,23][9]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** State g0s0[1,23][9]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[1,23][9]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-24.xml at step 24
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-24.png at step 24
+[APE] === Adding edge...
+[APE]     Source: g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Action: g0a3[23,23][1]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     Target: g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (7), edges (18), unvisited actions (27), visited actions (20)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.49   6 org.wordpress.android.ui.accounts.LoginActivity[1,24][26][S=6]
+[APE] GSTG is updated.
+[APE] GSTG state is NOT changed.
+[APE] Graph Stable Counter: graph (0), state (1), activity (1)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     23  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=34][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     2 g0a1[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][]
+[APE]     3 g0a2[2,2][2]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=14][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     4 g0a3[23,23][1]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=26][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     5 g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     6 g0a5[9,15][3]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     7 g0a6[22,22][1]@MODEL_BACKg0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=8][T=0][]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** > - B: g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Never move to a saturated dialog state (g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) in ABA.
+[APE] *** INFO *** Find a greedy action in 0-step
+[APE] *** INFO *** Requesting disabling restart.
+[APE] *** INFO *** Select action g0a1[-1,0][0]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][, UNVISITED][S=0.000000][RN=1][0,0,1200,1640][] by strategy EARLY_STAGE
+[APE] Last  state: null
+[APE] Last action: null
+[APE] Curr  state: g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Curr action: g0a3[23,23][1]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=26][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE] New   state: g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] New  action: g0a1[24,24][1]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=200][][S=0.000000][RN=1][0,0,1200,1640][]
+[APE] >>>>>>>> SATA end step [24][555669342740]
+[APE] >>>>>>>> SATA begin step [25][556323884531]
+[APE] *** INFO *** Explored 4 app activities.
+[APE] *** INFO *** Used: 1 MB, Max: 512 MB, Available: 511 MB
+[APE] *** INFO *** Create state g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] for GUI tree GUITree[38@0]@g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** State g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7] is in blacklist for refresh check.
+[APE] *** INFO *** Pre-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Check over-abstracted states g0s0[1,24][10]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]: #0
+[APE] *** INFO *** Checking over-abstracted states takes 0 ms
+[APE] *** INFO *** Post-checking under-abstracted states takes 0 ms
+[APE] *** INFO *** Saving GUI tree to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-25.xml at step 25
+[APE] *** INFO *** Saving screen shot to /sdcard/sata-org.wordpress.android-ape-sata-running-minutes-360/step-25.png at step 25
+[APE] === Adding edge...
+[APE]     Source: g0s0[1,25][11]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Action: g0a1[24,24][1]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=36][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     Target: g0s0[1,25][11]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE]     Add target result: true
+[APE] GSTG(g1): activities (2), states (7), edges (19), unvisited actions (26), visited actions (21)
+[APE] *** INFO *** -  0.13   1 com.google.android.gms.auth.api.signin.internal.SignInHubActivity[4,4][2][S=1]
+[APE] *** INFO *** -  0.51   6 org.wordpress.android.ui.accounts.LoginActivity[1,25][27][S=6]
+[APE] GSTG is updated.
+[APE] GSTG state is NOT changed.
+[APE] Graph Stable Counter: graph (0), state (2), activity (2)
+[APE] Sata Strategy: buffer size (0)
+[APE]      0  TRIVIAL_ACTIVITY
+[APE]      0  SATURATED_STATE
+[APE]      0  USE_BUFFER
+[APE]     24  EARLY_STAGE
+[APE]      0  EPSILON_GREEDY
+[APE]      0  RANDOM
+[APE]      0  NULL
+[APE]      0  BUFFER_LOSS
+[APE]      4  FILL_BUFFER
+[APE]      0  BAD_STATE
+[APE]     1 g0a0[8,8][1]@MODEL_SCROLL_BOTTOM_UPclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=14][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     2 g0a1[24,24][1]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=6][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     3 g0a2[2,2][2]@MODEL_SCROLL_LEFT_RIGHTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=14][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     4 g0a3[23,23][1]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=6][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE]     5 g0a4[1,1][1]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/login_button;enabled=true;clickable=true;[P=22][T=0][][S=1.000000][RN=1][32,1676,1168,1772][LOG IN]
+[APE]     6 g0a5[9,15][3]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=0][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE]     7 g0a6[22,22][1]@MODEL_BACKg0s0[1,25][11]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7][P=8][T=0][]
+[APE] *** INFO *** Check global actions.
+[APE] *** INFO *** Check A*BA->B, try to move from A to B.
+[APE] *** INFO *** > - A: g0s0[1,25][11]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** > - B: g0s0[1,25][11]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] *** INFO *** Never move to a saturated dialog state (g0s0[1,25][11]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]) in ABA.
+[APE] *** INFO *** Find a path (1/1) to a greedy state g1s5[11,17][2]org.wordpress.android.ui.accounts.LoginActivity@417422562@Naming[0]@[W=5][A=6].
+[APE] *** INFO *** Fill buffer..
+[APE] *** INFO ***    0 g1e8[14,20][3]@[H(3),M(0),T(0.000000)] g0s0 =[g0a5]=> g1s4
+[APE] *** INFO ***    1 g1e9[15,21][2]@[H(2),M(0),T(0.000000)] g1s4 =[g1a40]=> g1s5
+[APE] *** INFO *** Select action g0a5[9,15][3]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ] by strategy EARLY_STAGE
+[APE] Last  state: g0s0[1,25][11]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Last action: g0a3[23,23][1]@MODEL_SCROLL_RIGHT_LEFTclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=6][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE] Curr  state: g0s0[1,25][11]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] Curr action: g0a1[24,24][1]@MODEL_SCROLL_TOP_DOWNclass=androidx.viewpager.widget.ViewPager;resource-id=org.wordpress.android:id/intros_pager;enabled=true;scrollable=true;[P=6][T=0][][S=1.000000][RN=1][0,0,1200,1640][]
+[APE] New   state: g0s0[1,25][11]org.wordpress.android.ui.accounts.LoginActivity@-21451209@Naming[0]@[W=4][A=7]
+[APE] New  action: g0a5[9,25][4]@MODEL_CLICKclass=android.widget.Button;resource-id=org.wordpress.android:id/create_site_button;enabled=true;clickable=true;[P=42][T=200][][S=1.000000][RN=1][32,1788,1168,1884][SIGN UP ]
+[APE] >>>>>>>> SATA end step [25][556416664232]
